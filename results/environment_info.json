@@ -1,0 +1,57 @@
+{
+  "os": {
+    "platform": "Windows-11-10.0.26300-SP0",
+    "system": "Windows",
+    "release": "11",
+    "version": "10.0.26300",
+    "architecture": "AMD64"
+  },
+  "python": {
+    "version": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+    "executable": "C:\\Python314\\python.exe",
+    "path": [
+      "E:\\Mlops\\scripts",
+      "C:\\Python314\\python314.zip",
+      "C:\\Python314\\DLLs",
+      "C:\\Python314\\Lib",
+      "C:\\Python314",
+      "C:\\Users\\Dell\\AppData\\Roaming\\Python\\Python314\\site-packages",
+      "C:\\Python314\\Lib\\site-packages"
+    ]
+  },
+  "cpu": {
+    "physical_cores": 5,
+    "logical_cores": 6,
+    "current_utilization_pct": 24.4
+  },
+  "ram": {
+    "total_gb": 7.69,
+    "available_gb": 0.83,
+    "used_gb": 6.86,
+    "percent_used": 89.2
+  },
+  "gpu": {
+    "available": false,
+    "device_name": null,
+    "vram_total_gb": null,
+    "vram_free_gb": null
+  },
+  "ollama": {
+    "installed": false,
+    "running": false,
+    "models": [],
+    "error": "timed out"
+  },
+  "packages": {
+    "pandas": "3.1.1",
+    "numpy": "2.5.2",
+    "scikit-learn": "not_installed",
+    "fastapi": "0.162.5",
+    "uvicorn": "0.54.0",
+    "streamlit": "1.67.0",
+    "plotly": "7.1.0",
+    "seaborn": "0.13.2",
+    "ollama": "installed",
+    "psutil": "7.2.2"
+  }
+}

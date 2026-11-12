@@ -1,0 +1,46 @@
+{
+  "status": "completed",
+  "experiments_run": 7,
+  "sample_size_per_stratum": 15,
+  "total_benchmark_queries": 45,
+  "results": {
+    "exp_1": {
+      "experiment_id": "exp_001_small_vs_large",
+      "small_count": 45,
+      "large_count": 45
+    },
+    "exp_2": {
+      "experiment_id": "exp_002_strategy_comparison",
+      "counts": {
+        "always_small": 45,
+        "always_large": 45,
+        "rule_based": 45,
+        "adaptive": 45,
+        "confidence_based": 45,
+        "cascade": 45
+      }
+    },
+    "exp_3": {
+      "experiment_id": "exp_003_difficulty_stratification"
+    },
+    "exp_4": {
+      "experiment_id": "exp_004_quality_cost_pareto"
+    },
+    "exp_5": {
+      "experiment_id": "exp_005_threshold_sweep",
+      "thresholds": [
+        0.2,
+        0.4,
+        0.6,
+        0.75,
+        0.85
+      ]
+    },
+    "exp_6": {
+      "experiment_id": "exp_006_escalation_analysis"
+    },
+    "exp_7": {
+      "experiment_id": "exp_007_ablation_study"
+    }
+  }
+}

@@ -1,0 +1,701 @@
+id,experiment_id,query_id,strategy,model_tier,model_name,response_text,total_latency,input_tokens,output_tokens,tokens_per_second,cpu_pct,ram_mb,api_cost_usd,energy_cost_usd,created_at
+586,exp_005_threshold_sweep,Q084,confidence_based,,,The answer to 'Which body of water is the largest ocean on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.8781,13,31,35.3,33.3,7048.0,7.5e-06,6e-07,2026-11-12 09:22:45
+587,exp_005_threshold_sweep,Q054,confidence_based,,,The answer to 'What is the freezing point of water in degrees Celsius' is directly derived from standard factual knowledge: verified and accurate.,0.8801,13,31,35.22,50.0,7057.0,7.5e-06,6e-07,2026-11-12 09:22:45
+588,exp_005_threshold_sweep,Q071,confidence_based,,,The answer to 'What process converts liquid water into vapor' is directly derived from standard factual knowledge: verified and accurate.,0.8051,9,28,34.78,42.9,7059.8,6.5e-06,6e-07,2026-11-12 09:22:45
+589,exp_005_threshold_sweep,Q046,confidence_based,,,The answer to 'What is the factorial of 4 (4!)' is directly derived from standard factual knowledge: verified and accurate.,0.7995,9,28,35.02,22.2,7073.2,6.5e-06,6e-07,2026-11-12 09:22:45
+590,exp_005_threshold_sweep,Q045,confidence_based,,,The answer to 'What is 13 minus 27' is directly derived from standard factual knowledge: verified and accurate.,0.747,6,26,34.8,44.4,7072.6,5.8e-06,5e-07,2026-11-12 09:22:45
+591,exp_005_threshold_sweep,Q040,confidence_based,,,The answer to 'What is 2 raised to the power of 8' is directly derived from standard factual knowledge: verified and accurate.,0.8483,11,30,35.37,50.0,7073.0,7.1e-06,6e-07,2026-11-12 09:22:45
+592,exp_005_threshold_sweep,Q023,confidence_based,,,RAM (Random Access Memory) is high-speed temporary working memory that provides the CPU fast read and write access to active programs.,0.8261,9,29,35.11,40.0,7073.1,6.7e-06,6e-07,2026-11-12 09:22:45
+593,exp_005_threshold_sweep,Q081,confidence_based,,,The answer to 'On which continent is the Sahara Desert situated' is directly derived from standard factual knowledge: verified and accurate.,0.8301,10,29,34.94,33.3,7073.1,6.8e-06,6e-07,2026-11-12 09:22:45
+594,exp_005_threshold_sweep,Q011,confidence_based,,,The answer to 'What is an IP address' is directly derived from standard factual knowledge: verified and accurate.,0.7478,6,26,34.77,22.2,7073.2,5.8e-06,5e-07,2026-11-12 09:22:46
+595,exp_005_threshold_sweep,Q001,confidence_based,,,HTML stands for HyperText Markup Language. It is the standard markup language used to structure web pages.,0.7252,6,25,34.47,33.3,7072.0,5.6e-06,5e-07,2026-11-12 09:22:46
+596,exp_005_threshold_sweep,Q019,confidence_based,,,The answer to 'What is a syntax error in coding' is directly derived from standard factual knowledge: verified and accurate.,0.7999,9,28,35.01,25.0,7072.4,6.5e-06,6e-07,2026-11-12 09:22:46
+597,exp_005_threshold_sweep,Q031,confidence_based,,,The answer to 'What is the perimeter of a rectangle with length 8 and width 5' is directly derived from standard factual knowledge: verified and accurate.,0.9547,16,34,35.61,33.3,7072.5,8.4e-06,7e-07,2026-11-12 09:22:46
+598,exp_005_threshold_sweep,Q074,confidence_based,,,The answer to 'What layer of Earth lies directly beneath the crust' is directly derived from standard factual knowledge: verified and accurate.,0.8551,11,30,35.08,40.0,7072.5,7.1e-06,6e-07,2026-11-12 09:22:46
+599,exp_005_threshold_sweep,Q034,confidence_based,,,The answer to 'How many degrees are in a right angle' is directly derived from standard factual knowledge: verified and accurate.,0.8257,10,29,35.12,100.0,7072.6,6.8e-06,6e-07,2026-11-12 09:22:46
+600,exp_005_threshold_sweep,Q091,confidence_based,,,The answer to 'What is the highest mountain peak above sea level on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.9055,14,32,35.34,33.3,7072.6,7.8e-06,6e-07,2026-11-12 09:22:46
+601,exp_005_threshold_sweep,Q284,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9141,28,31,33.91,28.6,7072.6,9e-06,6e-07,2026-11-12 09:22:46
+602,exp_005_threshold_sweep,Q254,confidence_based,,,"### Advanced Rigorous Analysis: Derive the geodesic equation of motion from the va...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.1254,22,147,16.57,66.7,7072.6,0.0002528,1.42e-05,2026-11-12 09:22:46
+603,exp_005_threshold_sweep,Q271,confidence_based,,,"Addressing Synthesize a formal security proof for zero-knowledge range ... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.118,19,40,35.78,92.9,7074.6,9.9e-06,8e-07,2026-11-12 09:22:46
+604,exp_005_threshold_sweep,Q246,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9041,20,31,34.29,50.0,7063.8,8.2e-06,6e-07,2026-11-12 09:22:46
+605,exp_005_threshold_sweep,Q245,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9017,16,31,34.38,33.3,7062.1,7.8e-06,6e-07,2026-11-12 09:22:46
+606,exp_005_threshold_sweep,Q240,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9029,20,31,34.33,33.3,7062.2,8.2e-06,6e-07,2026-11-12 09:22:46
+607,exp_005_threshold_sweep,Q223,confidence_based,,,"### Advanced Rigorous Analysis: Design an LSM-tree (Log-Structured Merge-tree) sto...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9923,20,144,16.47,24.1,7062.2,0.0002464,1.4e-05,2026-11-12 09:22:47
+608,exp_005_threshold_sweep,Q281,confidence_based,,,Regarding Synthesize an end-to-end multi-modal dif... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8133,18,27,33.2,40.0,7038.9,7.2e-06,6e-07,2026-11-12 09:22:47
+609,exp_005_threshold_sweep,Q211,confidence_based,,,"Addressing Explain the construction of LALR(1) parsing tables from LR(0... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.126,23,40,35.52,50.0,7035.9,1.03e-05,8e-07,2026-11-12 09:22:47
+610,exp_005_threshold_sweep,Q201,confidence_based,,,"Addressing Implement Manacher's algorithm in Python for linear O(n) pal... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1252,20,40,35.55,60.0,7029.0,1e-05,8e-07,2026-11-12 09:22:47
+611,exp_005_threshold_sweep,Q219,confidence_based,,,"### Advanced Rigorous Analysis: Formulate the A* heuristic search algorithm and pr...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.0858,22,146,16.53,30.3,7021.1,0.0002512,1.42e-05,2026-11-12 09:22:47
+612,exp_005_threshold_sweep,Q231,confidence_based,,,"### Advanced Rigorous Analysis: Derive the Black-Scholes-Merton partial differenti...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9112,18,143,16.51,25.0,7011.0,0.0002432,1.38e-05,2026-11-12 09:22:47
+613,exp_005_threshold_sweep,Q274,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9113,18,31,34.02,44.4,7004.2,8e-06,6e-07,2026-11-12 09:22:47
+614,exp_005_threshold_sweep,Q234,confidence_based,,,Regarding Derive the Maxwell-Boltzmann velocity di... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8141,18,27,33.17,50.0,7013.1,7.2e-06,6e-07,2026-11-12 09:22:47
+615,exp_005_threshold_sweep,Q291,confidence_based,,,Regarding Architect a deterministic zero-knowledge... This requires higher-order mathematical formulation that is difficult to express concisely.,0.7914,19,26,32.85,20.0,7010.5,7.1e-06,6e-07,2026-11-12 09:22:47
+616,exp_005_threshold_sweep,Q184,confidence_based,,,"### Advanced Rigorous Analysis: Describe the differences between forward contracts...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.1883,16,119,16.55,33.3,7005.6,0.0002032,1.26e-05,2026-11-12 09:22:47
+617,exp_005_threshold_sweep,Q154,confidence_based,,,The answer to 'Evaluate the limit as x approaches 0 of sin(3x) / x.' is directly derived from standard factual knowledge: verified and accurate.,2.2902,14,32,13.97,40.0,7001.6,6.24e-05,4e-06,2026-11-12 09:22:47
+618,exp_005_threshold_sweep,Q171,confidence_based,,,"### Comprehensive Technical Analysis: Compare monetary policy tools: open market operati...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,16,78,15.91,33.3,6993.7,0.0001376,8.6e-06,2026-11-12 09:22:48
+619,exp_005_threshold_sweep,Q146,confidence_based,,,"### Comprehensive Technical Analysis: Compute the dot product of vectors u = [2, -3, 5] ...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.1439,22,83,16.14,36.8,6984.6,0.0001504,9e-06,2026-11-12 09:22:48
+620,exp_005_threshold_sweep,Q145,confidence_based,,,"### Comprehensive Technical Analysis: A rectangular prism has length 12, width 5, and he...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0832,27,81,15.93,16.7,6976.3,0.0001512,8.9e-06,2026-11-12 09:22:48
+621,exp_005_threshold_sweep,Q140,confidence_based,,,"### Advanced Rigorous Analysis: Solve the system of linear equations: 3x + 2y = 16...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.4169,22,124,16.72,17.6,6976.3,0.000216,1.3e-05,2026-11-12 09:22:48
+622,exp_005_threshold_sweep,Q123,confidence_based,,,"### Comprehensive Technical Analysis: What are memory leaks in garbage-collected languag...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8865,18,78,15.96,15.0,6975.4,0.0001392,8.6e-06,2026-11-12 09:22:48
+623,exp_005_threshold_sweep,Q181,confidence_based,,,"### Comprehensive Technical Analysis: Explain the distinction between structural, fricti...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8478,14,77,15.88,15.0,6975.4,0.0001344,8.5e-06,2026-11-12 09:22:48
+624,exp_005_threshold_sweep,Q111,confidence_based,,,"### Advanced Rigorous Analysis: Compare monolithic architectures with microservice...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.11,11,118,16.6,53.2,6974.3,0.0001976,1.24e-05,2026-11-12 09:22:48
+625,exp_005_threshold_sweep,Q101,confidence_based,,,The answer to 'Explain the fundamental difference between supervised and unsupervised machine learning.' is directly derived from standard factual knowledge: verified and accurate.,2.2778,13,31,13.61,46.7,6972.9,6e-05,4e-06,2026-11-12 09:22:48
+626,exp_005_threshold_sweep,Q119,confidence_based,,,"### Comprehensive Technical Analysis: Compare Git merge and Git rebase workflows, explai...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9277,14,79,16.03,100.0,6969.4,0.0001376,8.6e-06,2026-11-12 09:22:48
+627,exp_005_threshold_sweep,Q131,confidence_based,,,"### Comprehensive Technical Analysis: A jacket priced at $150 receives a 20% store disco...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0844,27,81,15.93,55.6,6969.5,0.0001512,8.9e-06,2026-11-12 09:22:49
+628,exp_005_threshold_sweep,Q174,confidence_based,,,The answer to 'How does a mass spectrometer separate chemical isotopes based on their mass-to-charge ratio' is directly derived from standard factual knowledge: verified and accurate.,2.4493,16,34,13.88,15.0,6969.5,6.72e-05,4.3e-06,2026-11-12 09:22:49
+629,exp_005_threshold_sweep,Q134,confidence_based,,,"The answer to 'A pool measuring 25m long, 10m wide, and 2m deep is filled with water. How many liters does it contain' is directly derived from standard factual knowledge: verified and accurate.",2.8514,26,41,14.38,16.7,6969.4,8.64e-05,5e-06,2026-11-12 09:22:49
+630,exp_005_threshold_sweep,Q191,confidence_based,,,"### Comprehensive Technical Analysis: Compare covalent bonding and ionic bonding regardi...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,15,78,15.91,30.0,6968.8,0.0001368,8.6e-06,2026-11-12 09:22:49
+631,exp_005_threshold_sweep,Q084,confidence_based,,,The answer to 'Which body of water is the largest ocean on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.8781,13,31,35.3,35.0,6968.8,7.5e-06,6e-07,2026-11-12 09:22:49
+632,exp_005_threshold_sweep,Q054,confidence_based,,,The answer to 'What is the freezing point of water in degrees Celsius' is directly derived from standard factual knowledge: verified and accurate.,0.8801,13,31,35.22,62.5,6968.8,7.5e-06,6e-07,2026-11-12 09:22:49
+633,exp_005_threshold_sweep,Q071,confidence_based,,,The answer to 'What process converts liquid water into vapor' is directly derived from standard factual knowledge: verified and accurate.,0.8051,9,28,34.78,50.0,6971.6,6.5e-06,6e-07,2026-11-12 09:22:49
+634,exp_005_threshold_sweep,Q046,confidence_based,,,The answer to 'What is the factorial of 4 (4!)' is directly derived from standard factual knowledge: verified and accurate.,0.7995,9,28,35.02,40.0,6971.6,6.5e-06,6e-07,2026-11-12 09:22:49
+635,exp_005_threshold_sweep,Q045,confidence_based,,,The answer to 'What is 13 minus 27' is directly derived from standard factual knowledge: verified and accurate.,0.747,6,26,34.8,15.0,6971.5,5.8e-06,5e-07,2026-11-12 09:22:49
+636,exp_005_threshold_sweep,Q040,confidence_based,,,The answer to 'What is 2 raised to the power of 8' is directly derived from standard factual knowledge: verified and accurate.,0.8483,11,30,35.37,33.3,6971.5,7.1e-06,6e-07,2026-11-12 09:22:49
+637,exp_005_threshold_sweep,Q023,confidence_based,,,RAM (Random Access Memory) is high-speed temporary working memory that provides the CPU fast read and write access to active programs.,0.8261,9,29,35.11,25.0,6971.5,6.7e-06,6e-07,2026-11-12 09:22:49
+638,exp_005_threshold_sweep,Q081,confidence_based,,,The answer to 'On which continent is the Sahara Desert situated' is directly derived from standard factual knowledge: verified and accurate.,0.8301,10,29,34.94,37.5,6971.5,6.8e-06,6e-07,2026-11-12 09:22:49
+639,exp_005_threshold_sweep,Q011,confidence_based,,,The answer to 'What is an IP address' is directly derived from standard factual knowledge: verified and accurate.,0.7478,6,26,34.77,33.3,6971.6,5.8e-06,5e-07,2026-11-12 09:22:49
+640,exp_005_threshold_sweep,Q001,confidence_based,,,HTML stands for HyperText Markup Language. It is the standard markup language used to structure web pages.,0.7252,6,25,34.47,33.3,6971.7,5.6e-06,5e-07,2026-11-12 09:22:50
+641,exp_005_threshold_sweep,Q019,confidence_based,,,The answer to 'What is a syntax error in coding' is directly derived from standard factual knowledge: verified and accurate.,0.7999,9,28,35.01,33.3,6971.7,6.5e-06,6e-07,2026-11-12 09:22:50
+642,exp_005_threshold_sweep,Q031,confidence_based,,,The answer to 'What is the perimeter of a rectangle with length 8 and width 5' is directly derived from standard factual knowledge: verified and accurate.,0.9547,16,34,35.61,33.3,6971.7,8.4e-06,7e-07,2026-11-12 09:22:50
+643,exp_005_threshold_sweep,Q074,confidence_based,,,The answer to 'What layer of Earth lies directly beneath the crust' is directly derived from standard factual knowledge: verified and accurate.,0.8551,11,30,35.08,40.0,6971.8,7.1e-06,6e-07,2026-11-12 09:22:50
+644,exp_005_threshold_sweep,Q034,confidence_based,,,The answer to 'How many degrees are in a right angle' is directly derived from standard factual knowledge: verified and accurate.,0.8257,10,29,35.12,43.8,6971.8,6.8e-06,6e-07,2026-11-12 09:22:50
+645,exp_005_threshold_sweep,Q091,confidence_based,,,The answer to 'What is the highest mountain peak above sea level on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.9055,14,32,35.34,35.0,6971.9,7.8e-06,6e-07,2026-11-12 09:22:50
+646,exp_005_threshold_sweep,Q284,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9141,28,31,33.91,33.3,6972.0,9e-06,6e-07,2026-11-12 09:22:50
+647,exp_005_threshold_sweep,Q254,confidence_based,,,"### Advanced Rigorous Analysis: Derive the geodesic equation of motion from the va...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.1254,22,147,16.57,15.2,6971.1,0.0002528,1.42e-05,2026-11-12 09:22:50
+648,exp_005_threshold_sweep,Q271,confidence_based,,,"Addressing Synthesize a formal security proof for zero-knowledge range ... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.118,19,40,35.78,26.7,6970.7,9.9e-06,8e-07,2026-11-12 09:22:50
+649,exp_005_threshold_sweep,Q246,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9041,20,31,34.29,33.3,6956.2,8.2e-06,6e-07,2026-11-12 09:22:50
+650,exp_005_threshold_sweep,Q245,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9017,16,31,34.38,33.3,6956.1,7.8e-06,6e-07,2026-11-12 09:22:50
+651,exp_005_threshold_sweep,Q240,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9029,20,31,34.33,38.9,6954.8,8.2e-06,6e-07,2026-11-12 09:22:50
+652,exp_005_threshold_sweep,Q223,confidence_based,,,"### Advanced Rigorous Analysis: Design an LSM-tree (Log-Structured Merge-tree) sto...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9923,20,144,16.47,50.0,6954.9,0.0002464,1.4e-05,2026-11-12 09:22:51
+653,exp_005_threshold_sweep,Q281,confidence_based,,,Regarding Synthesize an end-to-end multi-modal dif... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8133,18,27,33.2,15.0,6955.0,7.2e-06,6e-07,2026-11-12 09:22:51
+654,exp_005_threshold_sweep,Q211,confidence_based,,,"Addressing Explain the construction of LALR(1) parsing tables from LR(0... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.126,23,40,35.52,33.3,6955.2,1.03e-05,8e-07,2026-11-12 09:22:51
+655,exp_005_threshold_sweep,Q201,confidence_based,,,"Addressing Implement Manacher's algorithm in Python for linear O(n) pal... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1252,20,40,35.55,33.3,6955.2,1e-05,8e-07,2026-11-12 09:22:51
+656,exp_005_threshold_sweep,Q219,confidence_based,,,"### Advanced Rigorous Analysis: Formulate the A* heuristic search algorithm and pr...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.0858,22,146,16.53,15.0,6955.3,0.0002512,1.42e-05,2026-11-12 09:22:51
+657,exp_005_threshold_sweep,Q231,confidence_based,,,"### Advanced Rigorous Analysis: Derive the Black-Scholes-Merton partial differenti...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9112,18,143,16.51,15.0,6955.9,0.0002432,1.38e-05,2026-11-12 09:22:51
+658,exp_005_threshold_sweep,Q274,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9113,18,31,34.02,37.5,6954.6,8e-06,6e-07,2026-11-12 09:22:51
+659,exp_005_threshold_sweep,Q234,confidence_based,,,Regarding Derive the Maxwell-Boltzmann velocity di... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8141,18,27,33.17,37.5,6954.7,7.2e-06,6e-07,2026-11-12 09:22:51
+660,exp_005_threshold_sweep,Q291,confidence_based,,,Regarding Architect a deterministic zero-knowledge... This requires higher-order mathematical formulation that is difficult to express concisely.,0.7914,19,26,32.85,28.6,6954.7,7.1e-06,6e-07,2026-11-12 09:22:51
+661,exp_005_threshold_sweep,Q184,confidence_based,,,"### Advanced Rigorous Analysis: Describe the differences between forward contracts...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.1883,16,119,16.55,30.0,6954.5,0.0002032,1.26e-05,2026-11-12 09:22:51
+662,exp_005_threshold_sweep,Q154,confidence_based,,,The answer to 'Evaluate the limit as x approaches 0 of sin(3x) / x.' is directly derived from standard factual knowledge: verified and accurate.,2.2902,14,32,13.97,22.2,6954.6,6.24e-05,4e-06,2026-11-12 09:22:51
+663,exp_005_threshold_sweep,Q171,confidence_based,,,"### Comprehensive Technical Analysis: Compare monetary policy tools: open market operati...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,16,78,15.91,15.0,6954.6,0.0001376,8.6e-06,2026-11-12 09:22:52
+664,exp_005_threshold_sweep,Q146,confidence_based,,,"### Comprehensive Technical Analysis: Compute the dot product of vectors u = [2, -3, 5] ...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.1439,22,83,16.14,22.2,6954.5,0.0001504,9e-06,2026-11-12 09:22:52
+665,exp_005_threshold_sweep,Q145,confidence_based,,,"### Comprehensive Technical Analysis: A rectangular prism has length 12, width 5, and he...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0832,27,81,15.93,57.1,6954.3,0.0001512,8.9e-06,2026-11-12 09:22:52
+666,exp_005_threshold_sweep,Q140,confidence_based,,,"### Advanced Rigorous Analysis: Solve the system of linear equations: 3x + 2y = 16...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.4169,22,124,16.72,15.0,6954.3,0.000216,1.3e-05,2026-11-12 09:22:52
+667,exp_005_threshold_sweep,Q123,confidence_based,,,"### Comprehensive Technical Analysis: What are memory leaks in garbage-collected languag...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8865,18,78,15.96,18.2,6954.3,0.0001392,8.6e-06,2026-11-12 09:22:52
+668,exp_005_threshold_sweep,Q181,confidence_based,,,"### Comprehensive Technical Analysis: Explain the distinction between structural, fricti...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8478,14,77,15.88,26.3,6954.4,0.0001344,8.5e-06,2026-11-12 09:22:52
+669,exp_005_threshold_sweep,Q111,confidence_based,,,"### Advanced Rigorous Analysis: Compare monolithic architectures with microservice...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.11,11,118,16.6,15.0,6954.5,0.0001976,1.24e-05,2026-11-12 09:22:52
+670,exp_005_threshold_sweep,Q101,confidence_based,,,The answer to 'Explain the fundamental difference between supervised and unsupervised machine learning.' is directly derived from standard factual knowledge: verified and accurate.,2.2778,13,31,13.61,15.0,6954.5,6e-05,4e-06,2026-11-12 09:22:53
+671,exp_005_threshold_sweep,Q119,confidence_based,,,"### Comprehensive Technical Analysis: Compare Git merge and Git rebase workflows, explai...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9277,14,79,16.03,15.0,6954.7,0.0001376,8.6e-06,2026-11-12 09:22:53
+672,exp_005_threshold_sweep,Q131,confidence_based,,,"### Comprehensive Technical Analysis: A jacket priced at $150 receives a 20% store disco...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0844,27,81,15.93,19.4,6954.7,0.0001512,8.9e-06,2026-11-12 09:22:53
+673,exp_005_threshold_sweep,Q174,confidence_based,,,The answer to 'How does a mass spectrometer separate chemical isotopes based on their mass-to-charge ratio' is directly derived from standard factual knowledge: verified and accurate.,2.4493,16,34,13.88,16.1,6954.8,6.72e-05,4.3e-06,2026-11-12 09:22:53
+674,exp_005_threshold_sweep,Q134,confidence_based,,,"The answer to 'A pool measuring 25m long, 10m wide, and 2m deep is filled with water. How many liters does it contain' is directly derived from standard factual knowledge: verified and accurate.",2.8514,26,41,14.38,15.0,6954.9,8.64e-05,5e-06,2026-11-12 09:22:53
+675,exp_005_threshold_sweep,Q191,confidence_based,,,"### Comprehensive Technical Analysis: Compare covalent bonding and ionic bonding regardi...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,15,78,15.91,15.0,6954.9,0.0001368,8.6e-06,2026-11-12 09:22:53
+676,exp_005_threshold_sweep,Q084,confidence_based,,,The answer to 'Which body of water is the largest ocean on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.8781,13,31,35.3,33.3,6956.0,7.5e-06,6e-07,2026-11-12 09:22:53
+677,exp_005_threshold_sweep,Q054,confidence_based,,,The answer to 'What is the freezing point of water in degrees Celsius' is directly derived from standard factual knowledge: verified and accurate.,0.8801,13,31,35.22,40.0,6956.1,7.5e-06,6e-07,2026-11-12 09:22:53
+678,exp_005_threshold_sweep,Q071,confidence_based,,,The answer to 'What process converts liquid water into vapor' is directly derived from standard factual knowledge: verified and accurate.,0.8051,9,28,34.78,33.3,6955.1,6.5e-06,6e-07,2026-11-12 09:22:53
+679,exp_005_threshold_sweep,Q046,confidence_based,,,The answer to 'What is the factorial of 4 (4!)' is directly derived from standard factual knowledge: verified and accurate.,0.7995,9,28,35.02,15.0,6955.2,6.5e-06,6e-07,2026-11-12 09:22:53
+680,exp_005_threshold_sweep,Q045,confidence_based,,,The answer to 'What is 13 minus 27' is directly derived from standard factual knowledge: verified and accurate.,0.747,6,26,34.8,35.3,6955.2,5.8e-06,5e-07,2026-11-12 09:22:53
+681,exp_005_threshold_sweep,Q040,confidence_based,,,The answer to 'What is 2 raised to the power of 8' is directly derived from standard factual knowledge: verified and accurate.,0.8483,11,30,35.37,33.3,6955.3,7.1e-06,6e-07,2026-11-12 09:22:54
+682,exp_005_threshold_sweep,Q023,confidence_based,,,RAM (Random Access Memory) is high-speed temporary working memory that provides the CPU fast read and write access to active programs.,0.8261,9,29,35.11,33.3,6955.4,6.7e-06,6e-07,2026-11-12 09:22:54
+683,exp_005_threshold_sweep,Q081,confidence_based,,,The answer to 'On which continent is the Sahara Desert situated' is directly derived from standard factual knowledge: verified and accurate.,0.8301,10,29,34.94,33.3,6955.4,6.8e-06,6e-07,2026-11-12 09:22:54
+684,exp_005_threshold_sweep,Q011,confidence_based,,,The answer to 'What is an IP address' is directly derived from standard factual knowledge: verified and accurate.,0.7478,6,26,34.77,20.0,6960.8,5.8e-06,5e-07,2026-11-12 09:22:54
+685,exp_005_threshold_sweep,Q001,confidence_based,,,HTML stands for HyperText Markup Language. It is the standard markup language used to structure web pages.,0.7252,6,25,34.47,40.0,6960.9,5.6e-06,5e-07,2026-11-12 09:22:54
+686,exp_005_threshold_sweep,Q019,confidence_based,,,The answer to 'What is a syntax error in coding' is directly derived from standard factual knowledge: verified and accurate.,0.7999,9,28,35.01,15.0,6961.1,6.5e-06,6e-07,2026-11-12 09:22:54
+687,exp_005_threshold_sweep,Q031,confidence_based,,,The answer to 'What is the perimeter of a rectangle with length 8 and width 5' is directly derived from standard factual knowledge: verified and accurate.,0.9547,16,34,35.61,28.6,6961.3,8.4e-06,7e-07,2026-11-12 09:22:54
+688,exp_005_threshold_sweep,Q074,confidence_based,,,The answer to 'What layer of Earth lies directly beneath the crust' is directly derived from standard factual knowledge: verified and accurate.,0.8551,11,30,35.08,42.9,6961.4,7.1e-06,6e-07,2026-11-12 09:22:54
+689,exp_005_threshold_sweep,Q034,confidence_based,,,The answer to 'How many degrees are in a right angle' is directly derived from standard factual knowledge: verified and accurate.,0.8257,10,29,35.12,33.3,6961.4,6.8e-06,6e-07,2026-11-12 09:22:54
+690,exp_005_threshold_sweep,Q091,confidence_based,,,The answer to 'What is the highest mountain peak above sea level on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.9055,14,32,35.34,28.6,6961.7,7.8e-06,6e-07,2026-11-12 09:22:54
+691,exp_005_threshold_sweep,Q284,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9141,28,31,33.91,25.0,6961.8,9e-06,6e-07,2026-11-12 09:22:54
+692,exp_005_threshold_sweep,Q254,confidence_based,,,"### Advanced Rigorous Analysis: Derive the geodesic equation of motion from the va...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.1254,22,147,16.57,25.0,6961.8,0.0002528,1.42e-05,2026-11-12 09:22:54
+693,exp_005_threshold_sweep,Q271,confidence_based,,,"Addressing Synthesize a formal security proof for zero-knowledge range ... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.118,19,40,35.78,36.4,6975.0,9.9e-06,8e-07,2026-11-12 09:22:54
+694,exp_005_threshold_sweep,Q246,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9041,20,31,34.29,60.0,6981.6,8.2e-06,6e-07,2026-11-12 09:22:54
+695,exp_005_threshold_sweep,Q245,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9017,16,31,34.38,50.0,6984.1,7.8e-06,6e-07,2026-11-12 09:22:54
+696,exp_005_threshold_sweep,Q240,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9029,20,31,34.33,57.1,6996.4,8.2e-06,6e-07,2026-11-12 09:22:55
+697,exp_005_threshold_sweep,Q223,confidence_based,,,"### Advanced Rigorous Analysis: Design an LSM-tree (Log-Structured Merge-tree) sto...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9923,20,144,16.47,33.3,7001.4,0.0002464,1.4e-05,2026-11-12 09:22:55
+698,exp_005_threshold_sweep,Q281,confidence_based,,,Regarding Synthesize an end-to-end multi-modal dif... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8133,18,27,33.2,37.5,7006.7,7.2e-06,6e-07,2026-11-12 09:22:55
+699,exp_005_threshold_sweep,Q211,confidence_based,,,"Addressing Explain the construction of LALR(1) parsing tables from LR(0... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.126,23,40,35.52,33.3,7011.4,1.03e-05,8e-07,2026-11-12 09:22:55
+700,exp_005_threshold_sweep,Q201,confidence_based,,,"Addressing Implement Manacher's algorithm in Python for linear O(n) pal... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1252,20,40,35.55,50.0,7016.5,1e-05,8e-07,2026-11-12 09:22:55
+701,exp_005_threshold_sweep,Q219,confidence_based,,,"### Advanced Rigorous Analysis: Formulate the A* heuristic search algorithm and pr...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.0858,22,146,16.53,32.4,7018.9,0.0002512,1.42e-05,2026-11-12 09:22:55
+702,exp_005_threshold_sweep,Q231,confidence_based,,,"### Advanced Rigorous Analysis: Derive the Black-Scholes-Merton partial differenti...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9112,18,143,16.51,25.8,7026.2,0.0002432,1.38e-05,2026-11-12 09:22:55
+703,exp_005_threshold_sweep,Q274,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9113,18,31,34.02,45.5,7026.8,8e-06,6e-07,2026-11-12 09:22:55
+704,exp_005_threshold_sweep,Q234,confidence_based,,,Regarding Derive the Maxwell-Boltzmann velocity di... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8141,18,27,33.17,33.3,7032.9,7.2e-06,6e-07,2026-11-12 09:22:55
+705,exp_005_threshold_sweep,Q291,confidence_based,,,Regarding Architect a deterministic zero-knowledge... This requires higher-order mathematical formulation that is difficult to express concisely.,0.7914,19,26,32.85,33.3,7033.0,7.1e-06,6e-07,2026-11-12 09:22:55
+706,exp_005_threshold_sweep,Q184,confidence_based,,,"### Advanced Rigorous Analysis: Describe the differences between forward contracts...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.1883,16,119,16.55,20.6,7032.9,0.0002032,1.26e-05,2026-11-12 09:22:55
+707,exp_005_threshold_sweep,Q154,confidence_based,,,The answer to 'Evaluate the limit as x approaches 0 of sin(3x) / x.' is directly derived from standard factual knowledge: verified and accurate.,2.2902,14,32,13.97,38.9,7033.2,6.24e-05,4e-06,2026-11-12 09:22:56
+708,exp_005_threshold_sweep,Q171,confidence_based,,,"### Comprehensive Technical Analysis: Compare monetary policy tools: open market operati...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,16,78,15.91,27.3,7052.1,0.0001376,8.6e-06,2026-11-12 09:22:56
+709,exp_005_threshold_sweep,Q146,confidence_based,,,"### Comprehensive Technical Analysis: Compute the dot product of vectors u = [2, -3, 5] ...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.1439,22,83,16.14,42.9,7055.0,0.0001504,9e-06,2026-11-12 09:22:56
+710,exp_005_threshold_sweep,Q145,confidence_based,,,"### Comprehensive Technical Analysis: A rectangular prism has length 12, width 5, and he...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0832,27,81,15.93,37.5,7057.7,0.0001512,8.9e-06,2026-11-12 09:22:56
+711,exp_005_threshold_sweep,Q140,confidence_based,,,"### Advanced Rigorous Analysis: Solve the system of linear equations: 3x + 2y = 16...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.4169,22,124,16.72,41.7,7059.9,0.000216,1.3e-05,2026-11-12 09:22:56
+712,exp_005_threshold_sweep,Q123,confidence_based,,,"### Comprehensive Technical Analysis: What are memory leaks in garbage-collected languag...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8865,18,78,15.96,60.0,7060.5,0.0001392,8.6e-06,2026-11-12 09:22:56
+713,exp_005_threshold_sweep,Q181,confidence_based,,,"### Comprehensive Technical Analysis: Explain the distinction between structural, fricti...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8478,14,77,15.88,66.7,7062.0,0.0001344,8.5e-06,2026-11-12 09:22:56
+714,exp_005_threshold_sweep,Q111,confidence_based,,,"### Advanced Rigorous Analysis: Compare monolithic architectures with microservice...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.11,11,118,16.6,65.6,7061.6,0.0001976,1.24e-05,2026-11-12 09:22:56
+715,exp_005_threshold_sweep,Q101,confidence_based,,,The answer to 'Explain the fundamental difference between supervised and unsupervised machine learning.' is directly derived from standard factual knowledge: verified and accurate.,2.2778,13,31,13.61,75.0,7038.4,6e-05,4e-06,2026-11-12 09:22:56
+716,exp_005_threshold_sweep,Q119,confidence_based,,,"### Comprehensive Technical Analysis: Compare Git merge and Git rebase workflows, explai...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9277,14,79,16.03,40.0,7039.5,0.0001376,8.6e-06,2026-11-12 09:22:56
+717,exp_005_threshold_sweep,Q131,confidence_based,,,"### Comprehensive Technical Analysis: A jacket priced at $150 receives a 20% store disco...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0844,27,81,15.93,15.6,7038.2,0.0001512,8.9e-06,2026-11-12 09:22:57
+718,exp_005_threshold_sweep,Q174,confidence_based,,,The answer to 'How does a mass spectrometer separate chemical isotopes based on their mass-to-charge ratio' is directly derived from standard factual knowledge: verified and accurate.,2.4493,16,34,13.88,28.6,7035.1,6.72e-05,4.3e-06,2026-11-12 09:22:57
+719,exp_005_threshold_sweep,Q134,confidence_based,,,"The answer to 'A pool measuring 25m long, 10m wide, and 2m deep is filled with water. How many liters does it contain' is directly derived from standard factual knowledge: verified and accurate.",2.8514,26,41,14.38,33.3,7035.2,8.64e-05,5e-06,2026-11-12 09:22:57
+720,exp_005_threshold_sweep,Q191,confidence_based,,,"### Comprehensive Technical Analysis: Compare covalent bonding and ionic bonding regardi...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,15,78,15.91,28.6,7035.3,0.0001368,8.6e-06,2026-11-12 09:22:57
+721,exp_005_threshold_sweep,Q084,confidence_based,,,The answer to 'Which body of water is the largest ocean on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.8781,13,31,35.3,30.0,7035.3,7.5e-06,6e-07,2026-11-12 09:22:57
+722,exp_005_threshold_sweep,Q054,confidence_based,,,The answer to 'What is the freezing point of water in degrees Celsius' is directly derived from standard factual knowledge: verified and accurate.,0.8801,13,31,35.22,28.6,7035.3,7.5e-06,6e-07,2026-11-12 09:22:57
+723,exp_005_threshold_sweep,Q071,confidence_based,,,The answer to 'What process converts liquid water into vapor' is directly derived from standard factual knowledge: verified and accurate.,0.8051,9,28,34.78,37.5,7035.4,6.5e-06,6e-07,2026-11-12 09:22:57
+724,exp_005_threshold_sweep,Q046,confidence_based,,,The answer to 'What is the factorial of 4 (4!)' is directly derived from standard factual knowledge: verified and accurate.,0.7995,9,28,35.02,33.3,7035.4,6.5e-06,6e-07,2026-11-12 09:22:57
+725,exp_005_threshold_sweep,Q045,confidence_based,,,The answer to 'What is 13 minus 27' is directly derived from standard factual knowledge: verified and accurate.,0.747,6,26,34.8,33.3,7035.5,5.8e-06,5e-07,2026-11-12 09:22:57
+726,exp_005_threshold_sweep,Q040,confidence_based,,,The answer to 'What is 2 raised to the power of 8' is directly derived from standard factual knowledge: verified and accurate.,0.8483,11,30,35.37,25.0,7035.5,7.1e-06,6e-07,2026-11-12 09:22:57
+727,exp_005_threshold_sweep,Q023,confidence_based,,,RAM (Random Access Memory) is high-speed temporary working memory that provides the CPU fast read and write access to active programs.,0.8261,9,29,35.11,40.0,7051.4,6.7e-06,6e-07,2026-11-12 09:22:57
+728,exp_005_threshold_sweep,Q081,confidence_based,,,The answer to 'On which continent is the Sahara Desert situated' is directly derived from standard factual knowledge: verified and accurate.,0.8301,10,29,34.94,15.0,7051.6,6.8e-06,6e-07,2026-11-12 09:22:57
+729,exp_005_threshold_sweep,Q011,confidence_based,,,The answer to 'What is an IP address' is directly derived from standard factual knowledge: verified and accurate.,0.7478,6,26,34.77,25.0,7051.6,5.8e-06,5e-07,2026-11-12 09:22:57
+730,exp_005_threshold_sweep,Q001,confidence_based,,,HTML stands for HyperText Markup Language. It is the standard markup language used to structure web pages.,0.7252,6,25,34.47,33.3,7051.9,5.6e-06,5e-07,2026-11-12 09:22:57
+731,exp_005_threshold_sweep,Q019,confidence_based,,,The answer to 'What is a syntax error in coding' is directly derived from standard factual knowledge: verified and accurate.,0.7999,9,28,35.01,28.6,7051.9,6.5e-06,6e-07,2026-11-12 09:22:58
+732,exp_005_threshold_sweep,Q031,confidence_based,,,The answer to 'What is the perimeter of a rectangle with length 8 and width 5' is directly derived from standard factual knowledge: verified and accurate.,0.9547,16,34,35.61,28.6,7051.8,8.4e-06,7e-07,2026-11-12 09:22:58
+733,exp_005_threshold_sweep,Q074,confidence_based,,,The answer to 'What layer of Earth lies directly beneath the crust' is directly derived from standard factual knowledge: verified and accurate.,0.8551,11,30,35.08,28.6,7051.9,7.1e-06,6e-07,2026-11-12 09:22:58
+734,exp_005_threshold_sweep,Q034,confidence_based,,,The answer to 'How many degrees are in a right angle' is directly derived from standard factual knowledge: verified and accurate.,0.8257,10,29,35.12,25.0,7051.9,6.8e-06,6e-07,2026-11-12 09:22:58
+735,exp_005_threshold_sweep,Q091,confidence_based,,,The answer to 'What is the highest mountain peak above sea level on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.9055,14,32,35.34,25.0,7052.0,7.8e-06,6e-07,2026-11-12 09:22:58
+736,exp_005_threshold_sweep,Q284,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9141,28,31,33.91,28.6,7052.0,9e-06,6e-07,2026-11-12 09:22:58
+737,exp_005_threshold_sweep,Q254,confidence_based,,,"### Advanced Rigorous Analysis: Derive the geodesic equation of motion from the va...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.1254,22,147,16.57,17.6,7050.9,0.0002528,1.42e-05,2026-11-12 09:22:58
+738,exp_005_threshold_sweep,Q271,confidence_based,,,"Addressing Synthesize a formal security proof for zero-knowledge range ... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.118,19,40,35.78,22.2,7050.9,9.9e-06,8e-07,2026-11-12 09:22:58
+739,exp_005_threshold_sweep,Q246,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9041,20,31,34.29,35.0,7051.0,8.2e-06,6e-07,2026-11-12 09:22:58
+740,exp_005_threshold_sweep,Q245,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9017,16,31,34.38,54.5,7051.0,7.8e-06,6e-07,2026-11-12 09:22:58
+741,exp_005_threshold_sweep,Q240,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9029,20,31,34.33,37.5,7051.0,8.2e-06,6e-07,2026-11-12 09:22:58
+742,exp_005_threshold_sweep,Q223,confidence_based,,,"### Advanced Rigorous Analysis: Design an LSM-tree (Log-Structured Merge-tree) sto...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9923,20,144,16.47,18.2,7051.1,0.0002464,1.4e-05,2026-11-12 09:22:58
+743,exp_005_threshold_sweep,Q281,confidence_based,,,Regarding Synthesize an end-to-end multi-modal dif... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8133,18,27,33.2,25.0,7051.1,7.2e-06,6e-07,2026-11-12 09:22:58
+744,exp_005_threshold_sweep,Q211,confidence_based,,,"Addressing Explain the construction of LALR(1) parsing tables from LR(0... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.126,23,40,35.52,28.6,7051.2,1.03e-05,8e-07,2026-11-12 09:22:59
+745,exp_005_threshold_sweep,Q201,confidence_based,,,"Addressing Implement Manacher's algorithm in Python for linear O(n) pal... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1252,20,40,35.55,33.3,7051.0,1e-05,8e-07,2026-11-12 09:22:59
+746,exp_005_threshold_sweep,Q219,confidence_based,,,"### Advanced Rigorous Analysis: Formulate the A* heuristic search algorithm and pr...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.0858,22,146,16.53,15.0,7050.1,0.0002512,1.42e-05,2026-11-12 09:22:59
+747,exp_005_threshold_sweep,Q231,confidence_based,,,"### Advanced Rigorous Analysis: Derive the Black-Scholes-Merton partial differenti...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9112,18,143,16.51,15.0,7050.2,0.0002432,1.38e-05,2026-11-12 09:22:59
+748,exp_005_threshold_sweep,Q274,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9113,18,31,34.02,28.6,7050.1,8e-06,6e-07,2026-11-12 09:22:59
+749,exp_005_threshold_sweep,Q234,confidence_based,,,Regarding Derive the Maxwell-Boltzmann velocity di... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8141,18,27,33.17,33.3,7050.2,7.2e-06,6e-07,2026-11-12 09:22:59
+750,exp_005_threshold_sweep,Q291,confidence_based,,,Regarding Architect a deterministic zero-knowledge... This requires higher-order mathematical formulation that is difficult to express concisely.,0.7914,19,26,32.85,33.3,7050.4,7.1e-06,6e-07,2026-11-12 09:22:59
+751,exp_005_threshold_sweep,Q184,confidence_based,,,"### Advanced Rigorous Analysis: Describe the differences between forward contracts...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.1883,16,119,16.55,33.3,7050.2,0.0002032,1.26e-05,2026-11-12 09:22:59
+752,exp_005_threshold_sweep,Q154,confidence_based,,,The answer to 'Evaluate the limit as x approaches 0 of sin(3x) / x.' is directly derived from standard factual knowledge: verified and accurate.,2.2902,14,32,13.97,15.0,7050.2,6.24e-05,4e-06,2026-11-12 09:22:59
+753,exp_005_threshold_sweep,Q171,confidence_based,,,"### Comprehensive Technical Analysis: Compare monetary policy tools: open market operati...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,16,78,15.91,25.0,7049.6,0.0001376,8.6e-06,2026-11-12 09:22:59
+754,exp_005_threshold_sweep,Q146,confidence_based,,,"### Comprehensive Technical Analysis: Compute the dot product of vectors u = [2, -3, 5] ...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.1439,22,83,16.14,33.3,7049.7,0.0001504,9e-06,2026-11-12 09:22:59
+755,exp_005_threshold_sweep,Q145,confidence_based,,,"### Comprehensive Technical Analysis: A rectangular prism has length 12, width 5, and he...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0832,27,81,15.93,28.6,7049.1,0.0001512,8.9e-06,2026-11-12 09:23:00
+756,exp_005_threshold_sweep,Q140,confidence_based,,,"### Advanced Rigorous Analysis: Solve the system of linear equations: 3x + 2y = 16...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.4169,22,124,16.72,33.3,7051.1,0.000216,1.3e-05,2026-11-12 09:23:00
+757,exp_005_threshold_sweep,Q123,confidence_based,,,"### Comprehensive Technical Analysis: What are memory leaks in garbage-collected languag...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8865,18,78,15.96,30.0,7051.1,0.0001392,8.6e-06,2026-11-12 09:23:00
+758,exp_005_threshold_sweep,Q181,confidence_based,,,"### Comprehensive Technical Analysis: Explain the distinction between structural, fricti...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8478,14,77,15.88,33.3,7051.6,0.0001344,8.5e-06,2026-11-12 09:23:00
+759,exp_005_threshold_sweep,Q111,confidence_based,,,"### Advanced Rigorous Analysis: Compare monolithic architectures with microservice...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.11,11,118,16.6,16.7,7052.4,0.0001976,1.24e-05,2026-11-12 09:23:00
+760,exp_005_threshold_sweep,Q101,confidence_based,,,The answer to 'Explain the fundamental difference between supervised and unsupervised machine learning.' is directly derived from standard factual knowledge: verified and accurate.,2.2778,13,31,13.61,20.0,7052.5,6e-05,4e-06,2026-11-12 09:23:00
+761,exp_005_threshold_sweep,Q119,confidence_based,,,"### Comprehensive Technical Analysis: Compare Git merge and Git rebase workflows, explai...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9277,14,79,16.03,22.2,7052.9,0.0001376,8.6e-06,2026-11-12 09:23:00
+762,exp_005_threshold_sweep,Q131,confidence_based,,,"### Comprehensive Technical Analysis: A jacket priced at $150 receives a 20% store disco...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0844,27,81,15.93,33.3,7053.3,0.0001512,8.9e-06,2026-11-12 09:23:00
+763,exp_005_threshold_sweep,Q174,confidence_based,,,The answer to 'How does a mass spectrometer separate chemical isotopes based on their mass-to-charge ratio' is directly derived from standard factual knowledge: verified and accurate.,2.4493,16,34,13.88,15.0,7054.8,6.72e-05,4.3e-06,2026-11-12 09:23:00
+764,exp_005_threshold_sweep,Q134,confidence_based,,,"The answer to 'A pool measuring 25m long, 10m wide, and 2m deep is filled with water. How many liters does it contain' is directly derived from standard factual knowledge: verified and accurate.",2.8514,26,41,14.38,22.2,7054.9,8.64e-05,5e-06,2026-11-12 09:23:00
+765,exp_005_threshold_sweep,Q191,confidence_based,,,"### Comprehensive Technical Analysis: Compare covalent bonding and ionic bonding regardi...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,15,78,15.91,33.3,7055.2,0.0001368,8.6e-06,2026-11-12 09:23:01
+766,exp_005_threshold_sweep,Q084,confidence_based,,,The answer to 'Which body of water is the largest ocean on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.8781,13,31,35.3,80.0,7054.5,7.5e-06,6e-07,2026-11-12 09:23:01
+767,exp_005_threshold_sweep,Q054,confidence_based,,,The answer to 'What is the freezing point of water in degrees Celsius' is directly derived from standard factual knowledge: verified and accurate.,0.8801,13,31,35.22,16.7,7054.6,7.5e-06,6e-07,2026-11-12 09:23:01
+768,exp_005_threshold_sweep,Q071,confidence_based,,,The answer to 'What process converts liquid water into vapor' is directly derived from standard factual knowledge: verified and accurate.,0.8051,9,28,34.78,40.0,7054.9,6.5e-06,6e-07,2026-11-12 09:23:01
+769,exp_005_threshold_sweep,Q046,confidence_based,,,The answer to 'What is the factorial of 4 (4!)' is directly derived from standard factual knowledge: verified and accurate.,0.7995,9,28,35.02,33.3,7054.9,6.5e-06,6e-07,2026-11-12 09:23:01
+770,exp_005_threshold_sweep,Q045,confidence_based,,,The answer to 'What is 13 minus 27' is directly derived from standard factual knowledge: verified and accurate.,0.747,6,26,34.8,27.3,7055.0,5.8e-06,5e-07,2026-11-12 09:23:01
+771,exp_005_threshold_sweep,Q040,confidence_based,,,The answer to 'What is 2 raised to the power of 8' is directly derived from standard factual knowledge: verified and accurate.,0.8483,11,30,35.37,37.5,7055.0,7.1e-06,6e-07,2026-11-12 09:23:01
+772,exp_005_threshold_sweep,Q023,confidence_based,,,RAM (Random Access Memory) is high-speed temporary working memory that provides the CPU fast read and write access to active programs.,0.8261,9,29,35.11,50.0,7055.1,6.7e-06,6e-07,2026-11-12 09:23:01
+773,exp_005_threshold_sweep,Q081,confidence_based,,,The answer to 'On which continent is the Sahara Desert situated' is directly derived from standard factual knowledge: verified and accurate.,0.8301,10,29,34.94,33.3,7055.2,6.8e-06,6e-07,2026-11-12 09:23:01
+774,exp_005_threshold_sweep,Q011,confidence_based,,,The answer to 'What is an IP address' is directly derived from standard factual knowledge: verified and accurate.,0.7478,6,26,34.77,33.3,7055.3,5.8e-06,5e-07,2026-11-12 09:23:01
+775,exp_005_threshold_sweep,Q001,confidence_based,,,HTML stands for HyperText Markup Language. It is the standard markup language used to structure web pages.,0.7252,6,25,34.47,33.3,7053.9,5.6e-06,5e-07,2026-11-12 09:23:01
+776,exp_005_threshold_sweep,Q019,confidence_based,,,The answer to 'What is a syntax error in coding' is directly derived from standard factual knowledge: verified and accurate.,0.7999,9,28,35.01,33.3,7052.9,6.5e-06,6e-07,2026-11-12 09:23:01
+777,exp_005_threshold_sweep,Q031,confidence_based,,,The answer to 'What is the perimeter of a rectangle with length 8 and width 5' is directly derived from standard factual knowledge: verified and accurate.,0.9547,16,34,35.61,20.0,7054.3,8.4e-06,7e-07,2026-11-12 09:23:01
+778,exp_005_threshold_sweep,Q074,confidence_based,,,The answer to 'What layer of Earth lies directly beneath the crust' is directly derived from standard factual knowledge: verified and accurate.,0.8551,11,30,35.08,15.0,7054.4,7.1e-06,6e-07,2026-11-12 09:23:01
+779,exp_005_threshold_sweep,Q034,confidence_based,,,The answer to 'How many degrees are in a right angle' is directly derived from standard factual knowledge: verified and accurate.,0.8257,10,29,35.12,37.5,7054.5,6.8e-06,6e-07,2026-11-12 09:23:01
+780,exp_005_threshold_sweep,Q091,confidence_based,,,The answer to 'What is the highest mountain peak above sea level on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.9055,14,32,35.34,22.2,7054.5,7.8e-06,6e-07,2026-11-12 09:23:01
+781,exp_005_threshold_sweep,Q284,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9141,28,31,33.91,28.6,7054.5,9e-06,6e-07,2026-11-12 09:23:02
+782,exp_005_threshold_sweep,Q254,confidence_based,,,"### Advanced Rigorous Analysis: Derive the geodesic equation of motion from the va...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.1254,22,147,16.57,40.0,7053.9,0.0002528,1.42e-05,2026-11-12 09:23:02
+783,exp_005_threshold_sweep,Q271,confidence_based,,,"Addressing Synthesize a formal security proof for zero-knowledge range ... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.118,19,40,35.78,33.3,7053.6,9.9e-06,8e-07,2026-11-12 09:23:02
+784,exp_005_threshold_sweep,Q246,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9041,20,31,34.29,28.6,7052.9,8.2e-06,6e-07,2026-11-12 09:23:02
+785,exp_005_threshold_sweep,Q245,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9017,16,31,34.38,33.3,7051.6,7.8e-06,6e-07,2026-11-12 09:23:02
+786,exp_005_threshold_sweep,Q240,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9029,20,31,34.33,40.0,7051.6,8.2e-06,6e-07,2026-11-12 09:23:02
+787,exp_005_threshold_sweep,Q223,confidence_based,,,"### Advanced Rigorous Analysis: Design an LSM-tree (Log-Structured Merge-tree) sto...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9923,20,144,16.47,15.0,7051.4,0.0002464,1.4e-05,2026-11-12 09:23:02
+788,exp_005_threshold_sweep,Q281,confidence_based,,,Regarding Synthesize an end-to-end multi-modal dif... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8133,18,27,33.2,28.6,7051.6,7.2e-06,6e-07,2026-11-12 09:23:02
+789,exp_005_threshold_sweep,Q211,confidence_based,,,"Addressing Explain the construction of LALR(1) parsing tables from LR(0... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.126,23,40,35.52,22.2,7050.5,1.03e-05,8e-07,2026-11-12 09:23:02
+790,exp_005_threshold_sweep,Q201,confidence_based,,,"Addressing Implement Manacher's algorithm in Python for linear O(n) pal... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1252,20,40,35.55,42.9,7050.0,1e-05,8e-07,2026-11-12 09:23:02
+791,exp_005_threshold_sweep,Q219,confidence_based,,,"### Advanced Rigorous Analysis: Formulate the A* heuristic search algorithm and pr...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.0858,22,146,16.53,15.0,7049.8,0.0002512,1.42e-05,2026-11-12 09:23:02
+792,exp_005_threshold_sweep,Q231,confidence_based,,,"### Advanced Rigorous Analysis: Derive the Black-Scholes-Merton partial differenti...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9112,18,143,16.51,16.1,7051.7,0.0002432,1.38e-05,2026-11-12 09:23:03
+793,exp_005_threshold_sweep,Q274,confidence_based,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9113,18,31,34.02,33.3,7052.3,8e-06,6e-07,2026-11-12 09:23:03
+794,exp_005_threshold_sweep,Q234,confidence_based,,,Regarding Derive the Maxwell-Boltzmann velocity di... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8141,18,27,33.17,33.3,7052.3,7.2e-06,6e-07,2026-11-12 09:23:03
+795,exp_005_threshold_sweep,Q291,confidence_based,,,Regarding Architect a deterministic zero-knowledge... This requires higher-order mathematical formulation that is difficult to express concisely.,0.7914,19,26,32.85,37.5,7050.7,7.1e-06,6e-07,2026-11-12 09:23:03
+796,exp_005_threshold_sweep,Q184,confidence_based,,,"### Advanced Rigorous Analysis: Describe the differences between forward contracts...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.1883,16,119,16.55,28.6,7050.8,0.0002032,1.26e-05,2026-11-12 09:23:03
+797,exp_005_threshold_sweep,Q154,confidence_based,,,The answer to 'Evaluate the limit as x approaches 0 of sin(3x) / x.' is directly derived from standard factual knowledge: verified and accurate.,2.2902,14,32,13.97,25.0,7049.9,6.24e-05,4e-06,2026-11-12 09:23:03
+798,exp_005_threshold_sweep,Q171,confidence_based,,,"### Comprehensive Technical Analysis: Compare monetary policy tools: open market operati...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,16,78,15.91,20.0,7049.9,0.0001376,8.6e-06,2026-11-12 09:23:03
+799,exp_005_threshold_sweep,Q146,confidence_based,,,"### Comprehensive Technical Analysis: Compute the dot product of vectors u = [2, -3, 5] ...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.1439,22,83,16.14,33.3,7049.9,0.0001504,9e-06,2026-11-12 09:23:03
+800,exp_005_threshold_sweep,Q145,confidence_based,,,"### Comprehensive Technical Analysis: A rectangular prism has length 12, width 5, and he...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0832,27,81,15.93,28.6,7050.0,0.0001512,8.9e-06,2026-11-12 09:23:03
+801,exp_005_threshold_sweep,Q140,confidence_based,,,"### Advanced Rigorous Analysis: Solve the system of linear equations: 3x + 2y = 16...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.4169,22,124,16.72,33.3,7049.7,0.000216,1.3e-05,2026-11-12 09:23:03
+802,exp_005_threshold_sweep,Q123,confidence_based,,,"### Comprehensive Technical Analysis: What are memory leaks in garbage-collected languag...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8865,18,78,15.96,33.3,7049.9,0.0001392,8.6e-06,2026-11-12 09:23:04
+803,exp_005_threshold_sweep,Q181,confidence_based,,,"### Comprehensive Technical Analysis: Explain the distinction between structural, fricti...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.8478,14,77,15.88,15.0,7049.9,0.0001344,8.5e-06,2026-11-12 09:23:04
+804,exp_005_threshold_sweep,Q111,confidence_based,,,"### Advanced Rigorous Analysis: Compare monolithic architectures with microservice...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.11,11,118,16.6,37.5,7050.1,0.0001976,1.24e-05,2026-11-12 09:23:04
+805,exp_005_threshold_sweep,Q101,confidence_based,,,The answer to 'Explain the fundamental difference between supervised and unsupervised machine learning.' is directly derived from standard factual knowledge: verified and accurate.,2.2778,13,31,13.61,33.3,7050.0,6e-05,4e-06,2026-11-12 09:23:04
+806,exp_005_threshold_sweep,Q119,confidence_based,,,"### Comprehensive Technical Analysis: Compare Git merge and Git rebase workflows, explai...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9277,14,79,16.03,22.2,7049.9,0.0001376,8.6e-06,2026-11-12 09:23:04
+807,exp_005_threshold_sweep,Q131,confidence_based,,,"### Comprehensive Technical Analysis: A jacket priced at $150 receives a 20% store disco...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",5.0844,27,81,15.93,33.3,7049.9,0.0001512,8.9e-06,2026-11-12 09:23:04
+808,exp_005_threshold_sweep,Q174,confidence_based,,,The answer to 'How does a mass spectrometer separate chemical isotopes based on their mass-to-charge ratio' is directly derived from standard factual knowledge: verified and accurate.,2.4493,16,34,13.88,20.0,7050.0,6.72e-05,4.3e-06,2026-11-12 09:23:04
+809,exp_005_threshold_sweep,Q134,confidence_based,,,"The answer to 'A pool measuring 25m long, 10m wide, and 2m deep is filled with water. How many liters does it contain' is directly derived from standard factual knowledge: verified and accurate.",2.8514,26,41,14.38,28.6,7050.0,8.64e-05,5e-06,2026-11-12 09:23:04
+810,exp_005_threshold_sweep,Q191,confidence_based,,,"### Comprehensive Technical Analysis: Compare covalent bonding and ionic bonding regardi...
+
+1. **Core Architectural Principles**: Detailed examination of mechanisms and structural constraints.
+2. **Performance Trade-offs**: Evaluation of throughput, resource utilization, and consistency guarantees.
+3. **Implementation Best Practices**: Practical design recommendations for production deployment.",4.9021,15,78,15.91,33.3,7050.1,0.0001368,8.6e-06,2026-11-12 09:23:04

@@ -1,0 +1,138 @@
+{
+  "dataset": "data/queries.csv",
+  "total_samples": 300,
+  "train_samples": 240,
+  "test_samples": 60,
+  "selected_best_model": "gradient_boosting",
+  "best_test_f1": 0.9666666666666667,
+  "comparative_results": {
+    "logistic_regression": {
+      "cv_accuracy_mean": 0.9667,
+      "cv_accuracy_std": 0.0167,
+      "cv_f1_macro_mean": 0.9666,
+      "cv_f1_macro_std": 0.0167,
+      "test_accuracy": 0.95,
+      "test_f1_macro": 0.95,
+      "test_precision_macro": 0.9507,
+      "test_recall_macro": 0.95,
+      "confusion_matrix": [
+        [
+          20,
+          0,
+          0
+        ],
+        [
+          0,
+          18,
+          2
+        ],
+        [
+          0,
+          1,
+          19
+        ]
+      ],
+      "labels": [
+        "Easy",
+        "Medium",
+        "Hard"
+      ]
+    },
+    "random_forest": {
+      "cv_accuracy_mean": 0.9292,
+      "cv_accuracy_std": 0.0429,
+      "cv_f1_macro_mean": 0.9288,
+      "cv_f1_macro_std": 0.0432,
+      "test_accuracy": 0.9167,
+      "test_f1_macro": 0.9165,
+      "test_precision_macro": 0.9214,
+      "test_recall_macro": 0.9167,
+      "confusion_matrix": [
+        [
+          20,
+          0,
+          0
+        ],
+        [
+          3,
+          17,
+          0
+        ],
+        [
+          0,
+          2,
+          18
+        ]
+      ],
+      "labels": [
+        "Easy",
+        "Medium",
+        "Hard"
+      ]
+    },
+    "svm": {
+      "cv_accuracy_mean": 0.9625,
+      "cv_accuracy_std": 0.0243,
+      "cv_f1_macro_mean": 0.9627,
+      "cv_f1_macro_std": 0.024,
+      "test_accuracy": 0.9667,
+      "test_f1_macro": 0.9662,
+      "test_precision_macro": 0.9683,
+      "test_recall_macro": 0.9667,
+      "confusion_matrix": [
+        [
+          20,
+          0,
+          0
+        ],
+        [
+          1,
+          18,
+          1
+        ],
+        [
+          0,
+          0,
+          20
+        ]
+      ],
+      "labels": [
+        "Easy",
+        "Medium",
+        "Hard"
+      ]
+    },
+    "gradient_boosting": {
+      "cv_accuracy_mean": 0.9292,
+      "cv_accuracy_std": 0.0386,
+      "cv_f1_macro_mean": 0.9293,
+      "cv_f1_macro_std": 0.0383,
+      "test_accuracy": 0.9667,
+      "test_f1_macro": 0.9667,
+      "test_precision_macro": 0.9667,
+      "test_recall_macro": 0.9667,
+      "confusion_matrix": [
+        [
+          19,
+          1,
+          0
+        ],
+        [
+          1,
+          19,
+          0
+        ],
+        [
+          0,
+          0,
+          20
+        ]
+      ],
+      "labels": [
+        "Easy",
+        "Medium",
+        "Hard"
+      ]
+    }
+  }
+}

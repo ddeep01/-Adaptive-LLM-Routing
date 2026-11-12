@@ -1,0 +1,91 @@
+id,experiment_id,query_id,strategy,predicted_difficulty,difficulty_score,confidence,selected_tier,selected_model,routing_reason,escalated,escalation_reason,created_at
+361,exp_003_difficulty_stratification,Q084,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:23
+362,exp_003_difficulty_stratification,Q054,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+363,exp_003_difficulty_stratification,Q071,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+364,exp_003_difficulty_stratification,Q046,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+365,exp_003_difficulty_stratification,Q045,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+366,exp_003_difficulty_stratification,Q040,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+367,exp_003_difficulty_stratification,Q023,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+368,exp_003_difficulty_stratification,Q081,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+369,exp_003_difficulty_stratification,Q011,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+370,exp_003_difficulty_stratification,Q001,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+371,exp_003_difficulty_stratification,Q019,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+372,exp_003_difficulty_stratification,Q031,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+373,exp_003_difficulty_stratification,Q074,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+374,exp_003_difficulty_stratification,Q034,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+375,exp_003_difficulty_stratification,Q091,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:24
+376,exp_003_difficulty_stratification,Q284,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:24
+377,exp_003_difficulty_stratification,Q254,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:25
+378,exp_003_difficulty_stratification,Q271,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:25
+379,exp_003_difficulty_stratification,Q246,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:25
+380,exp_003_difficulty_stratification,Q245,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:25
+381,exp_003_difficulty_stratification,Q240,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:25
+382,exp_003_difficulty_stratification,Q223,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:25
+383,exp_003_difficulty_stratification,Q281,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:25
+384,exp_003_difficulty_stratification,Q211,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:25
+385,exp_003_difficulty_stratification,Q201,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:25
+386,exp_003_difficulty_stratification,Q219,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:25
+387,exp_003_difficulty_stratification,Q231,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:26
+388,exp_003_difficulty_stratification,Q274,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:26
+389,exp_003_difficulty_stratification,Q234,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:26
+390,exp_003_difficulty_stratification,Q291,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:26
+391,exp_003_difficulty_stratification,Q184,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:26
+392,exp_003_difficulty_stratification,Q154,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:26
+393,exp_003_difficulty_stratification,Q171,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:26
+394,exp_003_difficulty_stratification,Q146,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:26
+395,exp_003_difficulty_stratification,Q145,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:26
+396,exp_003_difficulty_stratification,Q140,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:27
+397,exp_003_difficulty_stratification,Q123,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:27
+398,exp_003_difficulty_stratification,Q181,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:27
+399,exp_003_difficulty_stratification,Q111,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:27
+400,exp_003_difficulty_stratification,Q101,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:27
+401,exp_003_difficulty_stratification,Q119,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:27
+402,exp_003_difficulty_stratification,Q131,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:27
+403,exp_003_difficulty_stratification,Q174,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:27
+404,exp_003_difficulty_stratification,Q134,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:28
+405,exp_003_difficulty_stratification,Q191,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:28
+406,exp_003_difficulty_stratification,Q084,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+407,exp_003_difficulty_stratification,Q054,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+408,exp_003_difficulty_stratification,Q071,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+409,exp_003_difficulty_stratification,Q046,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+410,exp_003_difficulty_stratification,Q045,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+411,exp_003_difficulty_stratification,Q040,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+412,exp_003_difficulty_stratification,Q023,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+413,exp_003_difficulty_stratification,Q081,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+414,exp_003_difficulty_stratification,Q011,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+415,exp_003_difficulty_stratification,Q001,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+416,exp_003_difficulty_stratification,Q019,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:28
+417,exp_003_difficulty_stratification,Q031,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:29
+418,exp_003_difficulty_stratification,Q074,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:29
+419,exp_003_difficulty_stratification,Q034,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:29
+420,exp_003_difficulty_stratification,Q091,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:29
+421,exp_003_difficulty_stratification,Q284,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:29
+422,exp_003_difficulty_stratification,Q254,cascade,Medium,0.52,1.0,large,qwen2.5:7b,Cascade: Initial pass allocated to small model for Medium query.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:29
+423,exp_003_difficulty_stratification,Q271,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:29
+424,exp_003_difficulty_stratification,Q246,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:29
+425,exp_003_difficulty_stratification,Q245,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:29
+426,exp_003_difficulty_stratification,Q240,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:29
+427,exp_003_difficulty_stratification,Q223,cascade,Medium,0.52,1.0,large,qwen2.5:7b,Cascade: Initial pass allocated to small model for Medium query.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:29
+428,exp_003_difficulty_stratification,Q281,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:30
+429,exp_003_difficulty_stratification,Q211,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:30
+430,exp_003_difficulty_stratification,Q201,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:30
+431,exp_003_difficulty_stratification,Q219,cascade,Medium,0.52,1.0,large,qwen2.5:7b,Cascade: Initial pass allocated to small model for Medium query.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:30
+432,exp_003_difficulty_stratification,Q231,cascade,Medium,0.52,1.0,large,qwen2.5:7b,Cascade: Initial pass allocated to small model for Medium query.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:30
+433,exp_003_difficulty_stratification,Q274,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:30
+434,exp_003_difficulty_stratification,Q234,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:30
+435,exp_003_difficulty_stratification,Q291,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:30
+436,exp_003_difficulty_stratification,Q184,cascade,Hard,0.86,1.0,large,qwen2.5:7b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:30
+437,exp_003_difficulty_stratification,Q154,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:30
+438,exp_003_difficulty_stratification,Q171,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+439,exp_003_difficulty_stratification,Q146,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+440,exp_003_difficulty_stratification,Q145,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+441,exp_003_difficulty_stratification,Q140,cascade,Hard,0.86,1.0,large,qwen2.5:7b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,1,Substantive detail and derivations missing for high-complexity query.,2026-11-12 09:22:31
+442,exp_003_difficulty_stratification,Q123,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+443,exp_003_difficulty_stratification,Q181,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+444,exp_003_difficulty_stratification,Q111,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+445,exp_003_difficulty_stratification,Q101,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+446,exp_003_difficulty_stratification,Q119,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+447,exp_003_difficulty_stratification,Q131,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+448,exp_003_difficulty_stratification,Q174,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:31
+449,exp_003_difficulty_stratification,Q134,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:32
+450,exp_003_difficulty_stratification,Q191,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:32

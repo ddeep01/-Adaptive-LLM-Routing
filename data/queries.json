@@ -1,0 +1,2702 @@
+[
+  {
+    "query_id": "Q001",
+    "query": "What does HTML stand for?",
+    "category": "Easy",
+    "difficulty_score": 0.09,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "HyperText Markup Language"
+  },
+  {
+    "query_id": "Q002",
+    "query": "What is the primary function of RAM in a computer?",
+    "category": "Easy",
+    "difficulty_score": 0.11,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "Temporary working memory for fast CPU access."
+  },
+  {
+    "query_id": "Q003",
+    "query": "What does CPU stand for?",
+    "category": "Easy",
+    "difficulty_score": 0.11,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "Central Processing Unit"
+  },
+  {
+    "query_id": "Q004",
+    "query": "Define what an operating system is in computing.",
+    "category": "Easy",
+    "difficulty_score": 0.129,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "Software managing hardware and software resources."
+  },
+  {
+    "query_id": "Q005",
+    "query": "What symbol is used to start a single-line comment in Python?",
+    "category": "Easy",
+    "difficulty_score": 0.144,
+    "domain": "Computer Science",
+    "expected_capability": "Syntax lookup",
+    "reference_answer": "The hash (#) symbol."
+  },
+  {
+    "query_id": "Q006",
+    "query": "What does SQL stand for?",
+    "category": "Easy",
+    "difficulty_score": 0.14,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "Structured Query Language"
+  },
+  {
+    "query_id": "Q007",
+    "query": "What file extension is used for standard Python code files?",
+    "category": "Easy",
+    "difficulty_score": 0.164,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": ".py"
+  },
+  {
+    "query_id": "Q008",
+    "query": "What does GUI stand for in software systems?",
+    "category": "Easy",
+    "difficulty_score": 0.168,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "Graphical User Interface"
+  },
+  {
+    "query_id": "Q009",
+    "query": "What is a boolean data type in computer programming?",
+    "category": "Easy",
+    "difficulty_score": 0.181,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "A binary data type holding True or False."
+  },
+  {
+    "query_id": "Q010",
+    "query": "Which keyword is used to declare a function in Python?",
+    "category": "Easy",
+    "difficulty_score": 0.192,
+    "domain": "Computer Science",
+    "expected_capability": "Syntax lookup",
+    "reference_answer": "The 'def' keyword."
+  },
+  {
+    "query_id": "Q011",
+    "query": "What is an IP address?",
+    "category": "Easy",
+    "difficulty_score": 0.189,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "A unique numerical network identifier for a device."
+  },
+  {
+    "query_id": "Q012",
+    "query": "What does URL stand for in web technology?",
+    "category": "Easy",
+    "difficulty_score": 0.207,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "Uniform Resource Locator"
+  },
+  {
+    "query_id": "Q013",
+    "query": "What is the purpose of the print() function in Python?",
+    "category": "Easy",
+    "difficulty_score": 0.222,
+    "domain": "Computer Science",
+    "expected_capability": "Basic explanation",
+    "reference_answer": "Outputs data to the standard console."
+  },
+  {
+    "query_id": "Q014",
+    "query": "What is Git used for in software development?",
+    "category": "Easy",
+    "difficulty_score": 0.228,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "Distributed source code version control."
+  },
+  {
+    "query_id": "Q015",
+    "query": "What does CSS stand for in web development?",
+    "category": "Easy",
+    "difficulty_score": 0.237,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "Cascading Style Sheets"
+  },
+  {
+    "query_id": "Q016",
+    "query": "What is an array in computer programming?",
+    "category": "Easy",
+    "difficulty_score": 0.246,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "A collection of items stored at contiguous memory locations."
+  },
+  {
+    "query_id": "Q017",
+    "query": "What does HTTP stand for in networking?",
+    "category": "Easy",
+    "difficulty_score": 0.256,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "HyperText Transfer Protocol"
+  },
+  {
+    "query_id": "Q018",
+    "query": "What is an integer in computer science?",
+    "category": "Easy",
+    "difficulty_score": 0.266,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "A whole number without fractional components."
+  },
+  {
+    "query_id": "Q019",
+    "query": "What is a syntax error in coding?",
+    "category": "Easy",
+    "difficulty_score": 0.273,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "An error caused by violating language grammar rules."
+  },
+  {
+    "query_id": "Q020",
+    "query": "What is an algorithm in computing?",
+    "category": "Easy",
+    "difficulty_score": 0.284,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "A step-by-step set of instructions for solving a problem."
+  },
+  {
+    "query_id": "Q021",
+    "query": "What does API stand for in software engineering?",
+    "category": "Easy",
+    "difficulty_score": 0.099,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "Application Programming Interface"
+  },
+  {
+    "query_id": "Q022",
+    "query": "What is the binary representation of decimal 5?",
+    "category": "Easy",
+    "difficulty_score": 0.109,
+    "domain": "Computer Science",
+    "expected_capability": "Basic conversion",
+    "reference_answer": "101"
+  },
+  {
+    "query_id": "Q023",
+    "query": "What is a loop in computer programming?",
+    "category": "Easy",
+    "difficulty_score": 0.116,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "A control structure that repeats a block of code."
+  },
+  {
+    "query_id": "Q024",
+    "query": "What does IDE stand for in software development?",
+    "category": "Easy",
+    "difficulty_score": 0.129,
+    "domain": "Computer Science",
+    "expected_capability": "Direct factual lookup",
+    "reference_answer": "Integrated Development Environment"
+  },
+  {
+    "query_id": "Q025",
+    "query": "What is a string in programming languages?",
+    "category": "Easy",
+    "difficulty_score": 0.137,
+    "domain": "Computer Science",
+    "expected_capability": "Basic definition",
+    "reference_answer": "A sequence of characters used to represent text."
+  },
+  {
+    "query_id": "Q026",
+    "query": "What is 15 multiplied by 8?",
+    "category": "Easy",
+    "difficulty_score": 0.141,
+    "domain": "Mathematics",
+    "expected_capability": "Simple multiplication",
+    "reference_answer": "120"
+  },
+  {
+    "query_id": "Q027",
+    "query": "What is the square root of 144?",
+    "category": "Easy",
+    "difficulty_score": 0.152,
+    "domain": "Mathematics",
+    "expected_capability": "Basic arithmetic",
+    "reference_answer": "12"
+  },
+  {
+    "query_id": "Q028",
+    "query": "Calculate 25 percent of 200.",
+    "category": "Easy",
+    "difficulty_score": 0.161,
+    "domain": "Mathematics",
+    "expected_capability": "Basic percentage calculation",
+    "reference_answer": "50"
+  },
+  {
+    "query_id": "Q029",
+    "query": "What is 7 cubed (7^3)?",
+    "category": "Easy",
+    "difficulty_score": 0.169,
+    "domain": "Mathematics",
+    "expected_capability": "Basic power calculation",
+    "reference_answer": "343"
+  },
+  {
+    "query_id": "Q030",
+    "query": "Solve the linear equation: 2x + 6 = 14.",
+    "category": "Easy",
+    "difficulty_score": 0.186,
+    "domain": "Mathematics",
+    "expected_capability": "Single-variable linear equation",
+    "reference_answer": "x = 4"
+  },
+  {
+    "query_id": "Q031",
+    "query": "What is the perimeter of a rectangle with length 8 and width 5?",
+    "category": "Easy",
+    "difficulty_score": 0.205,
+    "domain": "Mathematics",
+    "expected_capability": "Geometric formula",
+    "reference_answer": "26"
+  },
+  {
+    "query_id": "Q032",
+    "query": "What is the value of Pi rounded to two decimal places?",
+    "category": "Easy",
+    "difficulty_score": 0.212,
+    "domain": "Mathematics",
+    "expected_capability": "Mathematical constant",
+    "reference_answer": "3.14"
+  },
+  {
+    "query_id": "Q033",
+    "query": "Convert 5 kilometers to meters.",
+    "category": "Easy",
+    "difficulty_score": 0.212,
+    "domain": "Mathematics",
+    "expected_capability": "Metric unit conversion",
+    "reference_answer": "5,000 meters"
+  },
+  {
+    "query_id": "Q034",
+    "query": "How many degrees are in a right angle?",
+    "category": "Easy",
+    "difficulty_score": 0.225,
+    "domain": "Mathematics",
+    "expected_capability": "Geometric definition",
+    "reference_answer": "90 degrees"
+  },
+  {
+    "query_id": "Q035",
+    "query": "What is 100 divided by 4?",
+    "category": "Easy",
+    "difficulty_score": 0.23,
+    "domain": "Mathematics",
+    "expected_capability": "Basic division",
+    "reference_answer": "25"
+  },
+  {
+    "query_id": "Q036",
+    "query": "What is the sum of interior angles in any triangle?",
+    "category": "Easy",
+    "difficulty_score": 0.25,
+    "domain": "Mathematics",
+    "expected_capability": "Geometric fact",
+    "reference_answer": "180 degrees"
+  },
+  {
+    "query_id": "Q037",
+    "query": "Convert 2 hours into minutes.",
+    "category": "Easy",
+    "difficulty_score": 0.252,
+    "domain": "Mathematics",
+    "expected_capability": "Time conversion",
+    "reference_answer": "120 minutes"
+  },
+  {
+    "query_id": "Q038",
+    "query": "What is the greatest common divisor of 12 and 18?",
+    "category": "Easy",
+    "difficulty_score": 0.27,
+    "domain": "Mathematics",
+    "expected_capability": "Arithmetic factor lookup",
+    "reference_answer": "6"
+  },
+  {
+    "query_id": "Q039",
+    "query": "What is the median of the numbers 3, 7, 9, 12, 15?",
+    "category": "Easy",
+    "difficulty_score": 0.28,
+    "domain": "Mathematics",
+    "expected_capability": "Statistical median calculation",
+    "reference_answer": "9"
+  },
+  {
+    "query_id": "Q040",
+    "query": "What is 2 raised to the power of 8?",
+    "category": "Easy",
+    "difficulty_score": 0.284,
+    "domain": "Mathematics",
+    "expected_capability": "Power calculation",
+    "reference_answer": "256"
+  },
+  {
+    "query_id": "Q041",
+    "query": "Calculate the area of a square with a side length of 9 centimeters.",
+    "category": "Easy",
+    "difficulty_score": 0.107,
+    "domain": "Mathematics",
+    "expected_capability": "Geometric formula",
+    "reference_answer": "81 sq cm"
+  },
+  {
+    "query_id": "Q042",
+    "query": "What is 50 percent of 80?",
+    "category": "Easy",
+    "difficulty_score": 0.1,
+    "domain": "Mathematics",
+    "expected_capability": "Percentage arithmetic",
+    "reference_answer": "40"
+  },
+  {
+    "query_id": "Q043",
+    "query": "What is the absolute value of -42?",
+    "category": "Easy",
+    "difficulty_score": 0.114,
+    "domain": "Mathematics",
+    "expected_capability": "Arithmetic property",
+    "reference_answer": "42"
+  },
+  {
+    "query_id": "Q044",
+    "query": "How many sides does an octagon have?",
+    "category": "Easy",
+    "difficulty_score": 0.124,
+    "domain": "Mathematics",
+    "expected_capability": "Geometric fact",
+    "reference_answer": "8 sides"
+  },
+  {
+    "query_id": "Q045",
+    "query": "What is 13 minus 27?",
+    "category": "Easy",
+    "difficulty_score": 0.128,
+    "domain": "Mathematics",
+    "expected_capability": "Negative arithmetic",
+    "reference_answer": "-14"
+  },
+  {
+    "query_id": "Q046",
+    "query": "What is the factorial of 4 (4!)?",
+    "category": "Easy",
+    "difficulty_score": 0.143,
+    "domain": "Mathematics",
+    "expected_capability": "Factorial calculation",
+    "reference_answer": "24"
+  },
+  {
+    "query_id": "Q047",
+    "query": "How many minutes are in 3.5 hours?",
+    "category": "Easy",
+    "difficulty_score": 0.154,
+    "domain": "Mathematics",
+    "expected_capability": "Unit conversion",
+    "reference_answer": "210 minutes"
+  },
+  {
+    "query_id": "Q048",
+    "query": "What is 11 squared?",
+    "category": "Easy",
+    "difficulty_score": 0.158,
+    "domain": "Mathematics",
+    "expected_capability": "Square calculation",
+    "reference_answer": "121"
+  },
+  {
+    "query_id": "Q049",
+    "query": "What is the reciprocal of 4?",
+    "category": "Easy",
+    "difficulty_score": 0.171,
+    "domain": "Mathematics",
+    "expected_capability": "Reciprocal definition",
+    "reference_answer": "0.25 (1/4)"
+  },
+  {
+    "query_id": "Q050",
+    "query": "What is the volume of a cube with edge length 3 cm?",
+    "category": "Easy",
+    "difficulty_score": 0.19,
+    "domain": "Mathematics",
+    "expected_capability": "Geometric formula",
+    "reference_answer": "27 cubic cm"
+  },
+  {
+    "query_id": "Q051",
+    "query": "What is the chemical formula for pure water?",
+    "category": "Easy",
+    "difficulty_score": 0.198,
+    "domain": "Science",
+    "expected_capability": "Direct chemical formula",
+    "reference_answer": "H2O"
+  },
+  {
+    "query_id": "Q052",
+    "query": "Which planet is commonly called the Red Planet?",
+    "category": "Easy",
+    "difficulty_score": 0.209,
+    "domain": "Science",
+    "expected_capability": "Astronomical fact",
+    "reference_answer": "Mars"
+  },
+  {
+    "query_id": "Q053",
+    "query": "What gas do green plants absorb from the atmosphere for photosynthesis?",
+    "category": "Easy",
+    "difficulty_score": 0.228,
+    "domain": "Science",
+    "expected_capability": "Biological fact",
+    "reference_answer": "Carbon dioxide (CO2)"
+  },
+  {
+    "query_id": "Q054",
+    "query": "What is the freezing point of water in degrees Celsius?",
+    "category": "Easy",
+    "difficulty_score": 0.232,
+    "domain": "Science",
+    "expected_capability": "Physical constant",
+    "reference_answer": "0 degrees C"
+  },
+  {
+    "query_id": "Q055",
+    "query": "Which muscular organ pumps blood throughout the human body?",
+    "category": "Easy",
+    "difficulty_score": 0.244,
+    "domain": "Science",
+    "expected_capability": "Biological fact",
+    "reference_answer": "The heart"
+  },
+  {
+    "query_id": "Q056",
+    "query": "What is the approximate speed of light in a vacuum in km/s?",
+    "category": "Easy",
+    "difficulty_score": 0.254,
+    "domain": "Science",
+    "expected_capability": "Physical constant",
+    "reference_answer": "300,000 km/s"
+  },
+  {
+    "query_id": "Q057",
+    "query": "Which chemical element has the atomic number 1?",
+    "category": "Easy",
+    "difficulty_score": 0.259,
+    "domain": "Science",
+    "expected_capability": "Periodic table fact",
+    "reference_answer": "Hydrogen"
+  },
+  {
+    "query_id": "Q058",
+    "query": "What is the largest organ of the human body?",
+    "category": "Easy",
+    "difficulty_score": 0.268,
+    "domain": "Science",
+    "expected_capability": "Anatomical fact",
+    "reference_answer": "Skin"
+  },
+  {
+    "query_id": "Q059",
+    "query": "What fundamental force pulls physical objects toward Earth's center?",
+    "category": "Easy",
+    "difficulty_score": 0.287,
+    "domain": "Science",
+    "expected_capability": "Physical concept",
+    "reference_answer": "Gravity"
+  },
+  {
+    "query_id": "Q060",
+    "query": "What is the dense center of an atom called?",
+    "category": "Easy",
+    "difficulty_score": 0.287,
+    "domain": "Science",
+    "expected_capability": "Physical definition",
+    "reference_answer": "The nucleus"
+  },
+  {
+    "query_id": "Q061",
+    "query": "What green pigment is essential for plant photosynthesis?",
+    "category": "Easy",
+    "difficulty_score": 0.103,
+    "domain": "Science",
+    "expected_capability": "Biological fact",
+    "reference_answer": "Chlorophyll"
+  },
+  {
+    "query_id": "Q062",
+    "query": "How many recognized planets are in our Solar System?",
+    "category": "Easy",
+    "difficulty_score": 0.111,
+    "domain": "Science",
+    "expected_capability": "Astronomical fact",
+    "reference_answer": "8 planets"
+  },
+  {
+    "query_id": "Q063",
+    "query": "What state of matter has a fixed volume but conforms to container shape?",
+    "category": "Easy",
+    "difficulty_score": 0.129,
+    "domain": "Science",
+    "expected_capability": "Physical state definition",
+    "reference_answer": "Liquid"
+  },
+  {
+    "query_id": "Q064",
+    "query": "What is the boiling point of pure water at 1 atm in Celsius?",
+    "category": "Easy",
+    "difficulty_score": 0.134,
+    "domain": "Science",
+    "expected_capability": "Physical constant",
+    "reference_answer": "100 degrees C"
+  },
+  {
+    "query_id": "Q065",
+    "query": "What gas accounts for roughly 78 percent of Earth's atmosphere?",
+    "category": "Easy",
+    "difficulty_score": 0.145,
+    "domain": "Science",
+    "expected_capability": "Atmospheric science fact",
+    "reference_answer": "Nitrogen"
+  },
+  {
+    "query_id": "Q066",
+    "query": "Which blood cells are primarily responsible for fighting infections?",
+    "category": "Easy",
+    "difficulty_score": 0.157,
+    "domain": "Science",
+    "expected_capability": "Biological fact",
+    "reference_answer": "White blood cells"
+  },
+  {
+    "query_id": "Q067",
+    "query": "What is the chemical symbol for gold?",
+    "category": "Easy",
+    "difficulty_score": 0.155,
+    "domain": "Science",
+    "expected_capability": "Chemical symbol lookup",
+    "reference_answer": "Au"
+  },
+  {
+    "query_id": "Q068",
+    "query": "What is the chemical symbol for table salt?",
+    "category": "Easy",
+    "difficulty_score": 0.167,
+    "domain": "Science",
+    "expected_capability": "Chemical formula",
+    "reference_answer": "NaCl"
+  },
+  {
+    "query_id": "Q069",
+    "query": "What is the name of our home galaxy?",
+    "category": "Easy",
+    "difficulty_score": 0.174,
+    "domain": "Science",
+    "expected_capability": "Astronomical fact",
+    "reference_answer": "The Milky Way"
+  },
+  {
+    "query_id": "Q070",
+    "query": "What part of the human skeleton protects the brain?",
+    "category": "Easy",
+    "difficulty_score": 0.19,
+    "domain": "Science",
+    "expected_capability": "Anatomical fact",
+    "reference_answer": "The skull (cranium)"
+  },
+  {
+    "query_id": "Q071",
+    "query": "What process converts liquid water into vapor?",
+    "category": "Easy",
+    "difficulty_score": 0.198,
+    "domain": "Science",
+    "expected_capability": "Physical process",
+    "reference_answer": "Evaporation"
+  },
+  {
+    "query_id": "Q072",
+    "query": "What is the hardest naturally occurring mineral?",
+    "category": "Easy",
+    "difficulty_score": 0.209,
+    "domain": "Science",
+    "expected_capability": "Geological fact",
+    "reference_answer": "Diamond"
+  },
+  {
+    "query_id": "Q073",
+    "query": "Which subatomic particle carries a negative electric charge?",
+    "category": "Easy",
+    "difficulty_score": 0.224,
+    "domain": "Science",
+    "expected_capability": "Physical particle fact",
+    "reference_answer": "The electron"
+  },
+  {
+    "query_id": "Q074",
+    "query": "What layer of Earth lies directly beneath the crust?",
+    "category": "Easy",
+    "difficulty_score": 0.231,
+    "domain": "Science",
+    "expected_capability": "Geological fact",
+    "reference_answer": "The mantle"
+  },
+  {
+    "query_id": "Q075",
+    "query": "What is the chemical symbol for iron?",
+    "category": "Easy",
+    "difficulty_score": 0.235,
+    "domain": "Science",
+    "expected_capability": "Chemical symbol lookup",
+    "reference_answer": "Fe"
+  },
+  {
+    "query_id": "Q076",
+    "query": "Who painted the famous masterpiece Mona Lisa?",
+    "category": "Easy",
+    "difficulty_score": 0.248,
+    "domain": "Humanities",
+    "expected_capability": "Historical art fact",
+    "reference_answer": "Leonardo da Vinci"
+  },
+  {
+    "query_id": "Q077",
+    "query": "What is the capital city of France?",
+    "category": "Easy",
+    "difficulty_score": 0.254,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Paris"
+  },
+  {
+    "query_id": "Q078",
+    "query": "In what year did the ocean liner Titanic sink?",
+    "category": "Easy",
+    "difficulty_score": 0.268,
+    "domain": "History",
+    "expected_capability": "Historical fact",
+    "reference_answer": "1912"
+  },
+  {
+    "query_id": "Q079",
+    "query": "What is the capital city of Japan?",
+    "category": "Easy",
+    "difficulty_score": 0.274,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Tokyo"
+  },
+  {
+    "query_id": "Q080",
+    "query": "Who authored the classic tragedy Romeo and Juliet?",
+    "category": "Easy",
+    "difficulty_score": 0.29,
+    "domain": "Humanities",
+    "expected_capability": "Literary lookup",
+    "reference_answer": "William Shakespeare"
+  },
+  {
+    "query_id": "Q081",
+    "query": "On which continent is the Sahara Desert situated?",
+    "category": "Easy",
+    "difficulty_score": 0.1,
+    "domain": "Geography",
+    "expected_capability": "Geographic fact",
+    "reference_answer": "Africa"
+  },
+  {
+    "query_id": "Q082",
+    "query": "What is the official currency of the United Kingdom?",
+    "category": "Easy",
+    "difficulty_score": 0.111,
+    "domain": "General",
+    "expected_capability": "Financial currency lookup",
+    "reference_answer": "Pound Sterling (GBP)"
+  },
+  {
+    "query_id": "Q083",
+    "query": "Who served as the first President of the United States?",
+    "category": "Easy",
+    "difficulty_score": 0.122,
+    "domain": "History",
+    "expected_capability": "Historical fact",
+    "reference_answer": "George Washington"
+  },
+  {
+    "query_id": "Q084",
+    "query": "Which body of water is the largest ocean on Earth?",
+    "category": "Easy",
+    "difficulty_score": 0.13,
+    "domain": "Geography",
+    "expected_capability": "Geographic fact",
+    "reference_answer": "The Pacific Ocean"
+  },
+  {
+    "query_id": "Q085",
+    "query": "What language is predominantly spoken across Brazil?",
+    "category": "Easy",
+    "difficulty_score": 0.141,
+    "domain": "Geography",
+    "expected_capability": "Linguistic fact",
+    "reference_answer": "Portuguese"
+  },
+  {
+    "query_id": "Q086",
+    "query": "Who is credited with the discovery of penicillin in 1928?",
+    "category": "Easy",
+    "difficulty_score": 0.153,
+    "domain": "History",
+    "expected_capability": "Scientific history",
+    "reference_answer": "Alexander Fleming"
+  },
+  {
+    "query_id": "Q087",
+    "query": "What is the capital city of Australia?",
+    "category": "Easy",
+    "difficulty_score": 0.155,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Canberra"
+  },
+  {
+    "query_id": "Q088",
+    "query": "In which country are the Great Pyramids of Giza located?",
+    "category": "Easy",
+    "difficulty_score": 0.172,
+    "domain": "Geography",
+    "expected_capability": "Geographic fact",
+    "reference_answer": "Egypt"
+  },
+  {
+    "query_id": "Q089",
+    "query": "Who composed the ancient Greek epics Iliad and Odyssey?",
+    "category": "Easy",
+    "difficulty_score": 0.182,
+    "domain": "Humanities",
+    "expected_capability": "Literary fact",
+    "reference_answer": "Homer"
+  },
+  {
+    "query_id": "Q090",
+    "query": "In what year did the Second World War officially conclude?",
+    "category": "Easy",
+    "difficulty_score": 0.193,
+    "domain": "History",
+    "expected_capability": "Historical fact",
+    "reference_answer": "1945"
+  },
+  {
+    "query_id": "Q091",
+    "query": "What is the highest mountain peak above sea level on Earth?",
+    "category": "Easy",
+    "difficulty_score": 0.204,
+    "domain": "Geography",
+    "expected_capability": "Geographic fact",
+    "reference_answer": "Mount Everest"
+  },
+  {
+    "query_id": "Q092",
+    "query": "What is the capital city of Germany?",
+    "category": "Easy",
+    "difficulty_score": 0.204,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Berlin"
+  },
+  {
+    "query_id": "Q093",
+    "query": "What is the capital city of Canada?",
+    "category": "Easy",
+    "difficulty_score": 0.214,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Ottawa"
+  },
+  {
+    "query_id": "Q094",
+    "query": "What is the capital city of Italy?",
+    "category": "Easy",
+    "difficulty_score": 0.224,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Rome"
+  },
+  {
+    "query_id": "Q095",
+    "query": "What is the capital city of Spain?",
+    "category": "Easy",
+    "difficulty_score": 0.234,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Madrid"
+  },
+  {
+    "query_id": "Q096",
+    "query": "What is the capital city of Egypt?",
+    "category": "Easy",
+    "difficulty_score": 0.244,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Cairo"
+  },
+  {
+    "query_id": "Q097",
+    "query": "What is the capital city of China?",
+    "category": "Easy",
+    "difficulty_score": 0.254,
+    "domain": "Geography",
+    "expected_capability": "Geographic capital lookup",
+    "reference_answer": "Beijing"
+  },
+  {
+    "query_id": "Q098",
+    "query": "What is the official national animal of India?",
+    "category": "Easy",
+    "difficulty_score": 0.268,
+    "domain": "General",
+    "expected_capability": "General knowledge fact",
+    "reference_answer": "The Bengal Tiger"
+  },
+  {
+    "query_id": "Q099",
+    "query": "What instrument is used by meteorologists to measure air pressure?",
+    "category": "Easy",
+    "difficulty_score": 0.286,
+    "domain": "General",
+    "expected_capability": "Instrument lookup",
+    "reference_answer": "A barometer"
+  },
+  {
+    "query_id": "Q100",
+    "query": "How many days are in a standard leap year?",
+    "category": "Easy",
+    "difficulty_score": 0.287,
+    "domain": "General",
+    "expected_capability": "Calendar fact",
+    "reference_answer": "366 days"
+  },
+  {
+    "query_id": "Q101",
+    "query": "Explain the fundamental difference between supervised and unsupervised machine learning.",
+    "category": "Medium",
+    "difficulty_score": 0.406,
+    "domain": "Computer Science",
+    "expected_capability": "Conceptual comparison",
+    "reference_answer": "Supervised learning relies on labeled targets, whereas unsupervised learning discovers patterns in unlabeled data."
+  },
+  {
+    "query_id": "Q102",
+    "query": "What is the difference between a process and a thread in operating systems?",
+    "category": "Medium",
+    "difficulty_score": 0.414,
+    "domain": "Computer Science",
+    "expected_capability": "OS comparison",
+    "reference_answer": "Processes have independent memory address spaces; threads within a process share memory and heap."
+  },
+  {
+    "query_id": "Q103",
+    "query": "Explain the mechanism of binary search and compare its time complexity with linear search.",
+    "category": "Medium",
+    "difficulty_score": 0.429,
+    "domain": "Computer Science",
+    "expected_capability": "Algorithm analysis",
+    "reference_answer": "Binary search halves sorted search intervals achieving O(log n); linear search checks elements sequentially taking O(n)."
+  },
+  {
+    "query_id": "Q104",
+    "query": "Compare SQL relational databases and NoSQL document stores regarding schema flexibility and scaling.",
+    "category": "Medium",
+    "difficulty_score": 0.443,
+    "domain": "Computer Science",
+    "expected_capability": "Database architecture",
+    "reference_answer": "SQL enforces strict relational schemas and ACID; NoSQL provides flexible JSON schemas and horizontal scaling."
+  },
+  {
+    "query_id": "Q105",
+    "query": "Explain the core architectural principles of REST APIs and list four standard HTTP verbs.",
+    "category": "Medium",
+    "difficulty_score": 0.451,
+    "domain": "Computer Science",
+    "expected_capability": "Web architecture",
+    "reference_answer": "REST is stateless and resource-oriented. Common verbs: GET, POST, PUT, DELETE."
+  },
+  {
+    "query_id": "Q106",
+    "query": "How do Docker containers differ from hypervisor-based virtual machines?",
+    "category": "Medium",
+    "difficulty_score": 0.456,
+    "domain": "Computer Science",
+    "expected_capability": "DevOps comparison",
+    "reference_answer": "Containers share the host kernel and isolate processes; VMs virtualize full hardware and run guest OS instances."
+  },
+  {
+    "query_id": "Q107",
+    "query": "Explain the distinction between mutable and immutable data types in Python with examples.",
+    "category": "Medium",
+    "difficulty_score": 0.473,
+    "domain": "Computer Science",
+    "expected_capability": "Programming concepts",
+    "reference_answer": "Mutable types (lists, dicts) can be modified in-place; immutable types (strings, tuples) cannot be altered once created."
+  },
+  {
+    "query_id": "Q108",
+    "query": "Explain how hash collisions are resolved using separate chaining versus open addressing.",
+    "category": "Medium",
+    "difficulty_score": 0.483,
+    "domain": "Computer Science",
+    "expected_capability": "Data structures",
+    "reference_answer": "Chaining stores colliding records in bucket linked lists; open addressing probes adjacent array slots."
+  },
+  {
+    "query_id": "Q109",
+    "query": "What is overfitting in predictive models and what are two common regularization techniques to mitigate it?",
+    "category": "Medium",
+    "difficulty_score": 0.5,
+    "domain": "Machine Learning",
+    "expected_capability": "Model optimization",
+    "reference_answer": "Overfitting is memorizing noise. Mitigation includes L1/L2 weight penalties and dropout."
+  },
+  {
+    "query_id": "Q110",
+    "query": "Explain the difference between synchronous and asynchronous I/O execution in web services.",
+    "category": "Medium",
+    "difficulty_score": 0.506,
+    "domain": "Computer Science",
+    "expected_capability": "Concurrency concepts",
+    "reference_answer": "Synchronous I/O blocks calling threads; asynchronous I/O utilizes non-blocking event loops and futures."
+  },
+  {
+    "query_id": "Q111",
+    "query": "Compare monolithic architectures with microservice architectures for engineering teams.",
+    "category": "Medium",
+    "difficulty_score": 0.516,
+    "domain": "Software Engineering",
+    "expected_capability": "Architectural trade-offs",
+    "reference_answer": "Monoliths simplify early deployments and debugging; microservices offer independent scaling but add network complexity."
+  },
+  {
+    "query_id": "Q112",
+    "query": "Explain the trade-offs between TCP and UDP transport layer protocols with appropriate use cases.",
+    "category": "Medium",
+    "difficulty_score": 0.53,
+    "domain": "Networking",
+    "expected_capability": "Protocol comparison",
+    "reference_answer": "TCP provides ordered, reliable streams (web/HTTP); UDP minimizes latency without packet acknowledgments (gaming/DNS)."
+  },
+  {
+    "query_id": "Q113",
+    "query": "How does a Convolutional Neural Network preserve spatial features compared to dense layers?",
+    "category": "Medium",
+    "difficulty_score": 0.539,
+    "domain": "Machine Learning",
+    "expected_capability": "Deep learning concepts",
+    "reference_answer": "CNNs utilize local receptive kernels with weight sharing, capturing 2D spatial hierarchies efficiently."
+  },
+  {
+    "query_id": "Q114",
+    "query": "What is the principle of least privilege in access management and how is it applied in cloud IAM?",
+    "category": "Medium",
+    "difficulty_score": 0.552,
+    "domain": "Cybersecurity",
+    "expected_capability": "Security principles",
+    "reference_answer": "Entities receive only the bare permissions needed to complete tasks, implemented via granular role-based policies."
+  },
+  {
+    "query_id": "Q115",
+    "query": "Explain the trade-off between Precision and Recall in classification and when to favor each.",
+    "category": "Medium",
+    "difficulty_score": 0.562,
+    "domain": "Machine Learning",
+    "expected_capability": "Metric analysis",
+    "reference_answer": "Precision measures accuracy of positive flags; recall measures retrieval coverage. Favor recall when false negatives are dangerous."
+  },
+  {
+    "query_id": "Q116",
+    "query": "Distinguish between concurrency and parallelism in computer system execution.",
+    "category": "Medium",
+    "difficulty_score": 0.568,
+    "domain": "Computer Science",
+    "expected_capability": "System fundamentals",
+    "reference_answer": "Concurrency is structuring tasks to handle multiple things simultaneously; parallelism is physical concurrent hardware execution."
+  },
+  {
+    "query_id": "Q117",
+    "query": "Explain how public-key asymmetric encryption facilitates secure communication across public channels.",
+    "category": "Medium",
+    "difficulty_score": 0.586,
+    "domain": "Cybersecurity",
+    "expected_capability": "Cryptography",
+    "reference_answer": "Uses mathematical keypairs where public keys encrypt and secret private keys decrypt without transmitting shared secrets."
+  },
+  {
+    "query_id": "Q118",
+    "query": "What is database normalization and what conditions satisfy Third Normal Form (3NF)?",
+    "category": "Medium",
+    "difficulty_score": 0.592,
+    "domain": "Databases",
+    "expected_capability": "Database design",
+    "reference_answer": "Normalization reduces data redundancy. 3NF requires 2NF compliance and no transitive non-prime dependencies."
+  },
+  {
+    "query_id": "Q119",
+    "query": "Compare Git merge and Git rebase workflows, explaining advantages of each.",
+    "category": "Medium",
+    "difficulty_score": 0.6,
+    "domain": "DevOps",
+    "expected_capability": "Version control",
+    "reference_answer": "Merge retains chronological branch history with merge commits; rebase creates a linear history by replaying commits."
+  },
+  {
+    "query_id": "Q120",
+    "query": "Explain the difference between bagging and boosting ensemble learning techniques.",
+    "category": "Medium",
+    "difficulty_score": 0.613,
+    "domain": "Machine Learning",
+    "expected_capability": "Ensemble algorithms",
+    "reference_answer": "Bagging averages independent models trained on bootstrapped subsets; boosting trains sequential models correcting past errors."
+  },
+  {
+    "query_id": "Q121",
+    "query": "Describe the function of indexes in relational databases and the trade-offs of B-Tree indexing.",
+    "category": "Medium",
+    "difficulty_score": 0.628,
+    "domain": "Databases",
+    "expected_capability": "Storage performance",
+    "reference_answer": "Indexes speed up read queries from O(n) to O(log n) but add write overhead and additional storage footprint."
+  },
+  {
+    "query_id": "Q122",
+    "query": "Explain how a Transformer self-attention block computes token representations.",
+    "category": "Medium",
+    "difficulty_score": 0.634,
+    "domain": "Machine Learning",
+    "expected_capability": "Neural architectures",
+    "reference_answer": "It maps tokens into Query, Key, Value vectors, taking scaled dot-product attention scores to output weighted context vectors."
+  },
+  {
+    "query_id": "Q123",
+    "query": "What are memory leaks in garbage-collected languages and how can they occur in Python?",
+    "category": "Medium",
+    "difficulty_score": 0.648,
+    "domain": "Computer Science",
+    "expected_capability": "Runtime diagnostics",
+    "reference_answer": "Leaks happen when unneeded objects remain reachable through circular references or static caches."
+  },
+  {
+    "query_id": "Q124",
+    "query": "Explain the purpose of Docker multi-stage builds in containerized CI/CD pipelines.",
+    "category": "Medium",
+    "difficulty_score": 0.658,
+    "domain": "DevOps",
+    "expected_capability": "Container optimization",
+    "reference_answer": "Separates compilation environments from minimal runtime images, shrinking image size and eliminating build tooling attack surfaces."
+  },
+  {
+    "query_id": "Q125",
+    "query": "How does DNS resolution translate a human-readable domain into an IP address?",
+    "category": "Medium",
+    "difficulty_score": 0.667,
+    "domain": "Networking",
+    "expected_capability": "Network protocol",
+    "reference_answer": "The client queries recursive resolvers, root servers, TLD servers, and authoritative nameservers to fetch DNS records."
+  },
+  {
+    "query_id": "Q126",
+    "query": "What is the difference between deep copying and shallow copying compound objects in Python?",
+    "category": "Medium",
+    "difficulty_score": 0.407,
+    "domain": "Computer Science",
+    "expected_capability": "Language mechanics",
+    "reference_answer": "Shallow copying copies the container but references nested objects; deep copying recursively duplicates all nested items."
+  },
+  {
+    "query_id": "Q127",
+    "query": "Explain the CAP theorem and describe the trade-offs a distributed database must make.",
+    "category": "Medium",
+    "difficulty_score": 0.417,
+    "domain": "Distributed Systems",
+    "expected_capability": "System theory",
+    "reference_answer": "In the presence of network partitions (P), a distributed system can guarantee either Consistency (C) or Availability (A)."
+  },
+  {
+    "query_id": "Q128",
+    "query": "Describe how message queues like Kafka or RabbitMQ decouple asynchronous distributed services.",
+    "category": "Medium",
+    "difficulty_score": 0.43,
+    "domain": "System Design",
+    "expected_capability": "Message passing",
+    "reference_answer": "Producers publish messages to topics/queues without blocking; consumers consume messages asynchronously at their own rate."
+  },
+  {
+    "query_id": "Q129",
+    "query": "What is CORS in web browsers and why does it protect web users from cross-site vulnerabilities?",
+    "category": "Medium",
+    "difficulty_score": 0.442,
+    "domain": "Web Security",
+    "expected_capability": "Browser security",
+    "reference_answer": "Cross-Origin Resource Sharing restricts frontend scripts from querying different origins unless explicitly allowed via headers."
+  },
+  {
+    "query_id": "Q130",
+    "query": "Explain the role of gradient descent optimization in training neural network parameters.",
+    "category": "Medium",
+    "difficulty_score": 0.45,
+    "domain": "Machine Learning",
+    "expected_capability": "Optimization theory",
+    "reference_answer": "It iteratively updates weight matrices in the opposite direction of the loss function gradient to minimize prediction error."
+  },
+  {
+    "query_id": "Q131",
+    "query": "A jacket priced at $150 receives a 20% store discount, followed by a 10% member coupon. What is the final price?",
+    "category": "Medium",
+    "difficulty_score": 0.469,
+    "domain": "Mathematics",
+    "expected_capability": "Multi-step percentage arithmetic",
+    "reference_answer": "$108 ($150 * 0.80 = $120; $120 * 0.90 = $108)."
+  },
+  {
+    "query_id": "Q132",
+    "query": "A car travels at 60 mph for 2.5 hours and then 45 mph for 1.5 hours. What is the average speed for the trip?",
+    "category": "Medium",
+    "difficulty_score": 0.478,
+    "domain": "Mathematics",
+    "expected_capability": "Weighted average calculation",
+    "reference_answer": "Total distance = 217.5 miles; total time = 4.0 hours; average speed = 54.375 mph."
+  },
+  {
+    "query_id": "Q133",
+    "query": "If an investment portfolio yields a 6% annual return, how many years will it take to double using the Rule of 72?",
+    "category": "Medium",
+    "difficulty_score": 0.491,
+    "domain": "Finance",
+    "expected_capability": "Financial rule application",
+    "reference_answer": "72 / 6 = 12 years approximately."
+  },
+  {
+    "query_id": "Q134",
+    "query": "A pool measuring 25m long, 10m wide, and 2m deep is filled with water. How many liters does it contain?",
+    "category": "Medium",
+    "difficulty_score": 0.499,
+    "domain": "Mathematics",
+    "expected_capability": "Dimensional geometry",
+    "reference_answer": "Volume = 500 cubic meters = 500,000 liters."
+  },
+  {
+    "query_id": "Q135",
+    "query": "Pipe A fills a reservoir in 6 hours and Pipe B empties it in 9 hours. How long to fill it with both open?",
+    "category": "Medium",
+    "difficulty_score": 0.51,
+    "domain": "Mathematics",
+    "expected_capability": "Work rate problem",
+    "reference_answer": "Net rate = 1/6 - 1/9 = 1/18 reservoir/hour. It takes 18 hours."
+  },
+  {
+    "query_id": "Q136",
+    "query": "A firm's revenue was $400,000 in Year 1 and grew to $640,000 in Year 3. What is the compound annual growth rate?",
+    "category": "Medium",
+    "difficulty_score": 0.524,
+    "domain": "Finance",
+    "expected_capability": "CAGR calculation",
+    "reference_answer": "CAGR = (640,000/400,000)^0.5 - 1 = (1.6)^0.5 - 1 = approx 26.49%."
+  },
+  {
+    "query_id": "Q137",
+    "query": "Calculate the sample standard deviation for the dataset: [4, 8, 6, 5, 3, 7].",
+    "category": "Medium",
+    "difficulty_score": 0.524,
+    "domain": "Mathematics",
+    "expected_capability": "Statistical calculation",
+    "reference_answer": "Mean = 5.5. Sum of squared differences = 17.5. Sample variance = 3.5. Standard deviation = approx 1.87."
+  },
+  {
+    "query_id": "Q138",
+    "query": "A train 200 meters long crosses a bridge 400 meters long at 72 km/h. How many seconds does it take?",
+    "category": "Medium",
+    "difficulty_score": 0.542,
+    "domain": "Physics",
+    "expected_capability": "Kinematics word problem",
+    "reference_answer": "Speed = 20 m/s. Total distance = 600m. Time = 600 / 20 = 30 seconds."
+  },
+  {
+    "query_id": "Q139",
+    "query": "If two fair six-sided dice are rolled, what is the exact probability that their sum equals 8?",
+    "category": "Medium",
+    "difficulty_score": 0.551,
+    "domain": "Mathematics",
+    "expected_capability": "Combinatorial probability",
+    "reference_answer": "5 favorable outcomes out of 36 possibilities = 5/36 (approx 13.89%)."
+  },
+  {
+    "query_id": "Q140",
+    "query": "Solve the system of linear equations: 3x + 2y = 16 and x - y = 2.",
+    "category": "Medium",
+    "difficulty_score": 0.553,
+    "domain": "Mathematics",
+    "expected_capability": "Linear system elimination",
+    "reference_answer": "x = 4, y = 2."
+  },
+  {
+    "query_id": "Q141",
+    "query": "Determine the derivative of the function f(x) = x^3 * ln(x) using the product rule.",
+    "category": "Medium",
+    "difficulty_score": 0.57,
+    "domain": "Mathematics",
+    "expected_capability": "Calculus product rule",
+    "reference_answer": "f'(x) = 3x^2 * ln(x) + x^2."
+  },
+  {
+    "query_id": "Q142",
+    "query": "A cylindrical tank has radius 3 meters and height 7 meters. What is its total surface area including caps?",
+    "category": "Medium",
+    "difficulty_score": 0.588,
+    "domain": "Mathematics",
+    "expected_capability": "Geometric surface area",
+    "reference_answer": "Total Area = 2*pi*r*h + 2*pi*r^2 = 42*pi + 18*pi = 60*pi sq meters (approx 188.5 sq m)."
+  },
+  {
+    "query_id": "Q143",
+    "query": "Evaluate the definite integral of (3x^2 - 4x + 1) dx evaluated from x=0 to x=3.",
+    "category": "Medium",
+    "difficulty_score": 0.591,
+    "domain": "Mathematics",
+    "expected_capability": "Definite integral calculation",
+    "reference_answer": "[x^3 - 2x^2 + x] from 0 to 3 = 27 - 18 + 3 = 12."
+  },
+  {
+    "query_id": "Q144",
+    "query": "If a principal of $1,000 compounds quarterly at an annual nominal rate of 8%, what is the balance after 2 years?",
+    "category": "Medium",
+    "difficulty_score": 0.612,
+    "domain": "Finance",
+    "expected_capability": "Compound interest formula",
+    "reference_answer": "A = 1000 * (1 + 0.08/4)^8 = 1000 * (1.02)^8 = approx $1,171.66."
+  },
+  {
+    "query_id": "Q145",
+    "query": "A rectangular prism has length 12, width 5, and height 4. What is the length of the internal 3D space diagonal?",
+    "category": "Medium",
+    "difficulty_score": 0.622,
+    "domain": "Mathematics",
+    "expected_capability": "Pythagorean 3D theorem",
+    "reference_answer": "Diagonal = sqrt(12^2 + 5^2 + 4^2) = sqrt(144 + 25 + 16) = sqrt(185) approx 13.60."
+  },
+  {
+    "query_id": "Q146",
+    "query": "Compute the dot product of vectors u = [2, -3, 5] and v = [4, 1, -2].",
+    "category": "Medium",
+    "difficulty_score": 0.621,
+    "domain": "Mathematics",
+    "expected_capability": "Vector algebra",
+    "reference_answer": "u . v = (2*4) + (-3*1) + (5*-2) = 8 - 3 - 10 = -5."
+  },
+  {
+    "query_id": "Q147",
+    "query": "A bag contains 5 red, 4 blue, and 3 green marbles. Two marbles are drawn without replacement; find probability both are red.",
+    "category": "Medium",
+    "difficulty_score": 0.648,
+    "domain": "Mathematics",
+    "expected_capability": "Conditional probability",
+    "reference_answer": "(5/12) * (4/11) = 20/132 = 5/33 (approx 15.15%)."
+  },
+  {
+    "query_id": "Q148",
+    "query": "What is the slope of the tangent line to the curve y = 2x^2 - 5x + 3 at the point where x = 3?",
+    "category": "Medium",
+    "difficulty_score": 0.65,
+    "domain": "Mathematics",
+    "expected_capability": "Calculus slope calculation",
+    "reference_answer": "dy/dx = 4x - 5. At x = 3, slope = 4(3) - 5 = 7."
+  },
+  {
+    "query_id": "Q149",
+    "query": "Find the roots of the quadratic equation 2x^2 - 7x + 3 = 0 using the quadratic formula.",
+    "category": "Medium",
+    "difficulty_score": 0.659,
+    "domain": "Mathematics",
+    "expected_capability": "Quadratic formula solution",
+    "reference_answer": "x = (7 +/- sqrt(49 - 24))/4 = (7 +/- 5)/4. Roots are x = 3 and x = 0.5."
+  },
+  {
+    "query_id": "Q150",
+    "query": "If a light year is approximately 9.46 trillion km, convert 4.2 light years into kilometers using scientific notation.",
+    "category": "Medium",
+    "difficulty_score": 0.679,
+    "domain": "Physics",
+    "expected_capability": "Scientific notation conversion",
+    "reference_answer": "4.2 * 9.46 * 10^12 = 3.9732 * 10^13 kilometers."
+  },
+  {
+    "query_id": "Q151",
+    "query": "Calculate the simple interest on a loan of $5,000 at an annual rate of 6.5% over 3 years.",
+    "category": "Medium",
+    "difficulty_score": 0.407,
+    "domain": "Finance",
+    "expected_capability": "Simple interest formula",
+    "reference_answer": "I = P * r * t = 5000 * 0.065 * 3 = $975."
+  },
+  {
+    "query_id": "Q152",
+    "query": "Find the perimeter of a right triangle whose legs are 9 cm and 12 cm.",
+    "category": "Medium",
+    "difficulty_score": 0.412,
+    "domain": "Mathematics",
+    "expected_capability": "Triangle geometry",
+    "reference_answer": "Hypotenuse = sqrt(81 + 144) = 15 cm. Perimeter = 9 + 12 + 15 = 36 cm."
+  },
+  {
+    "query_id": "Q153",
+    "query": "Calculate the angle between vectors [1, 0] and [1, 1] in degrees.",
+    "category": "Medium",
+    "difficulty_score": 0.422,
+    "domain": "Mathematics",
+    "expected_capability": "Trigonometric vector angle",
+    "reference_answer": "cos(theta) = 1 / sqrt(2), theta = 45 degrees."
+  },
+  {
+    "query_id": "Q154",
+    "query": "Evaluate the limit as x approaches 0 of sin(3x) / x.",
+    "category": "Medium",
+    "difficulty_score": 0.429,
+    "domain": "Mathematics",
+    "expected_capability": "Calculus limit evaluation",
+    "reference_answer": "Using L'Hopital or standard limit, 3 * cos(3x)/1 = 3."
+  },
+  {
+    "query_id": "Q155",
+    "query": "How many unique 4-letter permutations can be formed from the letters in the word 'PYTHON'?",
+    "category": "Medium",
+    "difficulty_score": 0.451,
+    "domain": "Mathematics",
+    "expected_capability": "Combinatorial permutation",
+    "reference_answer": "6P4 = 6! / (6-4)! = 720 / 2 = 360 permutations."
+  },
+  {
+    "query_id": "Q156",
+    "query": "Summarize the primary systemic causes of the 2008 global financial crisis into three distinct points.",
+    "category": "Medium",
+    "difficulty_score": 0.465,
+    "domain": "Economics",
+    "expected_capability": "Structured economic summary",
+    "reference_answer": "1. Subprime mortgage deregulation. 2. Opaque credit derivatives (CDOs). 3. High leverage among investment banks."
+  },
+  {
+    "query_id": "Q157",
+    "query": "Compare nuclear fission power generation with solar photovoltaic energy regarding carbon emissions, base-load capacity, and waste.",
+    "category": "Medium",
+    "difficulty_score": 0.485,
+    "domain": "Environmental Science",
+    "expected_capability": "Multi-attribute comparison",
+    "reference_answer": "Nuclear provides continuous base-load with high energy density and radioactive waste; solar is intermittent but produces zero operational emissions."
+  },
+  {
+    "query_id": "Q158",
+    "query": "Explain how mRNA vaccines stimulate antibody production without causing pathogenic viral replication.",
+    "category": "Medium",
+    "difficulty_score": 0.487,
+    "domain": "Biology",
+    "expected_capability": "Biomedical explanation",
+    "reference_answer": "They deliver mRNA encoding the viral spike protein, triggering ribosomic translation and antibody response without replicating live virus."
+  },
+  {
+    "query_id": "Q159",
+    "query": "Compare Keynesian stimulus policies with classical supply-side economics during sustained recessions.",
+    "category": "Medium",
+    "difficulty_score": 0.498,
+    "domain": "Economics",
+    "expected_capability": "Macroeconomic synthesis",
+    "reference_answer": "Keynesians stimulate aggregate demand through government deficit spending; supply-siders cut taxes and regulation to boost supply."
+  },
+  {
+    "query_id": "Q160",
+    "query": "Explain the monetary transmission mechanism by which central bank interest rate hikes reduce inflation.",
+    "category": "Medium",
+    "difficulty_score": 0.51,
+    "domain": "Economics",
+    "expected_capability": "Economic causation",
+    "reference_answer": "Higher benchmark rates raise lending costs, lowering consumer borrowing and corporate capital investment, cooling demand."
+  },
+  {
+    "query_id": "Q161",
+    "query": "How do the light-dependent reactions of photosynthesis generate ATP and NADPH for the Calvin cycle?",
+    "category": "Medium",
+    "difficulty_score": 0.52,
+    "domain": "Biology",
+    "expected_capability": "Biochemical pathway",
+    "reference_answer": "Photons excite chlorophyll electrons through photosystems II and I, powering proton pumps across thylakoid membranes to synthesize ATP and NADPH."
+  },
+  {
+    "query_id": "Q162",
+    "query": "Explain how negative feedback loops maintain homeostatic core temperature regulation in humans.",
+    "category": "Medium",
+    "difficulty_score": 0.529,
+    "domain": "Biology",
+    "expected_capability": "Physiological regulation",
+    "reference_answer": "Thermoreceptors detect temperature shifts, prompting hypothalamus responses: vasodilation/sweating when hot, vasoconstriction/shivering when cold."
+  },
+  {
+    "query_id": "Q163",
+    "query": "Compare the aerodynamic principles of Bernoulli's theorem with Newton's third law in generating aircraft wing lift.",
+    "category": "Medium",
+    "difficulty_score": 0.546,
+    "domain": "Physics",
+    "expected_capability": "Aerodynamic comparison",
+    "reference_answer": "Bernoulli explains low pressure over curved upper surfaces; Newton explains downward air deflection producing an equal upward reaction force."
+  },
+  {
+    "query_id": "Q164",
+    "query": "Explain how tariffs affect imported goods prices, domestic manufacturer competitiveness, and consumer welfare.",
+    "category": "Medium",
+    "difficulty_score": 0.556,
+    "domain": "Economics",
+    "expected_capability": "Trade policy analysis",
+    "reference_answer": "Tariffs raise import prices, shielding domestic producers from competition but driving up consumer costs and reducing real welfare."
+  },
+  {
+    "query_id": "Q165",
+    "query": "Describe the differences between an isothermal process and an adiabatic process in classical thermodynamics.",
+    "category": "Medium",
+    "difficulty_score": 0.566,
+    "domain": "Physics",
+    "expected_capability": "Thermodynamic distinction",
+    "reference_answer": "An isothermal process maintains constant temperature with heat transfer; an adiabatic process occurs without heat exchange with surroundings."
+  },
+  {
+    "query_id": "Q166",
+    "query": "Explain how enzyme catalytic rates are influenced by substrate concentration according to Michaelis-Menten kinetics.",
+    "category": "Medium",
+    "difficulty_score": 0.58,
+    "domain": "Biochemistry",
+    "expected_capability": "Biochemical kinetics",
+    "reference_answer": "Velocity increases hyperbolically until active sites become saturated, asymptotically approaching maximum velocity Vmax."
+  },
+  {
+    "query_id": "Q167",
+    "query": "Compare comparative advantage with absolute advantage in international trade theory.",
+    "category": "Medium",
+    "difficulty_score": 0.581,
+    "domain": "Economics",
+    "expected_capability": "Economic trade theory",
+    "reference_answer": "Absolute advantage means producing goods with fewer inputs; comparative advantage means producing at lower opportunity cost."
+  },
+  {
+    "query_id": "Q168",
+    "query": "How do geological subduction zones cause deep-focus earthquakes and explosive volcanic island arcs?",
+    "category": "Medium",
+    "difficulty_score": 0.597,
+    "domain": "Geology",
+    "expected_capability": "Geological process",
+    "reference_answer": "Dense oceanic plates sink beneath continental lithosphere, melting through hydration flux to produce explosive andesitic magma."
+  },
+  {
+    "query_id": "Q169",
+    "query": "Explain the electrochemical reaction occurring at the anode and cathode of a discharging lithium-ion battery.",
+    "category": "Medium",
+    "difficulty_score": 0.611,
+    "domain": "Chemistry",
+    "expected_capability": "Electrochemical synthesis",
+    "reference_answer": "Anode: Lithium deintercalates and oxidizes into Li+ and electrons. Cathode: Li+ ions and electrons intercalate into transition metal oxide."
+  },
+  {
+    "query_id": "Q170",
+    "query": "What causes the Coriolis effect and how does it steer global cyclone wind patterns in both hemispheres?",
+    "category": "Medium",
+    "difficulty_score": 0.62,
+    "domain": "Earth Science",
+    "expected_capability": "Atmospheric dynamics",
+    "reference_answer": "Earth's rotational velocity differences across latitudes deflect winds rightward in the Northern Hemisphere and leftward in the Southern."
+  },
+  {
+    "query_id": "Q171",
+    "query": "Compare monetary policy tools: open market operations, the discount rate, and reserve requirements.",
+    "category": "Medium",
+    "difficulty_score": 0.63,
+    "domain": "Economics",
+    "expected_capability": "Central banking tools",
+    "reference_answer": "OMOs buy/sell bonds to influence interbank reserves; discount rate sets direct Fed lending rates; reserve requirements dictate mandatory ratios."
+  },
+  {
+    "query_id": "Q172",
+    "query": "Explain the cellular mechanism of action of penicillin on bacterial cell wall synthesis.",
+    "category": "Medium",
+    "difficulty_score": 0.637,
+    "domain": "Pharmacology",
+    "expected_capability": "Pharmacological mechanism",
+    "reference_answer": "Penicillin binds to transpeptidase enzymes, preventing peptidoglycan cross-linking and causing osmotic bacterial lysis."
+  },
+  {
+    "query_id": "Q173",
+    "query": "Describe the differences between type 1 and type 2 diabetes mellitus regarding etiology and insulin dynamics.",
+    "category": "Medium",
+    "difficulty_score": 0.655,
+    "domain": "Medicine",
+    "expected_capability": "Clinical etiology",
+    "reference_answer": "Type 1 is autoimmune destruction of pancreatic beta cells (insulin deficiency); Type 2 is peripheral insulin resistance with relative deficiency."
+  },
+  {
+    "query_id": "Q174",
+    "query": "How does a mass spectrometer separate chemical isotopes based on their mass-to-charge ratio?",
+    "category": "Medium",
+    "difficulty_score": 0.661,
+    "domain": "Chemistry",
+    "expected_capability": "Instrumentation analysis",
+    "reference_answer": "Sample molecules are ionized, accelerated into a magnetic field, and deflected along curved trajectories proportional to m/z."
+  },
+  {
+    "query_id": "Q175",
+    "query": "Explain why monopolies produce lower output and charge higher prices than competitive markets.",
+    "category": "Medium",
+    "difficulty_score": 0.672,
+    "domain": "Economics",
+    "expected_capability": "Microeconomic analysis",
+    "reference_answer": "A monopoly faces downward-sloping demand and sets marginal revenue equal to marginal cost, creating deadweight loss and economic rent."
+  },
+  {
+    "query_id": "Q176",
+    "query": "Describe the life cycle of a massive star ending in a core-collapse supernova versus a white dwarf.",
+    "category": "Medium",
+    "difficulty_score": 0.41,
+    "domain": "Astrophysics",
+    "expected_capability": "Stellar evolution",
+    "reference_answer": "Stars above 8 solar masses fuse elements up to iron before iron photodisintegration causes core collapse; low-mass stars shed envelopes into white dwarfs."
+  },
+  {
+    "query_id": "Q177",
+    "query": "Explain the principles of chromatography and how stationary and mobile phases separate chemical mixtures.",
+    "category": "Medium",
+    "difficulty_score": 0.422,
+    "domain": "Chemistry",
+    "expected_capability": "Chemical separation",
+    "reference_answer": "Components partition differentially between the moving mobile phase and fixed stationary phase based on polarity and affinity."
+  },
+  {
+    "query_id": "Q178",
+    "query": "How does the human eye accommodate vision when shifting focus from a distant horizon to reading text?",
+    "category": "Medium",
+    "difficulty_score": 0.432,
+    "domain": "Physiology",
+    "expected_capability": "Sensory physiology",
+    "reference_answer": "Ciliary muscles contract, releasing tension on zonular fibers, allowing the crystalline lens to thicken and increase refractive power."
+  },
+  {
+    "query_id": "Q179",
+    "query": "Explain the economic concept of externalities and compare Pigouvian taxes with cap-and-trade systems.",
+    "category": "Medium",
+    "difficulty_score": 0.443,
+    "domain": "Economics",
+    "expected_capability": "Policy comparison",
+    "reference_answer": "Externalities are unpriced spillover costs/benefits. Pigouvian taxes price the negative externality per unit; cap-and-trade caps total emissions."
+  },
+  {
+    "query_id": "Q180",
+    "query": "Describe how the Doppler effect alters observed wave frequencies for moving wave sources.",
+    "category": "Medium",
+    "difficulty_score": 0.451,
+    "domain": "Physics",
+    "expected_capability": "Wave mechanics",
+    "reference_answer": "Approaching sources compress wavefronts toward the observer (higher frequency); receding sources stretch wavefronts (lower frequency)."
+  },
+  {
+    "query_id": "Q181",
+    "query": "Explain the distinction between structural, frictional, and cyclical unemployment in macroeconomics.",
+    "category": "Medium",
+    "difficulty_score": 0.465,
+    "domain": "Economics",
+    "expected_capability": "Labor economics",
+    "reference_answer": "Frictional is routine career transition; structural is skill/geographic mismatch; cyclical arises from macroeconomic downturns."
+  },
+  {
+    "query_id": "Q182",
+    "query": "How does the greenhouse gas methane compare to carbon dioxide in terms of global warming potential and atmospheric lifespan?",
+    "category": "Medium",
+    "difficulty_score": 0.483,
+    "domain": "Environmental Science",
+    "expected_capability": "Climate comparison",
+    "reference_answer": "Methane has ~28-36x higher warming potential over 100 years than CO2, but oxidizes in the atmosphere within 12 years compared to centuries for CO2."
+  },
+  {
+    "query_id": "Q183",
+    "query": "Explain how CRISPR-Cas9 performs targeted genomic editing using guide RNA and endonuclease cleavage.",
+    "category": "Medium",
+    "difficulty_score": 0.487,
+    "domain": "Molecular Biology",
+    "expected_capability": "Biotechnology mechanism",
+    "reference_answer": "Guide RNA matches a target genomic locus adjacent to a PAM sequence, directing Cas9 endonuclease to introduce a double-strand break."
+  },
+  {
+    "query_id": "Q184",
+    "query": "Describe the differences between forward contracts and futures contracts in financial derivatives markets.",
+    "category": "Medium",
+    "difficulty_score": 0.5,
+    "domain": "Finance",
+    "expected_capability": "Derivative instruments",
+    "reference_answer": "Forwards are customized over-the-counter contracts with counterparty risk; futures are standardized, exchange-traded, and marked-to-market daily."
+  },
+  {
+    "query_id": "Q185",
+    "query": "Explain how the human auditory system transduces sound pressure waves in the cochlea into neural action potentials.",
+    "category": "Medium",
+    "difficulty_score": 0.513,
+    "domain": "Neuroscience",
+    "expected_capability": "Sensory transduction",
+    "reference_answer": "Sound vibrates the oval window, generating fluid waves that displace the basilar membrane, bending hair cell stereocilia to open ion channels."
+  },
+  {
+    "query_id": "Q186",
+    "query": "Compare fiscal austerity with debt-financed Keynesian stimulus during economic stagnation.",
+    "category": "Medium",
+    "difficulty_score": 0.517,
+    "domain": "Economics",
+    "expected_capability": "Macro policy debate",
+    "reference_answer": "Austerity aims to reduce public debt but risks depressing demand; Keynesian stimulus borrows to boost demand at the risk of higher debt ratios."
+  },
+  {
+    "query_id": "Q187",
+    "query": "Explain the difference between inductive and deductive reasoning with scientific examples of each.",
+    "category": "Medium",
+    "difficulty_score": 0.53,
+    "domain": "Philosophy of Science",
+    "expected_capability": "Epistemological reasoning",
+    "reference_answer": "Deductive reasoning moves from general premises to guaranteed specific conclusions; inductive reasoning generalizes from specific observations."
+  },
+  {
+    "query_id": "Q188",
+    "query": "Describe the physiological responses triggered by the sympathetic nervous system's fight-or-flight reaction.",
+    "category": "Medium",
+    "difficulty_score": 0.544,
+    "domain": "Physiology",
+    "expected_capability": "Autonomic response",
+    "reference_answer": "Releases epinephrine and norepinephrine, dilating bronchioles, increasing heart rate, inhibiting digestion, and mobilizing glucose."
+  },
+  {
+    "query_id": "Q189",
+    "query": "How does optical fiber exploit total internal reflection to transmit laser pulses across continents?",
+    "category": "Medium",
+    "difficulty_score": 0.553,
+    "domain": "Physics",
+    "expected_capability": "Optics application",
+    "reference_answer": "Light pulses enter a core with higher refractive index than cladding at angles exceeding the critical angle, reflecting along the core without escape."
+  },
+  {
+    "query_id": "Q190",
+    "query": "Explain the concept of liquidity trap in monetary economics and why conventional rate cuts become ineffective.",
+    "category": "Medium",
+    "difficulty_score": 0.567,
+    "domain": "Economics",
+    "expected_capability": "Macroeconomic theory",
+    "reference_answer": "Interest rates reach near-zero, and demand for money becomes horizontal; injections of cash are hoarded rather than spent or invested."
+  },
+  {
+    "query_id": "Q191",
+    "query": "Compare covalent bonding and ionic bonding regarding electron distribution and material properties.",
+    "category": "Medium",
+    "difficulty_score": 0.575,
+    "domain": "Chemistry",
+    "expected_capability": "Chemical bonding",
+    "reference_answer": "Covalent bonds share electron pairs between non-metals; ionic bonds transfer electrons between metals and non-metals forming crystal lattices."
+  },
+  {
+    "query_id": "Q192",
+    "query": "Explain how hydraulic systems amplify force using Pascal's principle.",
+    "category": "Medium",
+    "difficulty_score": 0.577,
+    "domain": "Physics",
+    "expected_capability": "Fluid mechanics",
+    "reference_answer": "Pressure applied to an enclosed incompressible fluid is transmitted undiminished; a smaller piston area generates a larger force on a larger piston area."
+  },
+  {
+    "query_id": "Q193",
+    "query": "Describe the stages of the business cycle and how GDP, employment, and inflation behave during each.",
+    "category": "Medium",
+    "difficulty_score": 0.597,
+    "domain": "Economics",
+    "expected_capability": "Macroeconomic cycles",
+    "reference_answer": "Expansion (rising GDP, low unemployment, rising inflation), Peak (capacity limits), Contraction (falling GDP, rising unemployment), Trough (bottom)."
+  },
+  {
+    "query_id": "Q194",
+    "query": "How does renal filtration and reabsorption in nephrons regulate blood volume and electrolyte balance?",
+    "category": "Medium",
+    "difficulty_score": 0.608,
+    "domain": "Physiology",
+    "expected_capability": "Renal physiology",
+    "reference_answer": "Glomeruli filter plasma; proximal/distal tubules reabsorb water and electrolytes via aldosterone and ADH to regulate blood volume."
+  },
+  {
+    "query_id": "Q195",
+    "query": "Explain the difference between economic profit and accounting profit.",
+    "category": "Medium",
+    "difficulty_score": 0.61,
+    "domain": "Economics",
+    "expected_capability": "Microeconomic concepts",
+    "reference_answer": "Accounting profit is revenue minus explicit monetary expenses; economic profit deducts both explicit costs and implicit opportunity costs."
+  },
+  {
+    "query_id": "Q196",
+    "query": "How does an electrical transformer step up or step down AC voltage using electromagnetic induction?",
+    "category": "Medium",
+    "difficulty_score": 0.63,
+    "domain": "Physics",
+    "expected_capability": "Electromagnetism",
+    "reference_answer": "Alternating current in the primary winding creates a time-varying magnetic flux in the core, inducing voltage in secondary windings proportional to turns ratio."
+  },
+  {
+    "query_id": "Q197",
+    "query": "Explain the role of mycorrhizal fungi in terrestrial plant nutrient uptake and soil ecosystems.",
+    "category": "Medium",
+    "difficulty_score": 0.639,
+    "domain": "Ecology",
+    "expected_capability": "Ecological symbiosis",
+    "reference_answer": "Mycorrhizae extend root surface area through hyphae, transferring phosphorus and minerals to plants in exchange for photosynthetic carbohydrates."
+  },
+  {
+    "query_id": "Q198",
+    "query": "Compare open-market operations with quantitative easing when nominal interest rates reach the zero lower bound.",
+    "category": "Medium",
+    "difficulty_score": 0.655,
+    "domain": "Economics",
+    "expected_capability": "Monetary policy analysis",
+    "reference_answer": "Conventional open market operations target short-term interbank rates; QE directly purchases long-term bonds to lower long-term borrowing yields."
+  },
+  {
+    "query_id": "Q199",
+    "query": "Explain how plate tectonics drives the oceanic conveyor belt (thermohaline circulation).",
+    "category": "Medium",
+    "difficulty_score": 0.659,
+    "domain": "Oceanography",
+    "expected_capability": "Oceanic systems",
+    "reference_answer": "Temperature and salinity differences drive deep water sinking in the North Atlantic, propelling global currents modulated by continental geometries."
+  },
+  {
+    "query_id": "Q200",
+    "query": "Describe how a refrigeration cycle uses compression, condensation, expansion, and evaporation to transfer heat.",
+    "category": "Medium",
+    "difficulty_score": 0.677,
+    "domain": "Engineering",
+    "expected_capability": "Thermodynamic cycles",
+    "reference_answer": "Compressor heats refrigerant vapor; condenser rejects heat to surroundings; expansion valve drops pressure/temperature; evaporator absorbs interior heat."
+  },
+  {
+    "query_id": "Q201",
+    "query": "Implement Manacher's algorithm in Python for linear O(n) palindromic substring discovery, detailing center expansion symmetry rules.",
+    "category": "Hard",
+    "difficulty_score": 0.746,
+    "domain": "Computer Science",
+    "expected_capability": "Algorithmic engineering",
+    "reference_answer": "Manacher's algorithm maps strings into delimited forms and tracks palindrome boundaries to achieve O(n) worst-case complexity."
+  },
+  {
+    "query_id": "Q202",
+    "query": "Prove by mathematical induction that 1^3 + 2^3 + ... + n^3 = [n(n+1)/2]^2 for all positive integers n.",
+    "category": "Hard",
+    "difficulty_score": 0.75,
+    "domain": "Mathematics",
+    "expected_capability": "Formal mathematical proof",
+    "reference_answer": "Induction proof showing base case n=1 and inductive hypothesis step expanding (k+1)^3 into squared sum formulation."
+  },
+  {
+    "query_id": "Q203",
+    "query": "Architect an end-to-end globally distributed rate limiter handling 500,000 req/sec across five continents with low latency.",
+    "category": "Hard",
+    "difficulty_score": 0.765,
+    "domain": "System Design",
+    "expected_capability": "Distributed systems architecture",
+    "reference_answer": "Multi-region architecture using sliding window counter with Redis clusters, local token memory caching, and gossip protocol synchronization."
+  },
+  {
+    "query_id": "Q204",
+    "query": "Solve the non-homogeneous second-order differential equation y'' - 4y' + 4y = e^(2x) using undetermined coefficients.",
+    "category": "Hard",
+    "difficulty_score": 0.773,
+    "domain": "Mathematics",
+    "expected_capability": "Higher-order calculus",
+    "reference_answer": "Characteristic equation has double root r=2; particular solution requires multiplying by x^2, yielding y = (c1 + c2*x + 0.5*x^2)e^(2x)."
+  },
+  {
+    "query_id": "Q205",
+    "query": "Analyze the Raft consensus protocol: explain how log replication quorums mathematically prevent split-brain during network partitions.",
+    "category": "Hard",
+    "difficulty_score": 0.787,
+    "domain": "Distributed Systems",
+    "expected_capability": "Distributed consensus proof",
+    "reference_answer": "Raft enforces strict majority (N/2 + 1) quorums for leader election and commitment, ensuring two disjoint partitions cannot commit conflicting logs."
+  },
+  {
+    "query_id": "Q206",
+    "query": "Design a lock-free multi-producer multi-consumer (MPMC) ring buffer in C++ using atomic CAS and acquire-release semantics.",
+    "category": "Hard",
+    "difficulty_score": 0.794,
+    "domain": "Concurrent Systems",
+    "expected_capability": "Concurrent systems programming",
+    "reference_answer": "Circular array buffer using atomic head/tail pointers, sequence counters, and std::memory_order_acquire/release to prevent torn reads."
+  },
+  {
+    "query_id": "Q207",
+    "query": "Derive the backpropagation gradient updates for a neural network with softmax activation and cross-entropy loss from first principles.",
+    "category": "Hard",
+    "difficulty_score": 0.807,
+    "domain": "Machine Learning",
+    "expected_capability": "Mathematical ML derivation",
+    "reference_answer": "Derivation showing simplification where the Jacobian matrix diagonal and off-diagonal terms collapse neatly into (p - y)."
+  },
+  {
+    "query_id": "Q208",
+    "query": "Explain how speculative execution vulnerabilities like Spectre exploit branch target buffers and CPU cache timing channels.",
+    "category": "Hard",
+    "difficulty_score": 0.815,
+    "domain": "Cybersecurity",
+    "expected_capability": "Hardware security analysis",
+    "reference_answer": "Attacker trains branch predictors to speculatively execute bounds-exceeding instructions, modifying cache state to leak data via flush+reload."
+  },
+  {
+    "query_id": "Q209",
+    "query": "Formulate a complete proof of the Cook-Levin Theorem establishing that the Boolean Satisfiability Problem (SAT) is NP-complete.",
+    "category": "Hard",
+    "difficulty_score": 0.825,
+    "domain": "Theoretical CS",
+    "expected_capability": "Automata and complexity theory",
+    "reference_answer": "Encodes nondeterministic Turing machine configurations, transitions, and tape heads into polynomial-sized CNF formulas."
+  },
+  {
+    "query_id": "Q210",
+    "query": "Synthesize a zero-downtime database migration architecture from a multi-terabyte monolithic relational database to a horizontally sharded Cassandra cluster.",
+    "category": "Hard",
+    "difficulty_score": 0.841,
+    "domain": "Data Architecture",
+    "expected_capability": "High-scale migration architecture",
+    "reference_answer": "Dual-write pipeline utilizing CDC (Kafka/Debezium), parallel backfills, reconciliation checksumming, and gradual read traffic shifting."
+  },
+  {
+    "query_id": "Q211",
+    "query": "Explain the construction of LALR(1) parsing tables from LR(0) item sets and how lookahead propagation resolves shift-reduce conflicts.",
+    "category": "Hard",
+    "difficulty_score": 0.847,
+    "domain": "Compiler Theory",
+    "expected_capability": "Compiler construction",
+    "reference_answer": "Merges LR(1) states sharing identical LR(0) cores, propagating lookaheads while avoiding introduced shift-reduce conflicts."
+  },
+  {
+    "query_id": "Q212",
+    "query": "Derive the time and space complexity of the Fast Fourier Transform (FFT) Cooley-Tukey algorithm using the Master Theorem.",
+    "category": "Hard",
+    "difficulty_score": 0.854,
+    "domain": "Computer Science",
+    "expected_capability": "Algorithmic complexity derivation",
+    "reference_answer": "Recurrence T(n) = 2T(n/2) + O(n). By Master Theorem case 2, log_b(a) = log_2(2) = 1 = d, yielding O(n log n)."
+  },
+  {
+    "query_id": "Q213",
+    "query": "Formulate the Bellman-Ford shortest path algorithm with negative edge weights and prove its negative cycle detection criteria.",
+    "category": "Hard",
+    "difficulty_score": 0.865,
+    "domain": "Computer Science",
+    "expected_capability": "Graph algorithm analysis",
+    "reference_answer": "Relaxes all |V|-1 edges; if an |V|-th relaxation yields a shorter distance, a reachable negative cycle is mathematically proven to exist."
+  },
+  {
+    "query_id": "Q214",
+    "query": "Explain how Google Spanner uses TrueTime API with GPS and atomic clocks to enforce strict serializability across data centers.",
+    "category": "Hard",
+    "difficulty_score": 0.875,
+    "domain": "Distributed Systems",
+    "expected_capability": "Distributed transactions",
+    "reference_answer": "TrueTime returns bounded time intervals [earliest, latest]; Spanner waits out the clock skew uncertainty window before committing writes."
+  },
+  {
+    "query_id": "Q215",
+    "query": "Prove that the Halting Problem is undecidable using Cantor's diagonalization argument.",
+    "category": "Hard",
+    "difficulty_score": 0.877,
+    "domain": "Theoretical CS",
+    "expected_capability": "Formal computability proof",
+    "reference_answer": "Constructs a hypothetical decider H, creates an adversarial program D that reverses H's prediction on itself, deriving an irreconcilable contradiction."
+  },
+  {
+    "query_id": "Q216",
+    "query": "Design an optimal cache eviction policy (ARC: Adaptive Replacement Cache) dynamically balancing recency and frequency caches.",
+    "category": "Hard",
+    "difficulty_score": 0.895,
+    "domain": "Operating Systems",
+    "expected_capability": "Cache algorithm design",
+    "reference_answer": "Maintains dual doubly linked lists (L1 for recency, L2 for frequency) with ghost history lists to dynamically tune target size p."
+  },
+  {
+    "query_id": "Q217",
+    "query": "Derive the update equations for a Kalman filter estimating state and covariance matrices for a non-linear dynamic system (EKF).",
+    "category": "Hard",
+    "difficulty_score": 0.905,
+    "domain": "Robotics / Control",
+    "expected_capability": "Control theory mathematics",
+    "reference_answer": "Linearizes state transitions and measurement equations via Jacobian matrices, predicting prior state and updating via Kalman gain."
+  },
+  {
+    "query_id": "Q218",
+    "query": "Analyze Byzantine Fault Tolerance (PBFT): detail the pre-prepare, prepare, and commit phases and prove safety up to 3f + 1 nodes.",
+    "category": "Hard",
+    "difficulty_score": 0.916,
+    "domain": "Distributed Systems",
+    "expected_capability": "Byzantine consensus proof",
+    "reference_answer": "Requires 2f + 1 prepare messages to reach prepared certificate, and 2f + 1 commit messages to commit, ensuring agreement despite f malicious nodes."
+  },
+  {
+    "query_id": "Q219",
+    "query": "Formulate the A* heuristic search algorithm and prove that admissibility and consistency guarantee an optimal shortest path.",
+    "category": "Hard",
+    "difficulty_score": 0.925,
+    "domain": "Artificial Intelligence",
+    "expected_capability": "Search algorithm proof",
+    "reference_answer": "Proof by contradiction showing that if an optimal path exists, consistent heuristics f(n) = g(n) + h(n) expand nodes in monotonically non-decreasing order."
+  },
+  {
+    "query_id": "Q220",
+    "query": "Design a robust distributed tracing system similar to Dapper or OpenTelemetry handling 10 million spans per second with low overhead.",
+    "category": "Hard",
+    "difficulty_score": 0.937,
+    "domain": "Distributed Systems",
+    "expected_capability": "Observability systems architecture",
+    "reference_answer": "Injects trace and span IDs in RPC metadata headers, employs coherent head-based or tail-based sampling, and offloads spans via local daemon buffers."
+  },
+  {
+    "query_id": "Q221",
+    "query": "Explain how zero-knowledge SNARKs use polynomial commitment schemes and elliptic curve pairings to verify computations in O(1) time.",
+    "category": "Hard",
+    "difficulty_score": 0.946,
+    "domain": "Cryptography",
+    "expected_capability": "Advanced cryptographic proof",
+    "reference_answer": "Converts computation to R1CS, polynomials via QAP, uses KZG commitments evaluated at secret points using toxic-waste pairing checks."
+  },
+  {
+    "query_id": "Q222",
+    "query": "Prove that no comparison-based sorting algorithm can achieve an average-case time complexity better than Omega(n log n).",
+    "category": "Hard",
+    "difficulty_score": 0.954,
+    "domain": "Computer Science",
+    "expected_capability": "Information theoretic proof",
+    "reference_answer": "Decision tree argument: sorting n items requires at least n! leaves; a binary tree of height h has at most 2^h leaves; h >= log2(n!) = Omega(n log n)."
+  },
+  {
+    "query_id": "Q223",
+    "query": "Design an LSM-tree (Log-Structured Merge-tree) storage engine detailing write ahead log, memtable, SSTables, and compaction strategies.",
+    "category": "Hard",
+    "difficulty_score": 0.967,
+    "domain": "Database Internals",
+    "expected_capability": "Database internals design",
+    "reference_answer": "Appends writes to WAL and mutable memtable (skiplist); flushes immutable memtables to Levelled SSTables with Bloom filters and background compaction."
+  },
+  {
+    "query_id": "Q224",
+    "query": "Formulate the mathematical formulation of the Viterbi algorithm for decoding hidden Markov model state sequences.",
+    "category": "Hard",
+    "difficulty_score": 0.973,
+    "domain": "Machine Learning",
+    "expected_capability": "Probabilistic sequence modeling",
+    "reference_answer": "Dynamic programming recurrence maintaining maximum probability path v_t(j) = max_i [v_{t-1}(i) * a_ij] * b_j(y_t) and backpointers."
+  },
+  {
+    "query_id": "Q225",
+    "query": "Analyze memory consistency models: compare x86 TSO (Total Store Order) with ARM relaxed consistency and explain store buffer forwarding.",
+    "category": "Hard",
+    "difficulty_score": 0.98,
+    "domain": "Computer Architecture",
+    "expected_capability": "Microarchitectural consistency",
+    "reference_answer": "x86 TSO allows reads to bypass older writes to different addresses via store buffers; ARM allows arbitrary reordering without explicit memory barriers."
+  },
+  {
+    "query_id": "Q226",
+    "query": "Derive the gradient equations for an Adam optimizer detailing bias correction for first and second moment moving averages.",
+    "category": "Hard",
+    "difficulty_score": 0.744,
+    "domain": "Machine Learning",
+    "expected_capability": "Mathematical optimization derivation",
+    "reference_answer": "Derivation showing m_t/(1 - beta1^t) and v_t/(1 - beta2^t) correcting zero-initialization bias in early iteration timesteps."
+  },
+  {
+    "query_id": "Q227",
+    "query": "Prove the existence of a stable matching for any marriage problem instance using the Gale-Shapley Deferred Acceptance algorithm.",
+    "category": "Hard",
+    "difficulty_score": 0.756,
+    "domain": "Game Theory",
+    "expected_capability": "Combinatorial game theory",
+    "reference_answer": "Proof showing algorithm terminates in at most n^2 steps with men progressing down preferences and women improving matches monotonically."
+  },
+  {
+    "query_id": "Q228",
+    "query": "Architect an event-driven CQRS and Event Sourcing architecture for high-frequency financial ledgers with snapshotting.",
+    "category": "Hard",
+    "difficulty_score": 0.764,
+    "domain": "System Architecture",
+    "expected_capability": "Enterprise financial architecture",
+    "reference_answer": "Separates command mutation from read views, storing immutable append-only event streams in Kafka/EventStore with periodic state snapshots."
+  },
+  {
+    "query_id": "Q229",
+    "query": "Explain how garbage collection in the Java HotSpot ZGC achieves sub-millisecond pause times using colored pointers and load barriers.",
+    "category": "Hard",
+    "difficulty_score": 0.777,
+    "domain": "Virtual Machines",
+    "expected_capability": "Low-latency runtime internals",
+    "reference_answer": "ZGC uses reference coloring in pointer bits and concurrent load barriers to relocate heap objects concurrently with application threads."
+  },
+  {
+    "query_id": "Q230",
+    "query": "Derive the recurrence relations for the Needleman-Wunsch global sequence alignment algorithm with affine gap penalties.",
+    "category": "Hard",
+    "difficulty_score": 0.784,
+    "domain": "Bioinformatics",
+    "expected_capability": "Computational biology algorithms",
+    "reference_answer": "Three-matrix DP (M, Ix, Iy) separating match scores, gap opening penalties d, and gap extension penalties e to optimize in O(n*m)."
+  },
+  {
+    "query_id": "Q231",
+    "query": "Derive the Black-Scholes-Merton partial differential equation from a delta-neutral hedging portfolio using Ito's Lemma.",
+    "category": "Hard",
+    "difficulty_score": 0.794,
+    "domain": "Quantitative Finance",
+    "expected_capability": "Stochastic calculus derivation",
+    "reference_answer": "Constructs portfolio of long stock and short option; applies Ito's Lemma to option price dV, eliminating stochastic dW terms to derive PDE."
+  },
+  {
+    "query_id": "Q232",
+    "query": "Derive the Euler-Lagrange equations from the Principle of Stationary Action using the calculus of variations.",
+    "category": "Hard",
+    "difficulty_score": 0.802,
+    "domain": "Theoretical Physics",
+    "expected_capability": "Variational mechanics derivation",
+    "reference_answer": "Action S = integral of L(q, q_dot, t) dt. Perturbs path by epsilon * eta(t), integrates by parts with boundary conditions vanishing, yielding EL equations."
+  },
+  {
+    "query_id": "Q233",
+    "query": "Prove the Central Limit Theorem using characteristic functions (Fourier transforms) and Taylor series expansions.",
+    "category": "Hard",
+    "difficulty_score": 0.813,
+    "domain": "Statistics",
+    "expected_capability": "Probability theory proof",
+    "reference_answer": "Characteristic function of standardized sum converges pointwise to exp(-t^2 / 2), which is the unique characteristic function of standard normal."
+  },
+  {
+    "query_id": "Q234",
+    "query": "Derive the Maxwell-Boltzmann velocity distribution from the canonical ensemble partition function in statistical thermodynamics.",
+    "category": "Hard",
+    "difficulty_score": 0.826,
+    "domain": "Statistical Mechanics",
+    "expected_capability": "Statistical mechanics proof",
+    "reference_answer": "Integrates phase space volume over momentum coordinates using Gaussian integrals to evaluate the single-particle partition function."
+  },
+  {
+    "query_id": "Q235",
+    "query": "Formulate the Navier-Stokes equations for incompressible Newtonian fluid flow and explain the millennium prize open problem.",
+    "category": "Hard",
+    "difficulty_score": 0.835,
+    "domain": "Fluid Dynamics",
+    "expected_capability": "Mathematical physics",
+    "reference_answer": "Applies Newton's second law to continuum elements; open problem asks whether smooth, physically reasonable solutions always exist in 3D for all time."
+  },
+  {
+    "query_id": "Q236",
+    "query": "Derive the Runge-Kutta 4th-order (RK4) numerical integration formula using Taylor series expansions and Simpson's 1/3 rule.",
+    "category": "Hard",
+    "difficulty_score": 0.845,
+    "domain": "Numerical Analysis",
+    "expected_capability": "Numerical differential equations",
+    "reference_answer": "Expands f(x, y) along intermediate slope estimates k1, k2, k3, k4, matching Taylor series expansion coefficients up to order O(h^4)."
+  },
+  {
+    "query_id": "Q237",
+    "query": "Prove the spectral theorem for finite-dimensional Hermitian operators and show their eigenvalues are strictly real.",
+    "category": "Hard",
+    "difficulty_score": 0.853,
+    "domain": "Linear Algebra",
+    "expected_capability": "Linear algebra proof",
+    "reference_answer": "Proof showing conjugate transpose equality implies lambda * <v, v> = lambda_bar * <v, v>, proving lambda is real and eigenvectors are orthogonal."
+  },
+  {
+    "query_id": "Q238",
+    "query": "Derive the Schrodinger wave equation for a quantum particle in a 1D finite potential well, detailing boundary condition transcendental equations.",
+    "category": "Hard",
+    "difficulty_score": 0.869,
+    "domain": "Quantum Mechanics",
+    "expected_capability": "Quantum mechanics derivation",
+    "reference_answer": "Solves piecewise Helmholtz equations inside and outside well; matches wavefunctions and derivatives at boundaries to yield transcendental energy equations."
+  },
+  {
+    "query_id": "Q239",
+    "query": "Derive the pricing formula for a European call option using risk-neutral valuation and Gaussian cumulative integrals.",
+    "category": "Hard",
+    "difficulty_score": 0.873,
+    "domain": "Quantitative Finance",
+    "expected_capability": "Risk-neutral pricing derivation",
+    "reference_answer": "Expectation of max(S_T - K, 0) under risk-neutral measure Q, substituting log-normal integration limits to yield S*N(d1) - K*e^(-rT)*N(d2)."
+  },
+  {
+    "query_id": "Q240",
+    "query": "Prove that the Mandelbrot set is connected using Douady and Hubbard's uniformization of its exterior complement.",
+    "category": "Hard",
+    "difficulty_score": 0.882,
+    "domain": "Complex Analysis",
+    "expected_capability": "Complex dynamics proof",
+    "reference_answer": "Constructs conformal isomorphisms from the complement of the Mandelbrot set to the exterior of the unit disk via Green's functions."
+  },
+  {
+    "query_id": "Q241",
+    "query": "Derive Einstein's field equations from the Einstein-Hilbert action using the Palatini variational method in general relativity.",
+    "category": "Hard",
+    "difficulty_score": 0.895,
+    "domain": "General Relativity",
+    "expected_capability": "Relativistic field derivation",
+    "reference_answer": "Varies metric tensor g^(mu nu) in action S = integral (R - 2*Lambda) sqrt(-g) d4x, applying Bianchi identities to obtain G_{mu nu} = 8*pi*T_{mu nu}."
+  },
+  {
+    "query_id": "Q242",
+    "query": "Formulate the Karush-Kuhn-Tucker (KKT) necessary and sufficient conditions for non-linear convex optimization with inequality constraints.",
+    "category": "Hard",
+    "difficulty_score": 0.908,
+    "domain": "Optimization Theory",
+    "expected_capability": "Convex optimization theory",
+    "reference_answer": "Primal feasibility, dual feasibility, stationarity of the Lagrangian, and complementary slackness conditions for global optima."
+  },
+  {
+    "query_id": "Q243",
+    "query": "Derive the Gibbs-Duhem equation from the fundamental thermodynamic relation and Euler's homogeneous function theorem.",
+    "category": "Hard",
+    "difficulty_score": 0.913,
+    "domain": "Thermodynamics",
+    "expected_capability": "Thermodynamic derivation",
+    "reference_answer": "Applies Euler's theorem to internal energy U(S, V, N), differentiates total differential, and subtracts to yield S*dT - V*dP + sum(N_i * dmu_i) = 0."
+  },
+  {
+    "query_id": "Q244",
+    "query": "Prove the Brouwer fixed-point theorem for the unit disk using algebraic topology and the non-retraction theorem.",
+    "category": "Hard",
+    "difficulty_score": 0.922,
+    "domain": "Topology",
+    "expected_capability": "Algebraic topology proof",
+    "reference_answer": "Assumes fixed-point-free map f, constructs smooth retraction from disk onto boundary circle, showing induced homology group contradiction Z -> 0."
+  },
+  {
+    "query_id": "Q245",
+    "query": "Derive the Merton jump-diffusion asset pricing model equations incorporating compound Poisson process shocks.",
+    "category": "Hard",
+    "difficulty_score": 0.932,
+    "domain": "Financial Engineering",
+    "expected_capability": "Quantitative jump modeling",
+    "reference_answer": "Extends Black-Scholes geometric Brownian motion with log-normal jump sizes arriving via Poisson process rate lambda, deriving integro-differential PDE."
+  },
+  {
+    "query_id": "Q246",
+    "query": "Formulate the Dirichlet problem for Poisson's equation on a sphere using spherical harmonics and Green's functions.",
+    "category": "Hard",
+    "difficulty_score": 0.943,
+    "domain": "Mathematical Physics",
+    "expected_capability": "Partial differential equations",
+    "reference_answer": "Expands potential in Legendre polynomials and spherical harmonics Y_lm(theta, phi), matching boundary charges with orthogonality relations."
+  },
+  {
+    "query_id": "Q247",
+    "query": "Derive the maximum entropy probability distribution for a continuous random variable given mean and variance constraints.",
+    "category": "Hard",
+    "difficulty_score": 0.954,
+    "domain": "Information Theory",
+    "expected_capability": "Information theory derivation",
+    "reference_answer": "Maximizes differential entropy -integral p(x) ln p(x) dx subject to normalization and moment constraints via calculus of variations, yielding Gaussian."
+  },
+  {
+    "query_id": "Q248",
+    "query": "Prove that every finite field has prime power order q = p^k and that its multiplicative group is cyclic.",
+    "category": "Hard",
+    "difficulty_score": 0.961,
+    "domain": "Abstract Algebra",
+    "expected_capability": "Abstract algebra proof",
+    "reference_answer": "Shows characteristic must be prime p; vector space over Z_p gives size p^k; uses polynomial roots and Euler totient to prove cyclic structure."
+  },
+  {
+    "query_id": "Q249",
+    "query": "Derive the Lorentz transformation equations from Einstein's two postulates of special relativity.",
+    "category": "Hard",
+    "difficulty_score": 0.969,
+    "domain": "Relativity",
+    "expected_capability": "Theoretical physics derivation",
+    "reference_answer": "Assumes linear spacetime transformation; applies constancy of speed of light in all inertial frames to determine gamma factor sqrt(1 - v^2/c^2)."
+  },
+  {
+    "query_id": "Q250",
+    "query": "Formulate the Fokker-Planck equation describing the time evolution of the probability density function of an Ito drift-diffusion process.",
+    "category": "Hard",
+    "difficulty_score": 0.98,
+    "domain": "Stochastic Processes",
+    "expected_capability": "Stochastic physics",
+    "reference_answer": "Applies Kramers-Moyal forward expansion to the Chapman-Kolmogorov equation, retaining drift and diffusion second-derivative terms."
+  },
+  {
+    "query_id": "Q251",
+    "query": "Prove the Cauchy-Schwarz inequality for general inner product spaces and state conditions for equality.",
+    "category": "Hard",
+    "difficulty_score": 0.741,
+    "domain": "Functional Analysis",
+    "expected_capability": "Functional analysis proof",
+    "reference_answer": "Considers quadratic polynomial in t: ||u + t*v||^2 >= 0; discriminant must be <= 0, proving |<u, v>|^2 <= <u, u>*<v, v> with equality iff linear dependence."
+  },
+  {
+    "query_id": "Q252",
+    "query": "Derive the thermodynamic efficiency of an ideal Carnot cycle operating between temperatures Th and Tc from entropy balance.",
+    "category": "Hard",
+    "difficulty_score": 0.755,
+    "domain": "Thermodynamics",
+    "expected_capability": "Classical thermodynamics derivation",
+    "reference_answer": "Entropy change across reversible cycle is zero; Q_h/T_h = Q_c/T_c; efficiency = (W/Q_h) = (Q_h - Q_c)/Q_h = 1 - T_c/T_h."
+  },
+  {
+    "query_id": "Q253",
+    "query": "Formulate the mathematical proof of the Nyquist-Shannon sampling theorem using Dirac comb convolution and Fourier transforms.",
+    "category": "Hard",
+    "difficulty_score": 0.765,
+    "domain": "Signal Processing",
+    "expected_capability": "Signal processing proof",
+    "reference_answer": "Multiplies time signal by Dirac comb; Fourier transform becomes periodic spectrum copies; bandlimited signals avoid aliasing if fs > 2B."
+  },
+  {
+    "query_id": "Q254",
+    "query": "Derive the geodesic equation of motion from the variational principle of spacetime proper time in curved geometry.",
+    "category": "Hard",
+    "difficulty_score": 0.773,
+    "domain": "General Relativity",
+    "expected_capability": "Differential geometry derivation",
+    "reference_answer": "Varies proper time delta integral ds = 0; uses metric connection and Christoffel symbols Gamma^lambda_{mu nu} to derive acceleration equation."
+  },
+  {
+    "query_id": "Q255",
+    "query": "Prove that the Riemann zeta function satisfies the functional equation relating zeta(s) to zeta(1-s) using Jacobi theta functions.",
+    "category": "Hard",
+    "difficulty_score": 0.786,
+    "domain": "Analytic Number Theory",
+    "expected_capability": "Analytic number theory proof",
+    "reference_answer": "Uses Mellin transform of Jacobi theta function, Poisson summation formula, and contour integration over the critical strip."
+  },
+  {
+    "query_id": "Q256",
+    "query": "Derive the capital asset pricing model (CAPM) equation from the Markowitz mean-variance efficient frontier and tangency portfolio.",
+    "category": "Hard",
+    "difficulty_score": 0.796,
+    "domain": "Quantitative Economics",
+    "expected_capability": "Financial economics derivation",
+    "reference_answer": "Maximizes Sharpe ratio to find tangency portfolio; applies first-order conditions to show asset risk premium equals beta times market risk premium."
+  },
+  {
+    "query_id": "Q257",
+    "query": "Formulate the Navier-Stokes boundary layer equations (Prandtl's equations) for high Reynolds number flow past a flat plate.",
+    "category": "Hard",
+    "difficulty_score": 0.805,
+    "domain": "Aerodynamics",
+    "expected_capability": "Fluid boundary layer theory",
+    "reference_answer": "Applies order-of-magnitude scaling analysis to discard small vertical pressure gradients, simplifying momentum equations into parabolic form."
+  },
+  {
+    "query_id": "Q258",
+    "query": "Prove that every open set in R^n can be expressed as a countable union of disjoint open intervals/cubes.",
+    "category": "Hard",
+    "difficulty_score": 0.811,
+    "domain": "Real Analysis",
+    "expected_capability": "Real analysis proof",
+    "reference_answer": "Uses dyadic cubes of side length 2^(-k); selects maximal disjoint dyadic cubes interior to the open set to form countable partition."
+  },
+  {
+    "query_id": "Q259",
+    "query": "Derive the Stefan-Boltzmann law E = sigma * T^4 by integrating Planck's blackbody radiation formula over all frequencies.",
+    "category": "Hard",
+    "difficulty_score": 0.824,
+    "domain": "Thermodynamics",
+    "expected_capability": "Blackbody radiation derivation",
+    "reference_answer": "Integrates u(nu) dnu over (0, infinity); substitutes dimensionless variable x = h*nu / (k*T), using Riemann zeta integral integral x^3/(e^x - 1) = pi^4 / 15."
+  },
+  {
+    "query_id": "Q260",
+    "query": "Formulate the non-linear Schrodinger equation (NLSE) modeling optical soliton propagation in non-linear Kerr media.",
+    "category": "Hard",
+    "difficulty_score": 0.833,
+    "domain": "Non-Linear Optics",
+    "expected_capability": "Non-linear optics derivation",
+    "reference_answer": "Combines group velocity dispersion with self-phase modulation in optical fiber to derive sech(t) shape-preserving bright solitons."
+  },
+  {
+    "query_id": "Q261",
+    "query": "Prove that the set of algebraic numbers is countable while the set of transcendental numbers is uncountably infinite.",
+    "category": "Hard",
+    "difficulty_score": 0.843,
+    "domain": "Set Theory",
+    "expected_capability": "Set theory proof",
+    "reference_answer": "Polynomials of degree n with integer coefficients are countable; countable union of countable sets is countable; R is uncountable, so transcendentals are uncountable."
+  },
+  {
+    "query_id": "Q262",
+    "query": "Derive the Fermi-Dirac and Bose-Einstein quantum distribution statistics from the grand canonical ensemble.",
+    "category": "Hard",
+    "difficulty_score": 0.851,
+    "domain": "Quantum Statistics",
+    "expected_capability": "Quantum statistical mechanics",
+    "reference_answer": "Grand partition function with occupation numbers restricted to 0, 1 (fermions) or 0 to infinity (bosons), differentiating ln(Xi) with respect to chemical potential."
+  },
+  {
+    "query_id": "Q263",
+    "query": "Formulate the variational formulation (weak form) for a Poisson boundary value problem and prove solution existence via Lax-Milgram theorem.",
+    "category": "Hard",
+    "difficulty_score": 0.868,
+    "domain": "Numerical PDE",
+    "expected_capability": "Sobolev space functional analysis",
+    "reference_answer": "Multiplies PDE by test function, integrates by parts; shows bilinear form is continuous and coercive in Sobolev space H^1_0, guaranteeing unique weak solution."
+  },
+  {
+    "query_id": "Q264",
+    "query": "Derive the Gibbs free energy minimization criteria for multi-component chemical equilibrium with stoichiometric constraints.",
+    "category": "Hard",
+    "difficulty_score": 0.875,
+    "domain": "Chemical Thermodynamics",
+    "expected_capability": "Chemical thermodynamics derivation",
+    "reference_answer": "Applies Lagrange multipliers to chemical potentials sum(nu_i * mu_i) = 0, deriving the equilibrium constant K_p relationship with standard delta G."
+  },
+  {
+    "query_id": "Q265",
+    "query": "Prove the Picard-Lindelof theorem guaranteeing local existence and uniqueness of solutions to initial value ordinary differential equations.",
+    "category": "Hard",
+    "difficulty_score": 0.888,
+    "domain": "Differential Equations",
+    "expected_capability": "ODE analysis proof",
+    "reference_answer": "Converts ODE to integral equation; defines Picard iteration operator on Banach space; proves operator is contraction mapping under Lipschitz condition."
+  },
+  {
+    "query_id": "Q266",
+    "query": "Design an automated market maker (AMM) invariant bonding curve that minimizes impermanent loss for concentrated liquidity positions.",
+    "category": "Hard",
+    "difficulty_score": 0.896,
+    "domain": "FinTech / Cryptography",
+    "expected_capability": "Algorithmic economics",
+    "reference_answer": "Derives virtual reserve equations similar to Uniswap v3, calculating tick spacing, capital efficiency multipliers, and dynamic fee scaling."
+  },
+  {
+    "query_id": "Q267",
+    "query": "Synthesize a high-throughput lock-free priority queue using multi-dimensional skip lists and atomic pointer operations.",
+    "category": "Hard",
+    "difficulty_score": 0.904,
+    "domain": "Concurrent Systems",
+    "expected_capability": "Concurrent data structures",
+    "reference_answer": "Implements probabilistic skiplist with atomic compare-and-swap on forward node pointers, utilizing deletion flags to handle concurrent dequeues."
+  },
+  {
+    "query_id": "Q268",
+    "query": "Design a fault-tolerant geo-replicated distributed consensus state machine with dynamic membership reconfiguration.",
+    "category": "Hard",
+    "difficulty_score": 0.913,
+    "domain": "Distributed Systems",
+    "expected_capability": "Distributed systems engineering",
+    "reference_answer": "Integrates joint consensus protocol to safely transition cluster configurations from C_old to C_new without split-quorum vulnerabilities."
+  },
+  {
+    "query_id": "Q269",
+    "query": "Formulate the mathematics of deep reinforcement learning Proximal Policy Optimization (PPO) clipped surrogate objective functions.",
+    "category": "Hard",
+    "difficulty_score": 0.926,
+    "domain": "Machine Learning",
+    "expected_capability": "Reinforcement learning theory",
+    "reference_answer": "Derives objective function clipping probability ratio r_t(theta) within [1 - epsilon, 1 + epsilon], preventing destabilizingly large policy updates."
+  },
+  {
+    "query_id": "Q270",
+    "query": "Architect an ultra-low latency FPGA-accelerated financial market data processing feed handler analyzing packet parsing and PCIe DMA overhead.",
+    "category": "Hard",
+    "difficulty_score": 0.938,
+    "domain": "Hardware Systems",
+    "expected_capability": "Low-latency systems architecture",
+    "reference_answer": "Direct Ethernet MAC parser on FPGA parsing FIX/FAST packets, maintaining L1 orderbook in on-chip BRAM, dispatching DMA writes to host memory in <1us."
+  },
+  {
+    "query_id": "Q271",
+    "query": "Synthesize a formal security proof for zero-knowledge range proofs using Bulletproofs and inner product arguments.",
+    "category": "Hard",
+    "difficulty_score": 0.943,
+    "domain": "Cryptography",
+    "expected_capability": "Cryptographic protocol proof",
+    "reference_answer": "Encodes commitment value in binary representation, reduces range checks to inner product argument over Pedersen commitments in logarithmic proof size."
+  },
+  {
+    "query_id": "Q272",
+    "query": "Design an end-to-end autonomous driving trajectory planner combining hybrid A* pathfinding with non-linear Model Predictive Control (MPC).",
+    "category": "Hard",
+    "difficulty_score": 0.958,
+    "domain": "Robotics",
+    "expected_capability": "Robotics control synthesis",
+    "reference_answer": "Hybrid A* search over continuous 3D vehicle state space (x, y, theta), feeding kinematically feasible trajectories into real-time quadratic programming MPC."
+  },
+  {
+    "query_id": "Q273",
+    "query": "Formulate the mathematics of attention sink phenomenon and streaming LLM architectures for infinite context window inference.",
+    "category": "Hard",
+    "difficulty_score": 0.965,
+    "domain": "Machine Learning Theory",
+    "expected_capability": "LLM architectural theory",
+    "reference_answer": "Analyzes excessive attention softmax allocation to initial sequence tokens; preserves first four tokens alongside sliding window KV-cache to stabilize attention."
+  },
+  {
+    "query_id": "Q274",
+    "query": "Design a high-frequency algorithmic arbitrage pipeline across fragmented cryptocurrency decentralized exchanges with MEV protections.",
+    "category": "Hard",
+    "difficulty_score": 0.977,
+    "domain": "FinTech",
+    "expected_capability": "Algorithmic trading systems",
+    "reference_answer": "Simulates pending mempool bundles, evaluates flash loans, solves convex arbitrage routing graphs, and submits private RPC bundles to block builders."
+  },
+  {
+    "query_id": "Q275",
+    "query": "Prove the convergence of the Alternating Direction Method of Multipliers (ADMM) for separable convex optimization problems.",
+    "category": "Hard",
+    "difficulty_score": 0.98,
+    "domain": "Optimization Theory",
+    "expected_capability": "Convex optimization proof",
+    "reference_answer": "Proof showing residual convergence, objective convergence, and dual variable convergence via Lyapunov energy functions."
+  },
+  {
+    "query_id": "Q276",
+    "query": "Architect a high-availability distributed file system combining erasure coding (Reed-Solomon) and tiered NVMe caching.",
+    "category": "Hard",
+    "difficulty_score": 0.744,
+    "domain": "Storage Systems",
+    "expected_capability": "Distributed storage engineering",
+    "reference_answer": "Implements (8+4) Reed-Solomon coding striping blocks across storage nodes, maintaining metadata servers with Raft and write-back NVMe caches."
+  },
+  {
+    "query_id": "Q277",
+    "query": "Derive the backpropagation equations through time (BPTT) for an LSTM cell, detailing forget, input, output, and cell state gradients.",
+    "category": "Hard",
+    "difficulty_score": 0.757,
+    "domain": "Machine Learning",
+    "expected_capability": "Deep learning derivation",
+    "reference_answer": "Calculates recursive partial derivatives dC_t/dC_{t-1} across sequential unrolled timesteps, explaining how additive cell states mitigate vanishing gradients."
+  },
+  {
+    "query_id": "Q278",
+    "query": "Synthesize a Byzantine-fault-tolerant clock synchronization algorithm for heterogeneous distributed sensor networks.",
+    "category": "Hard",
+    "difficulty_score": 0.763,
+    "domain": "Distributed Computing",
+    "expected_capability": "Distributed sensor algorithms",
+    "reference_answer": "Combines Marzullo's interval intersection algorithm with Lamport logical clocks, rejecting up to f aberrant sensor readings."
+  },
+  {
+    "query_id": "Q279",
+    "query": "Formulate the theoretical foundations of generative adversarial network (GAN) training as a minimax game optimizing Jensen-Shannon divergence.",
+    "category": "Hard",
+    "difficulty_score": 0.778,
+    "domain": "Machine Learning",
+    "expected_capability": "Generative modeling proof",
+    "reference_answer": "Derives optimal discriminator D*(x) = p_data / (p_data + p_g); substitutes into generator objective to prove value function equals 2*JSD(p_data || p_g) - 2 ln 2."
+  },
+  {
+    "query_id": "Q280",
+    "query": "Design a compilation pass in LLVM for automated vectorization (SIMD) analyzing polyhedral loop dependency graphs.",
+    "category": "Hard",
+    "difficulty_score": 0.783,
+    "domain": "Compiler Design",
+    "expected_capability": "Compiler optimization",
+    "reference_answer": "Models loop iterations as integer polyhedra, evaluates distance and direction vectors, and applies unimodular transformations for AVX-512 vectorization."
+  },
+  {
+    "query_id": "Q281",
+    "query": "Synthesize an end-to-end multi-modal diffusion model architecture aligning continuous latent audio and visual representations.",
+    "category": "Hard",
+    "difficulty_score": 0.795,
+    "domain": "Generative AI",
+    "expected_capability": "Multi-modal model design",
+    "reference_answer": "Cross-attention conditioning between audio spectrogram latents and video frame latents with classifier-free guidance and temporal self-attention."
+  },
+  {
+    "query_id": "Q282",
+    "query": "Formulate the mathematical proof of the Cramér-Rao lower bound for unbiased parameter estimators in statistical estimation theory.",
+    "category": "Hard",
+    "difficulty_score": 0.806,
+    "domain": "Mathematical Statistics",
+    "expected_capability": "Statistical inference proof",
+    "reference_answer": "Applies Cauchy-Schwarz inequality to covariance between estimator and score function, proving variance cannot be less than inverse Fisher information."
+  },
+  {
+    "query_id": "Q283",
+    "query": "Architect a massively parallel graph neural network (GNN) training pipeline over trillion-edge graphs using partition-based sampling.",
+    "category": "Hard",
+    "difficulty_score": 0.817,
+    "domain": "Data Engineering",
+    "expected_capability": "High-performance computing",
+    "reference_answer": "Combines METIS graph partitioning with neighborhood sampling (GraphSAGE), overlapping GPU-CPU communications via NVLink and asynchronous CUDA streams."
+  },
+  {
+    "query_id": "Q284",
+    "query": "Derive the equations of motion for an inverted pendulum on a cart using Hamiltonian mechanics and design a linear quadratic regulator (LQR).",
+    "category": "Hard",
+    "difficulty_score": 0.828,
+    "domain": "Control Systems",
+    "expected_capability": "Control systems engineering",
+    "reference_answer": "Derives Legendre transform to find Hamiltonian H(q, p); linearizes equations of motion around unstable upright equilibrium; solves Riccati equation for LQR gain."
+  },
+  {
+    "query_id": "Q285",
+    "query": "Formulate the mathematical equations for quantum error correction using the surface code (toric code) and minimum-weight perfect matching.",
+    "category": "Hard",
+    "difficulty_score": 0.838,
+    "domain": "Quantum Computing",
+    "expected_capability": "Quantum fault tolerance",
+    "reference_answer": "Defines star and plaquette stabilizer operators on 2D qubit lattice, measuring syndrome eigenvalues to identify and correct bit and phase errors via Blossom algorithm."
+  },
+  {
+    "query_id": "Q286",
+    "query": "Design a zero-copy network packet processing pipeline in the Linux kernel using eBPF and XDP (eXpress Data Path).",
+    "category": "Hard",
+    "difficulty_score": 0.843,
+    "domain": "Systems Programming",
+    "expected_capability": "Kernel systems programming",
+    "reference_answer": "Attaches XDP programs directly to NIC driver ring buffers, rewriting Ethernet/IP headers and redirecting packets via AF_XDP sockets without socket buffer allocations."
+  },
+  {
+    "query_id": "Q287",
+    "query": "Synthesize a formal specification for a two-phase commit protocol using TLA+ and model check safety and liveness invariants.",
+    "category": "Hard",
+    "difficulty_score": 0.855,
+    "domain": "Formal Methods",
+    "expected_capability": "Formal verification",
+    "reference_answer": "Defines transaction managers and resource managers states; specifies Prepare, Commit, Abort actions, verifying non-triviality and consensus under crash faults."
+  },
+  {
+    "query_id": "Q288",
+    "query": "Formulate the mathematics of LoRA (Low-Rank Adaptation) and QLoRA for parameter-efficient fine-tuning of large language models.",
+    "category": "Hard",
+    "difficulty_score": 0.865,
+    "domain": "Machine Learning",
+    "expected_capability": "LLM optimization theory",
+    "reference_answer": "Decomposes weight updates Delta W as B * A where B in R^(d x r) and A in R^(r x k) with r << d; analyzes double quantization and 4-bit NormalFloat (NF4)."
+  },
+  {
+    "query_id": "Q289",
+    "query": "Design a distributed multi-tenant vector database capable of indexing and querying 1 billion 1536-dimensional vectors with sub-50ms latency.",
+    "category": "Hard",
+    "difficulty_score": 0.878,
+    "domain": "Vector Search",
+    "expected_capability": "Vector database engineering",
+    "reference_answer": "Combines Hierarchical Navigable Small World (HNSW) graphs with Product Quantization (PQ), inverted file indexes (IVF), and memory-mapped persistent storage."
+  },
+  {
+    "query_id": "Q290",
+    "query": "Derive the mathematical formulation of contrastive predictive coding (CPC) and InfoNCE loss as a lower bound on mutual information.",
+    "category": "Hard",
+    "difficulty_score": 0.886,
+    "domain": "Unsupervised Learning",
+    "expected_capability": "Representation learning proof",
+    "reference_answer": "Proves InfoNCE loss L_q >= I(X; C) - ln(N), showing that maximizing cosine similarity with positive targets relative to negative distractors maximizes mutual information."
+  },
+  {
+    "query_id": "Q291",
+    "query": "Architect a deterministic zero-knowledge virtual machine (zkVM) execution trace proving arithmetic circuits and memory consistency.",
+    "category": "Hard",
+    "difficulty_score": 0.896,
+    "domain": "Cryptography",
+    "expected_capability": "zkVM architecture",
+    "reference_answer": "Compiles RISC-V bytecode into execution matrices, proves memory state transitions using Permutation Arguments (Plookup) and STARK polynomial commitments."
+  },
+  {
+    "query_id": "Q292",
+    "query": "Formulate the mathematics of continuous-time normalizing flows using Neural Ordinary Differential Equations (Neural ODEs).",
+    "category": "Hard",
+    "difficulty_score": 0.904,
+    "domain": "Machine Learning Theory",
+    "expected_capability": "Generative neural theory",
+    "reference_answer": "Parameterizes velocity fields f(z(t), t) with neural networks; evaluates change in log probability via instantaneous change of variables trace formula."
+  },
+  {
+    "query_id": "Q293",
+    "query": "Design an automated pipeline for formal software verification of smart contracts using symbolic execution and SMT solvers (Z3).",
+    "category": "Hard",
+    "difficulty_score": 0.915,
+    "domain": "Software Verification",
+    "expected_capability": "Symbolic software verification",
+    "reference_answer": "Translates EVM bytecode into control flow graphs, accumulates path conditions symbolically, and queries Z3 solver to detect reentrancy and integer overflows."
+  },
+  {
+    "query_id": "Q294",
+    "query": "Derive the mathematical equations for thermal noise (Johnson-Nyquist noise) and shot noise in semiconductor p-n junctions.",
+    "category": "Hard",
+    "difficulty_score": 0.924,
+    "domain": "Semiconductor Physics",
+    "expected_capability": "Solid state physics derivation",
+    "reference_answer": "Applies fluctuation-dissipation theorem to calculate Johnson noise spectral density 4kTR; analyzes Poisson arrival of discrete carriers for shot noise 2qI."
+  },
+  {
+    "query_id": "Q295",
+    "query": "Synthesize an end-to-end multi-agent orchestration framework implementing democratic consensus, debate protocols, and memory reflection.",
+    "category": "Hard",
+    "difficulty_score": 0.937,
+    "domain": "AI Agent Architecture",
+    "expected_capability": "Agentic systems engineering",
+    "reference_answer": "Orchestrates multi-agent debate loops with role specializations, recursive self-reflection buffers, and weighted vote tallying to prevent hallucination cascades."
+  },
+  {
+    "query_id": "Q296",
+    "query": "Formulate the mathematics of diffusion model score matching (Denoising Score Matching) and prove equivalence to continuous Langevin dynamics.",
+    "category": "Hard",
+    "difficulty_score": 0.948,
+    "domain": "Machine Learning",
+    "expected_capability": "Generative probability proof",
+    "reference_answer": "Proves that minimizing expectation of ||s_theta(x_t, t) - grad_x log p(x_t | x_0)||^2 directly learns the score function of data distribution."
+  },
+  {
+    "query_id": "Q297",
+    "query": "Architect a high-performance memory-mapped columnar analytical database engine in Rust utilizing SIMD vectorization and Apache Arrow.",
+    "category": "Hard",
+    "difficulty_score": 0.957,
+    "domain": "Database Engineering",
+    "expected_capability": "Columnar database engineering",
+    "reference_answer": "Zero-copy query execution over Arrow RecordBatches, generating vectorized AVX2 filter kernels and multi-threaded parallel hash aggregations via Rayon."
+  },
+  {
+    "query_id": "Q298",
+    "query": "Derive the relativistic hydrodynamic equations for a viscous quark-gluon plasma created in relativistic heavy-ion collisions.",
+    "category": "Hard",
+    "difficulty_score": 0.965,
+    "domain": "Nuclear Physics",
+    "expected_capability": "High energy physics derivation",
+    "reference_answer": "Expands energy-momentum tensor T^(mu nu) up to second order in dissipative gradients using Israel-Stewart relaxation equations."
+  },
+  {
+    "query_id": "Q299",
+    "query": "Formulate a complete proof of the PCP Theorem (Probabilistically Checkable Proofs) and its implications for hardness of approximation.",
+    "category": "Hard",
+    "difficulty_score": 0.977,
+    "domain": "Theoretical CS",
+    "expected_capability": "Computational complexity proof",
+    "reference_answer": "Proof outline showing NP = PCP(O(log n), O(1)), showing that verifying proofs with logarithmic random coins and constant queries proves MAX-3SAT hardness."
+  },
+  {
+    "query_id": "Q300",
+    "query": "Synthesize an end-to-end resilient microgrid energy management controller combining stochastic dynamic programming and battery degradation models.",
+    "category": "Hard",
+    "difficulty_score": 0.98,
+    "domain": "Power Systems Engineering",
+    "expected_capability": "Smart grid optimization",
+    "reference_answer": "Formulates Bellman value iterations accounting for probabilistic renewable generation forecasts, wholesale electricity spot prices, and battery lithium plating limits."
+  }
+]

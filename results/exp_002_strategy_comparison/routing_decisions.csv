@@ -1,0 +1,271 @@
+id,experiment_id,query_id,strategy,predicted_difficulty,difficulty_score,confidence,selected_tier,selected_model,routing_reason,escalated,escalation_reason,created_at
+91,exp_002_strategy_comparison,Q084,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+92,exp_002_strategy_comparison,Q054,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+93,exp_002_strategy_comparison,Q071,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+94,exp_002_strategy_comparison,Q046,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+95,exp_002_strategy_comparison,Q045,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+96,exp_002_strategy_comparison,Q040,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+97,exp_002_strategy_comparison,Q023,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+98,exp_002_strategy_comparison,Q081,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+99,exp_002_strategy_comparison,Q011,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+100,exp_002_strategy_comparison,Q001,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+101,exp_002_strategy_comparison,Q019,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+102,exp_002_strategy_comparison,Q031,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:21:59
+103,exp_002_strategy_comparison,Q074,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+104,exp_002_strategy_comparison,Q034,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+105,exp_002_strategy_comparison,Q091,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+106,exp_002_strategy_comparison,Q284,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+107,exp_002_strategy_comparison,Q254,always_small,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:00
+108,exp_002_strategy_comparison,Q271,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+109,exp_002_strategy_comparison,Q246,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+110,exp_002_strategy_comparison,Q245,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+111,exp_002_strategy_comparison,Q240,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+112,exp_002_strategy_comparison,Q223,always_small,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:00
+113,exp_002_strategy_comparison,Q281,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+114,exp_002_strategy_comparison,Q211,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:00
+115,exp_002_strategy_comparison,Q201,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:01
+116,exp_002_strategy_comparison,Q219,always_small,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:01
+117,exp_002_strategy_comparison,Q231,always_small,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:01
+118,exp_002_strategy_comparison,Q274,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:01
+119,exp_002_strategy_comparison,Q234,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:01
+120,exp_002_strategy_comparison,Q291,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:01
+121,exp_002_strategy_comparison,Q184,always_small,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:01
+122,exp_002_strategy_comparison,Q154,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:01
+123,exp_002_strategy_comparison,Q171,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:01
+124,exp_002_strategy_comparison,Q146,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:01
+125,exp_002_strategy_comparison,Q145,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:01
+126,exp_002_strategy_comparison,Q140,always_small,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Substantive detail and derivations missing for high-complexity query.,2026-11-12 09:22:02
+127,exp_002_strategy_comparison,Q123,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+128,exp_002_strategy_comparison,Q181,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+129,exp_002_strategy_comparison,Q111,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+130,exp_002_strategy_comparison,Q101,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+131,exp_002_strategy_comparison,Q119,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+132,exp_002_strategy_comparison,Q131,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+133,exp_002_strategy_comparison,Q174,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+134,exp_002_strategy_comparison,Q134,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+135,exp_002_strategy_comparison,Q191,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:02
+136,exp_002_strategy_comparison,Q084,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:02
+137,exp_002_strategy_comparison,Q054,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:02
+138,exp_002_strategy_comparison,Q071,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+139,exp_002_strategy_comparison,Q046,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+140,exp_002_strategy_comparison,Q045,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+141,exp_002_strategy_comparison,Q040,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+142,exp_002_strategy_comparison,Q023,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+143,exp_002_strategy_comparison,Q081,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+144,exp_002_strategy_comparison,Q011,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+145,exp_002_strategy_comparison,Q001,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+146,exp_002_strategy_comparison,Q019,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+147,exp_002_strategy_comparison,Q031,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:03
+148,exp_002_strategy_comparison,Q074,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:04
+149,exp_002_strategy_comparison,Q034,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:04
+150,exp_002_strategy_comparison,Q091,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:04
+151,exp_002_strategy_comparison,Q284,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:04
+152,exp_002_strategy_comparison,Q254,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:04
+153,exp_002_strategy_comparison,Q271,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:04
+154,exp_002_strategy_comparison,Q246,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:04
+155,exp_002_strategy_comparison,Q245,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:04
+156,exp_002_strategy_comparison,Q240,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:05
+157,exp_002_strategy_comparison,Q223,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:05
+158,exp_002_strategy_comparison,Q281,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:05
+159,exp_002_strategy_comparison,Q211,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:05
+160,exp_002_strategy_comparison,Q201,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:05
+161,exp_002_strategy_comparison,Q219,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:05
+162,exp_002_strategy_comparison,Q231,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:05
+163,exp_002_strategy_comparison,Q274,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+164,exp_002_strategy_comparison,Q234,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+165,exp_002_strategy_comparison,Q291,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+166,exp_002_strategy_comparison,Q184,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+167,exp_002_strategy_comparison,Q154,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+168,exp_002_strategy_comparison,Q171,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+169,exp_002_strategy_comparison,Q146,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+170,exp_002_strategy_comparison,Q145,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+171,exp_002_strategy_comparison,Q140,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:06
+172,exp_002_strategy_comparison,Q123,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+173,exp_002_strategy_comparison,Q181,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+174,exp_002_strategy_comparison,Q111,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+175,exp_002_strategy_comparison,Q101,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+176,exp_002_strategy_comparison,Q119,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+177,exp_002_strategy_comparison,Q131,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+178,exp_002_strategy_comparison,Q174,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+179,exp_002_strategy_comparison,Q134,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+180,exp_002_strategy_comparison,Q191,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:07
+181,exp_002_strategy_comparison,Q084,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+182,exp_002_strategy_comparison,Q054,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+183,exp_002_strategy_comparison,Q071,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+184,exp_002_strategy_comparison,Q046,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+185,exp_002_strategy_comparison,Q045,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+186,exp_002_strategy_comparison,Q040,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+187,exp_002_strategy_comparison,Q023,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+188,exp_002_strategy_comparison,Q081,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+189,exp_002_strategy_comparison,Q011,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+190,exp_002_strategy_comparison,Q001,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+191,exp_002_strategy_comparison,Q019,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+192,exp_002_strategy_comparison,Q031,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+193,exp_002_strategy_comparison,Q074,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+194,exp_002_strategy_comparison,Q034,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+195,exp_002_strategy_comparison,Q091,rule_based,Easy,0.18,1.0,small,qwen2.5:3b,Rule-based: Low complexity score (0.18 < 0.40).,0,,2026-11-12 09:22:08
+196,exp_002_strategy_comparison,Q284,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:08
+197,exp_002_strategy_comparison,Q254,rule_based,Medium,0.52,1.0,large,qwen2.5:7b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:09
+198,exp_002_strategy_comparison,Q271,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:09
+199,exp_002_strategy_comparison,Q246,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:09
+200,exp_002_strategy_comparison,Q245,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:09
+201,exp_002_strategy_comparison,Q240,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:09
+202,exp_002_strategy_comparison,Q223,rule_based,Medium,0.52,1.0,large,qwen2.5:7b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:09
+203,exp_002_strategy_comparison,Q281,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:09
+204,exp_002_strategy_comparison,Q211,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:10
+205,exp_002_strategy_comparison,Q201,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:10
+206,exp_002_strategy_comparison,Q219,rule_based,Medium,0.52,1.0,large,qwen2.5:7b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:10
+207,exp_002_strategy_comparison,Q231,rule_based,Medium,0.52,1.0,large,qwen2.5:7b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:10
+208,exp_002_strategy_comparison,Q274,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:10
+209,exp_002_strategy_comparison,Q234,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:10
+210,exp_002_strategy_comparison,Q291,rule_based,Medium,0.52,1.0,small,qwen2.5:3b,"Rule-based: Moderate complexity score (0.52 in [0.40, 0.70)).",0,,2026-11-12 09:22:10
+211,exp_002_strategy_comparison,Q184,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:10
+212,exp_002_strategy_comparison,Q154,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:10
+213,exp_002_strategy_comparison,Q171,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:10
+214,exp_002_strategy_comparison,Q146,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:10
+215,exp_002_strategy_comparison,Q145,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+216,exp_002_strategy_comparison,Q140,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+217,exp_002_strategy_comparison,Q123,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+218,exp_002_strategy_comparison,Q181,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+219,exp_002_strategy_comparison,Q111,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+220,exp_002_strategy_comparison,Q101,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+221,exp_002_strategy_comparison,Q119,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+222,exp_002_strategy_comparison,Q131,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+223,exp_002_strategy_comparison,Q174,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:11
+224,exp_002_strategy_comparison,Q134,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:12
+225,exp_002_strategy_comparison,Q191,rule_based,Hard,0.86,1.0,large,qwen2.5:7b,Rule-based: High complexity score (0.86 >= 0.70).,0,,2026-11-12 09:22:12
+226,exp_002_strategy_comparison,Q084,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+227,exp_002_strategy_comparison,Q054,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+228,exp_002_strategy_comparison,Q071,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+229,exp_002_strategy_comparison,Q046,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+230,exp_002_strategy_comparison,Q045,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+231,exp_002_strategy_comparison,Q040,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+232,exp_002_strategy_comparison,Q023,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+233,exp_002_strategy_comparison,Q081,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+234,exp_002_strategy_comparison,Q011,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+235,exp_002_strategy_comparison,Q001,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+236,exp_002_strategy_comparison,Q019,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+237,exp_002_strategy_comparison,Q031,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:12
+238,exp_002_strategy_comparison,Q074,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:13
+239,exp_002_strategy_comparison,Q034,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:13
+240,exp_002_strategy_comparison,Q091,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:13
+241,exp_002_strategy_comparison,Q284,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:13
+242,exp_002_strategy_comparison,Q254,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:13
+243,exp_002_strategy_comparison,Q271,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:13
+244,exp_002_strategy_comparison,Q246,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:13
+245,exp_002_strategy_comparison,Q245,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:13
+246,exp_002_strategy_comparison,Q240,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:13
+247,exp_002_strategy_comparison,Q223,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:13
+248,exp_002_strategy_comparison,Q281,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:13
+249,exp_002_strategy_comparison,Q211,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:13
+250,exp_002_strategy_comparison,Q201,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:14
+251,exp_002_strategy_comparison,Q219,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:14
+252,exp_002_strategy_comparison,Q231,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:14
+253,exp_002_strategy_comparison,Q274,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:14
+254,exp_002_strategy_comparison,Q234,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:14
+255,exp_002_strategy_comparison,Q291,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:14
+256,exp_002_strategy_comparison,Q184,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:14
+257,exp_002_strategy_comparison,Q154,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:14
+258,exp_002_strategy_comparison,Q171,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:14
+259,exp_002_strategy_comparison,Q146,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:14
+260,exp_002_strategy_comparison,Q145,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+261,exp_002_strategy_comparison,Q140,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+262,exp_002_strategy_comparison,Q123,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+263,exp_002_strategy_comparison,Q181,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+264,exp_002_strategy_comparison,Q111,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+265,exp_002_strategy_comparison,Q101,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+266,exp_002_strategy_comparison,Q119,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+267,exp_002_strategy_comparison,Q131,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+268,exp_002_strategy_comparison,Q174,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:15
+269,exp_002_strategy_comparison,Q134,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:16
+270,exp_002_strategy_comparison,Q191,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:16
+271,exp_002_strategy_comparison,Q084,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+272,exp_002_strategy_comparison,Q054,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+273,exp_002_strategy_comparison,Q071,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+274,exp_002_strategy_comparison,Q046,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+275,exp_002_strategy_comparison,Q045,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+276,exp_002_strategy_comparison,Q040,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+277,exp_002_strategy_comparison,Q023,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+278,exp_002_strategy_comparison,Q081,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+279,exp_002_strategy_comparison,Q011,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+280,exp_002_strategy_comparison,Q001,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+281,exp_002_strategy_comparison,Q019,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+282,exp_002_strategy_comparison,Q031,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+283,exp_002_strategy_comparison,Q074,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+284,exp_002_strategy_comparison,Q034,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:16
+285,exp_002_strategy_comparison,Q091,confidence_based,Easy,0.18,1.0,small,qwen2.5:3b,Confidence routing: Confirmed Easy query (conf 1.00).,0,,2026-11-12 09:22:17
+286,exp_002_strategy_comparison,Q284,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:17
+287,exp_002_strategy_comparison,Q254,confidence_based,Medium,0.52,1.0,large,qwen2.5:7b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:17
+288,exp_002_strategy_comparison,Q271,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:17
+289,exp_002_strategy_comparison,Q246,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:17
+290,exp_002_strategy_comparison,Q245,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:17
+291,exp_002_strategy_comparison,Q240,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:17
+292,exp_002_strategy_comparison,Q223,confidence_based,Medium,0.52,1.0,large,qwen2.5:7b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:17
+293,exp_002_strategy_comparison,Q281,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:17
+294,exp_002_strategy_comparison,Q211,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:17
+295,exp_002_strategy_comparison,Q201,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:17
+296,exp_002_strategy_comparison,Q219,confidence_based,Medium,0.52,1.0,large,qwen2.5:7b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:18
+297,exp_002_strategy_comparison,Q231,confidence_based,Medium,0.52,1.0,large,qwen2.5:7b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:18
+298,exp_002_strategy_comparison,Q274,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:18
+299,exp_002_strategy_comparison,Q234,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:18
+300,exp_002_strategy_comparison,Q291,confidence_based,Medium,0.52,1.0,small,qwen2.5:3b,Confidence routing: Medium query with high confidence (1.00 >= 0.75).,0,,2026-11-12 09:22:18
+301,exp_002_strategy_comparison,Q184,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:18
+302,exp_002_strategy_comparison,Q154,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:18
+303,exp_002_strategy_comparison,Q171,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:18
+304,exp_002_strategy_comparison,Q146,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:18
+305,exp_002_strategy_comparison,Q145,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:18
+306,exp_002_strategy_comparison,Q140,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+307,exp_002_strategy_comparison,Q123,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+308,exp_002_strategy_comparison,Q181,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+309,exp_002_strategy_comparison,Q111,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+310,exp_002_strategy_comparison,Q101,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+311,exp_002_strategy_comparison,Q119,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+312,exp_002_strategy_comparison,Q131,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+313,exp_002_strategy_comparison,Q174,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+314,exp_002_strategy_comparison,Q134,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:19
+315,exp_002_strategy_comparison,Q191,confidence_based,Hard,0.86,1.0,large,qwen2.5:7b,Confidence routing: Confirmed Hard query (conf 1.00).,0,,2026-11-12 09:22:20
+316,exp_002_strategy_comparison,Q084,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+317,exp_002_strategy_comparison,Q054,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+318,exp_002_strategy_comparison,Q071,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+319,exp_002_strategy_comparison,Q046,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+320,exp_002_strategy_comparison,Q045,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+321,exp_002_strategy_comparison,Q040,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+322,exp_002_strategy_comparison,Q023,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+323,exp_002_strategy_comparison,Q081,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+324,exp_002_strategy_comparison,Q011,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+325,exp_002_strategy_comparison,Q001,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+326,exp_002_strategy_comparison,Q019,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+327,exp_002_strategy_comparison,Q031,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+328,exp_002_strategy_comparison,Q074,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+329,exp_002_strategy_comparison,Q034,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+330,exp_002_strategy_comparison,Q091,cascade,Easy,0.18,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Easy query.,0,,2026-11-12 09:22:20
+331,exp_002_strategy_comparison,Q284,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:21
+332,exp_002_strategy_comparison,Q254,cascade,Medium,0.52,1.0,large,qwen2.5:7b,Cascade: Initial pass allocated to small model for Medium query.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:21
+333,exp_002_strategy_comparison,Q271,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:21
+334,exp_002_strategy_comparison,Q246,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:21
+335,exp_002_strategy_comparison,Q245,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:21
+336,exp_002_strategy_comparison,Q240,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:21
+337,exp_002_strategy_comparison,Q223,cascade,Medium,0.52,1.0,large,qwen2.5:7b,Cascade: Initial pass allocated to small model for Medium query.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:21
+338,exp_002_strategy_comparison,Q281,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:21
+339,exp_002_strategy_comparison,Q211,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:21
+340,exp_002_strategy_comparison,Q201,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:21
+341,exp_002_strategy_comparison,Q219,cascade,Medium,0.52,1.0,large,qwen2.5:7b,Cascade: Initial pass allocated to small model for Medium query.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:22
+342,exp_002_strategy_comparison,Q231,cascade,Medium,0.52,1.0,large,qwen2.5:7b,Cascade: Initial pass allocated to small model for Medium query.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:22
+343,exp_002_strategy_comparison,Q274,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:22
+344,exp_002_strategy_comparison,Q234,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:22
+345,exp_002_strategy_comparison,Q291,cascade,Medium,0.52,1.0,small,qwen2.5:3b,Cascade: Initial pass allocated to small model for Medium query.,0,,2026-11-12 09:22:22
+346,exp_002_strategy_comparison,Q184,cascade,Hard,0.86,1.0,large,qwen2.5:7b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:22
+347,exp_002_strategy_comparison,Q154,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:22
+348,exp_002_strategy_comparison,Q171,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:22
+349,exp_002_strategy_comparison,Q146,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:22
+350,exp_002_strategy_comparison,Q145,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:22
+351,exp_002_strategy_comparison,Q140,cascade,Hard,0.86,1.0,large,qwen2.5:7b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,1,Substantive detail and derivations missing for high-complexity query.,2026-11-12 09:22:23
+352,exp_002_strategy_comparison,Q123,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23
+353,exp_002_strategy_comparison,Q181,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23
+354,exp_002_strategy_comparison,Q111,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23
+355,exp_002_strategy_comparison,Q101,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23
+356,exp_002_strategy_comparison,Q119,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23
+357,exp_002_strategy_comparison,Q131,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23
+358,exp_002_strategy_comparison,Q174,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23
+359,exp_002_strategy_comparison,Q134,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23
+360,exp_002_strategy_comparison,Q191,cascade,Hard,0.86,1.0,small,qwen2.5:3b,Cascade: Optimistic initial pass allocated to small model to evaluate sufficiency.,0,,2026-11-12 09:22:23

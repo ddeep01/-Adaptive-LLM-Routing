@@ -1,0 +1,136 @@
+id,experiment_id,query_id,strategy,predicted_difficulty,difficulty_score,confidence,selected_tier,selected_model,routing_reason,escalated,escalation_reason,created_at
+451,exp_004_quality_cost_pareto,Q084,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+452,exp_004_quality_cost_pareto,Q054,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+453,exp_004_quality_cost_pareto,Q071,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+454,exp_004_quality_cost_pareto,Q046,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+455,exp_004_quality_cost_pareto,Q045,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+456,exp_004_quality_cost_pareto,Q040,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+457,exp_004_quality_cost_pareto,Q023,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+458,exp_004_quality_cost_pareto,Q081,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+459,exp_004_quality_cost_pareto,Q011,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+460,exp_004_quality_cost_pareto,Q001,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+461,exp_004_quality_cost_pareto,Q019,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+462,exp_004_quality_cost_pareto,Q031,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+463,exp_004_quality_cost_pareto,Q074,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+464,exp_004_quality_cost_pareto,Q034,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:32
+465,exp_004_quality_cost_pareto,Q091,always_small,Easy,0.18,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:33
+466,exp_004_quality_cost_pareto,Q284,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:33
+467,exp_004_quality_cost_pareto,Q254,always_small,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:33
+468,exp_004_quality_cost_pareto,Q271,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:33
+469,exp_004_quality_cost_pareto,Q246,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:33
+470,exp_004_quality_cost_pareto,Q245,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:33
+471,exp_004_quality_cost_pareto,Q240,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:33
+472,exp_004_quality_cost_pareto,Q223,always_small,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:33
+473,exp_004_quality_cost_pareto,Q281,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:33
+474,exp_004_quality_cost_pareto,Q211,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:33
+475,exp_004_quality_cost_pareto,Q201,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:34
+476,exp_004_quality_cost_pareto,Q219,always_small,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:34
+477,exp_004_quality_cost_pareto,Q231,always_small,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:34
+478,exp_004_quality_cost_pareto,Q274,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:34
+479,exp_004_quality_cost_pareto,Q234,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:34
+480,exp_004_quality_cost_pareto,Q291,always_small,Medium,0.52,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:34
+481,exp_004_quality_cost_pareto,Q184,always_small,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:34
+482,exp_004_quality_cost_pareto,Q154,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:34
+483,exp_004_quality_cost_pareto,Q171,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:34
+484,exp_004_quality_cost_pareto,Q146,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+485,exp_004_quality_cost_pareto,Q145,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+486,exp_004_quality_cost_pareto,Q140,always_small,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_small': Every query is assigned to the small model.,1,Substantive detail and derivations missing for high-complexity query.,2026-11-12 09:22:35
+487,exp_004_quality_cost_pareto,Q123,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+488,exp_004_quality_cost_pareto,Q181,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+489,exp_004_quality_cost_pareto,Q111,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+490,exp_004_quality_cost_pareto,Q101,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+491,exp_004_quality_cost_pareto,Q119,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+492,exp_004_quality_cost_pareto,Q131,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+493,exp_004_quality_cost_pareto,Q174,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:35
+494,exp_004_quality_cost_pareto,Q134,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:36
+495,exp_004_quality_cost_pareto,Q191,always_small,Hard,0.86,1.0,small,qwen2.5:3b,Strategy 'always_small': Every query is assigned to the small model.,0,,2026-11-12 09:22:36
+496,exp_004_quality_cost_pareto,Q084,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:36
+497,exp_004_quality_cost_pareto,Q054,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:36
+498,exp_004_quality_cost_pareto,Q071,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:36
+499,exp_004_quality_cost_pareto,Q046,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:36
+500,exp_004_quality_cost_pareto,Q045,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:36
+501,exp_004_quality_cost_pareto,Q040,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:36
+502,exp_004_quality_cost_pareto,Q023,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:36
+503,exp_004_quality_cost_pareto,Q081,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+504,exp_004_quality_cost_pareto,Q011,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+505,exp_004_quality_cost_pareto,Q001,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+506,exp_004_quality_cost_pareto,Q019,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+507,exp_004_quality_cost_pareto,Q031,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+508,exp_004_quality_cost_pareto,Q074,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+509,exp_004_quality_cost_pareto,Q034,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+510,exp_004_quality_cost_pareto,Q091,always_large,Easy,0.18,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+511,exp_004_quality_cost_pareto,Q284,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+512,exp_004_quality_cost_pareto,Q254,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:37
+513,exp_004_quality_cost_pareto,Q271,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+514,exp_004_quality_cost_pareto,Q246,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+515,exp_004_quality_cost_pareto,Q245,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+516,exp_004_quality_cost_pareto,Q240,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+517,exp_004_quality_cost_pareto,Q223,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+518,exp_004_quality_cost_pareto,Q281,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+519,exp_004_quality_cost_pareto,Q211,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+520,exp_004_quality_cost_pareto,Q201,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+521,exp_004_quality_cost_pareto,Q219,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:38
+522,exp_004_quality_cost_pareto,Q231,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:39
+523,exp_004_quality_cost_pareto,Q274,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:39
+524,exp_004_quality_cost_pareto,Q234,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:39
+525,exp_004_quality_cost_pareto,Q291,always_large,Medium,0.52,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:39
+526,exp_004_quality_cost_pareto,Q184,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:39
+527,exp_004_quality_cost_pareto,Q154,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:39
+528,exp_004_quality_cost_pareto,Q171,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:39
+529,exp_004_quality_cost_pareto,Q146,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:39
+530,exp_004_quality_cost_pareto,Q145,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+531,exp_004_quality_cost_pareto,Q140,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+532,exp_004_quality_cost_pareto,Q123,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+533,exp_004_quality_cost_pareto,Q181,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+534,exp_004_quality_cost_pareto,Q111,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+535,exp_004_quality_cost_pareto,Q101,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+536,exp_004_quality_cost_pareto,Q119,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+537,exp_004_quality_cost_pareto,Q131,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+538,exp_004_quality_cost_pareto,Q174,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:40
+539,exp_004_quality_cost_pareto,Q134,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:41
+540,exp_004_quality_cost_pareto,Q191,always_large,Hard,0.86,1.0,large,qwen2.5:7b,Strategy 'always_large': Every query is assigned to the large model.,0,,2026-11-12 09:22:41
+541,exp_004_quality_cost_pareto,Q084,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+542,exp_004_quality_cost_pareto,Q054,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+543,exp_004_quality_cost_pareto,Q071,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+544,exp_004_quality_cost_pareto,Q046,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+545,exp_004_quality_cost_pareto,Q045,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+546,exp_004_quality_cost_pareto,Q040,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+547,exp_004_quality_cost_pareto,Q023,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+548,exp_004_quality_cost_pareto,Q081,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+549,exp_004_quality_cost_pareto,Q011,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+550,exp_004_quality_cost_pareto,Q001,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+551,exp_004_quality_cost_pareto,Q019,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+552,exp_004_quality_cost_pareto,Q031,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+553,exp_004_quality_cost_pareto,Q074,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:41
+554,exp_004_quality_cost_pareto,Q034,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:42
+555,exp_004_quality_cost_pareto,Q091,adaptive,Easy,0.18,1.0,small,qwen2.5:3b,ML Adaptive: Easy complexity query (score 0.18).,0,,2026-11-12 09:22:42
+556,exp_004_quality_cost_pareto,Q284,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:42
+557,exp_004_quality_cost_pareto,Q254,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:42
+558,exp_004_quality_cost_pareto,Q271,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:42
+559,exp_004_quality_cost_pareto,Q246,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:42
+560,exp_004_quality_cost_pareto,Q245,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:42
+561,exp_004_quality_cost_pareto,Q240,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:42
+562,exp_004_quality_cost_pareto,Q223,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:42
+563,exp_004_quality_cost_pareto,Q281,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:42
+564,exp_004_quality_cost_pareto,Q211,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:42
+565,exp_004_quality_cost_pareto,Q201,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:42
+566,exp_004_quality_cost_pareto,Q219,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:43
+567,exp_004_quality_cost_pareto,Q231,adaptive,Medium,0.52,1.0,large,qwen2.5:7b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,1,Model expressed explicit uncertainty or lack of knowledge: 'i am not sure',2026-11-12 09:22:43
+568,exp_004_quality_cost_pareto,Q274,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:43
+569,exp_004_quality_cost_pareto,Q234,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:43
+570,exp_004_quality_cost_pareto,Q291,adaptive,Medium,0.52,1.0,small,qwen2.5:3b,ML Adaptive: Manageable Medium query routed to small model (score 0.52).,0,,2026-11-12 09:22:43
+571,exp_004_quality_cost_pareto,Q184,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:43
+572,exp_004_quality_cost_pareto,Q154,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:43
+573,exp_004_quality_cost_pareto,Q171,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:43
+574,exp_004_quality_cost_pareto,Q146,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:43
+575,exp_004_quality_cost_pareto,Q145,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:44
+576,exp_004_quality_cost_pareto,Q140,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:44
+577,exp_004_quality_cost_pareto,Q123,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:44
+578,exp_004_quality_cost_pareto,Q181,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:44
+579,exp_004_quality_cost_pareto,Q111,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:44
+580,exp_004_quality_cost_pareto,Q101,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:44
+581,exp_004_quality_cost_pareto,Q119,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:44
+582,exp_004_quality_cost_pareto,Q131,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:45
+583,exp_004_quality_cost_pareto,Q174,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:45
+584,exp_004_quality_cost_pareto,Q134,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:45
+585,exp_004_quality_cost_pareto,Q191,adaptive,Hard,0.86,1.0,large,qwen2.5:7b,ML Adaptive: Hard complexity query requires frontier capabilities (score 0.86).,0,,2026-11-12 09:22:45

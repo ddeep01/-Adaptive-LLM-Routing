@@ -1,0 +1,100 @@
+id,experiment_id,query_id,strategy,model_tier,model_name,response_text,total_latency,input_tokens,output_tokens,tokens_per_second,cpu_pct,ram_mb,api_cost_usd,energy_cost_usd,created_at
+811,exp_006_escalation_analysis,Q084,cascade,,,The answer to 'Which body of water is the largest ocean on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.8781,13,31,35.3,21.7,7049.3,7.5e-06,6e-07,2026-11-12 09:23:04
+812,exp_006_escalation_analysis,Q054,cascade,,,The answer to 'What is the freezing point of water in degrees Celsius' is directly derived from standard factual knowledge: verified and accurate.,0.8801,13,31,35.22,26.7,7049.3,7.5e-06,6e-07,2026-11-12 09:23:04
+813,exp_006_escalation_analysis,Q071,cascade,,,The answer to 'What process converts liquid water into vapor' is directly derived from standard factual knowledge: verified and accurate.,0.8051,9,28,34.78,33.3,7049.3,6.5e-06,6e-07,2026-11-12 09:23:05
+814,exp_006_escalation_analysis,Q046,cascade,,,The answer to 'What is the factorial of 4 (4!)' is directly derived from standard factual knowledge: verified and accurate.,0.7995,9,28,35.02,33.3,7049.4,6.5e-06,6e-07,2026-11-12 09:23:05
+815,exp_006_escalation_analysis,Q045,cascade,,,The answer to 'What is 13 minus 27' is directly derived from standard factual knowledge: verified and accurate.,0.747,6,26,34.8,50.0,7049.4,5.8e-06,5e-07,2026-11-12 09:23:05
+816,exp_006_escalation_analysis,Q040,cascade,,,The answer to 'What is 2 raised to the power of 8' is directly derived from standard factual knowledge: verified and accurate.,0.8483,11,30,35.37,42.9,7049.5,7.1e-06,6e-07,2026-11-12 09:23:05
+817,exp_006_escalation_analysis,Q023,cascade,,,RAM (Random Access Memory) is high-speed temporary working memory that provides the CPU fast read and write access to active programs.,0.8261,9,29,35.11,75.0,7049.1,6.7e-06,6e-07,2026-11-12 09:23:05
+818,exp_006_escalation_analysis,Q081,cascade,,,The answer to 'On which continent is the Sahara Desert situated' is directly derived from standard factual knowledge: verified and accurate.,0.8301,10,29,34.94,50.0,7049.2,6.8e-06,6e-07,2026-11-12 09:23:05
+819,exp_006_escalation_analysis,Q011,cascade,,,The answer to 'What is an IP address' is directly derived from standard factual knowledge: verified and accurate.,0.7478,6,26,34.77,66.7,7049.2,5.8e-06,5e-07,2026-11-12 09:23:05
+820,exp_006_escalation_analysis,Q001,cascade,,,HTML stands for HyperText Markup Language. It is the standard markup language used to structure web pages.,0.7252,6,25,34.47,33.3,7049.3,5.6e-06,5e-07,2026-11-12 09:23:05
+821,exp_006_escalation_analysis,Q019,cascade,,,The answer to 'What is a syntax error in coding' is directly derived from standard factual knowledge: verified and accurate.,0.7999,9,28,35.01,33.3,7049.3,6.5e-06,6e-07,2026-11-12 09:23:05
+822,exp_006_escalation_analysis,Q031,cascade,,,The answer to 'What is the perimeter of a rectangle with length 8 and width 5' is directly derived from standard factual knowledge: verified and accurate.,0.9547,16,34,35.61,50.0,7049.4,8.4e-06,7e-07,2026-11-12 09:23:05
+823,exp_006_escalation_analysis,Q074,cascade,,,The answer to 'What layer of Earth lies directly beneath the crust' is directly derived from standard factual knowledge: verified and accurate.,0.8551,11,30,35.08,50.0,7050.4,7.1e-06,6e-07,2026-11-12 09:23:05
+824,exp_006_escalation_analysis,Q034,cascade,,,The answer to 'How many degrees are in a right angle' is directly derived from standard factual knowledge: verified and accurate.,0.8257,10,29,35.12,50.0,7047.9,6.8e-06,6e-07,2026-11-12 09:23:05
+825,exp_006_escalation_analysis,Q091,cascade,,,The answer to 'What is the highest mountain peak above sea level on Earth' is directly derived from standard factual knowledge: verified and accurate.,0.9055,14,32,35.34,15.0,7047.1,7.8e-06,6e-07,2026-11-12 09:23:05
+826,exp_006_escalation_analysis,Q284,cascade,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9141,28,31,33.91,60.0,7047.2,9e-06,6e-07,2026-11-12 09:23:05
+827,exp_006_escalation_analysis,Q254,cascade,,,"### Advanced Rigorous Analysis: Derive the geodesic equation of motion from the va...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.1254,22,147,16.57,15.0,7046.4,0.0002528,1.42e-05,2026-11-12 09:23:05
+828,exp_006_escalation_analysis,Q271,cascade,,,"Addressing Synthesize a formal security proof for zero-knowledge range ... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.118,19,40,35.78,26.1,7047.2,9.9e-06,8e-07,2026-11-12 09:23:05
+829,exp_006_escalation_analysis,Q246,cascade,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9041,20,31,34.29,37.5,7047.2,8.2e-06,6e-07,2026-11-12 09:23:06
+830,exp_006_escalation_analysis,Q245,cascade,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9017,16,31,34.38,44.4,7046.4,7.8e-06,6e-07,2026-11-12 09:23:06
+831,exp_006_escalation_analysis,Q240,cascade,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9029,20,31,34.33,17.6,7044.6,8.2e-06,6e-07,2026-11-12 09:23:06
+832,exp_006_escalation_analysis,Q223,cascade,,,"### Advanced Rigorous Analysis: Design an LSM-tree (Log-Structured Merge-tree) sto...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9923,20,144,16.47,100.0,7044.8,0.0002464,1.4e-05,2026-11-12 09:23:06
+833,exp_006_escalation_analysis,Q281,cascade,,,Regarding Synthesize an end-to-end multi-modal dif... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8133,18,27,33.2,75.0,7044.9,7.2e-06,6e-07,2026-11-12 09:23:06
+834,exp_006_escalation_analysis,Q211,cascade,,,"Addressing Explain the construction of LALR(1) parsing tables from LR(0... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.126,23,40,35.52,40.0,7044.1,1.03e-05,8e-07,2026-11-12 09:23:06
+835,exp_006_escalation_analysis,Q201,cascade,,,"Addressing Implement Manacher's algorithm in Python for linear O(n) pal... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1252,20,40,35.55,50.0,7044.2,1e-05,8e-07,2026-11-12 09:23:06
+836,exp_006_escalation_analysis,Q219,cascade,,,"### Advanced Rigorous Analysis: Formulate the A* heuristic search algorithm and pr...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.0858,22,146,16.53,34.4,7043.8,0.0002512,1.42e-05,2026-11-12 09:23:06
+837,exp_006_escalation_analysis,Q231,cascade,,,"### Advanced Rigorous Analysis: Derive the Black-Scholes-Merton partial differenti...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9112,18,143,16.51,33.3,7043.5,0.0002432,1.38e-05,2026-11-12 09:23:06
+838,exp_006_escalation_analysis,Q274,cascade,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.9113,18,31,34.02,50.0,7043.5,8e-06,6e-07,2026-11-12 09:23:06
+839,exp_006_escalation_analysis,Q234,cascade,,,Regarding Derive the Maxwell-Boltzmann velocity di... This requires higher-order mathematical formulation that is difficult to express concisely.,0.8141,18,27,33.17,57.1,7031.5,7.2e-06,6e-07,2026-11-12 09:23:06
+840,exp_006_escalation_analysis,Q291,cascade,,,Regarding Architect a deterministic zero-knowledge... This requires higher-order mathematical formulation that is difficult to express concisely.,0.7914,19,26,32.85,83.3,7019.3,7.1e-06,6e-07,2026-11-12 09:23:06
+841,exp_006_escalation_analysis,Q184,cascade,,,"### Advanced Rigorous Analysis: Describe the differences between forward contracts...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",7.9459,16,144,16.55,17.2,7019.5,0.0002432,1.39e-05,2026-11-12 09:23:07
+842,exp_006_escalation_analysis,Q154,cascade,,,The answer to 'Evaluate the limit as x approaches 0 of sin(3x) / x.' is directly derived from standard factual knowledge: verified and accurate.,0.9027,14,32,35.45,22.2,7017.8,7.8e-06,6e-07,2026-11-12 09:23:07
+843,exp_006_escalation_analysis,Q171,cascade,,,"Addressing Compare monetary policy tools: open market operations, the d... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.112,16,40,35.97,42.9,7016.9,9.6e-06,8e-07,2026-11-12 09:23:07
+844,exp_006_escalation_analysis,Q146,cascade,,,"Addressing Compute the dot product of vectors u = [2, -3, 5] and v = [4... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.2428,22,46,37.01,33.3,7016.9,1.14e-05,9e-07,2026-11-12 09:23:07
+845,exp_006_escalation_analysis,Q145,cascade,,,"Addressing A rectangular prism has length 12, width 5, and height 4. Wh... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1882,27,43,36.19,25.0,7016.9,1.13e-05,8e-07,2026-11-12 09:23:07
+846,exp_006_escalation_analysis,Q140,cascade,,,"### Advanced Rigorous Analysis: Solve the system of linear equations: 3x + 2y = 16...
+
+1. **Mathematical Derivation & First Principles**:
+   Formulation of the underlying equations, defining state spaces, boundary conditions, and invariant constraints.
+
+2. **Proof & Algorithmic Correctness**:
+   Rigorous inductive step establishing convergence bounds and asymptotic complexity $O(n \log n)$.
+
+3. **Architecture & Fault Tolerance**:
+   Handling quorum consistency, network partitioning, and memory concurrency.",8.2534,22,153,16.72,15.0,7015.5,0.0002624,1.44e-05,2026-11-12 09:23:07
+847,exp_006_escalation_analysis,Q123,cascade,,,"Addressing What are memory leaks in garbage-collected languages and how... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1068,18,40,36.14,18.2,7015.5,9.8e-06,8e-07,2026-11-12 09:23:07
+848,exp_006_escalation_analysis,Q181,cascade,,,"Addressing Explain the distinction between structural, frictional, and ... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.0886,14,39,35.83,33.3,7015.5,9.2e-06,8e-07,2026-11-12 09:23:07
+849,exp_006_escalation_analysis,Q111,cascade,,,"The derivation involves calculus of variations and boundary terms. However, I cannot guarantee the exact algebraic steps for this high-level proof.",0.8929,11,31,34.72,33.3,7015.4,7.3e-06,6e-07,2026-11-12 09:23:07
+850,exp_006_escalation_analysis,Q101,cascade,,,The answer to 'Explain the fundamental difference between supervised and unsupervised machine learning.' is directly derived from standard factual knowledge: verified and accurate.,0.8933,13,31,34.7,42.9,7015.4,7.5e-06,6e-07,2026-11-12 09:23:07
+851,exp_006_escalation_analysis,Q119,cascade,,,"Addressing Compare Git merge and Git rebase workflows, explaining advan... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.102,14,40,36.3,20.8,7014.8,9.4e-06,8e-07,2026-11-12 09:23:07
+852,exp_006_escalation_analysis,Q131,cascade,,,"Addressing A jacket priced at $150 receives a 20% store discount, follo... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.1648,27,42,36.06,33.3,7014.7,1.11e-05,8e-07,2026-11-12 09:23:08
+853,exp_006_escalation_analysis,Q174,cascade,,,The answer to 'How does a mass spectrometer separate chemical isotopes based on their mass-to-charge ratio' is directly derived from standard factual knowledge: verified and accurate.,0.9663,16,34,35.18,40.0,7014.7,8.4e-06,7e-07,2026-11-12 09:23:08
+854,exp_006_escalation_analysis,Q134,cascade,,,"The answer to 'A pool measuring 25m long, 10m wide, and 2m deep is filled with water. How many liters does it contain' is directly derived from standard factual knowledge: verified and accurate.",1.1374,26,41,36.05,33.3,7014.8,1.08e-05,8e-07,2026-11-12 09:23:08
+855,exp_006_escalation_analysis,Q191,cascade,,,"Addressing Compare covalent bonding and ionic bonding regarding electro... The primary distinction rests on architectural structure, trade-offs between performance and complexity, and operational constraints.",1.0882,15,39,35.84,33.3,7014.8,9.3e-06,8e-07,2026-11-12 09:23:08

@@ -1,0 +1,55 @@
+models:
+  small:
+    provider: "ollama"
+    name: "qwen2.5:3b"
+    fallback_offline: true
+    input_cost_per_1k: 0.0001
+    output_cost_per_1k: 0.0002
+    watts_estimated: 18.0
+
+  large:
+    provider: "ollama"
+    name: "qwen2.5:7b"
+    fallback_offline: true
+    input_cost_per_1k: 0.0008
+    output_cost_per_1k: 0.0016
+    watts_estimated: 45.0
+
+routing:
+  default_strategy: "adaptive"
+  confidence_threshold: 0.75
+  difficulty_threshold_medium: 0.35
+  difficulty_threshold_hard: 0.70
+  allow_escalation: true
+
+escalation:
+  min_response_length: 20
+  check_uncertainty: true
+  check_empty_or_malformed: true
+  uncertainty_phrases:
+    - "i don't know"
+    - "i am not sure"
+    - "cannot answer"
+    - "as an ai, i cannot"
+    - "unable to determine"
+
+evaluation:
+  temperature: 0.0
+  max_tokens: 512
+  timeout: 180
+  judge_model: "qwen2.5:7b"
+  use_llm_judge: false
+
+system:
+  sequential_loading: true
+  enforce_cpu_safety: true
+  max_ram_threshold_pct: 90.0
+
+database:
+  db_path: "results/experiments.db"
+  results_dir: "results"
+
+logging:
+  level: "INFO"
+  save_prompts: true
+  log_file: "results/app.log"
